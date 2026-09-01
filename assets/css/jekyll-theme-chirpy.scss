@@ -1,1 +1,76 @@
 
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+.bundle
+{%- endif -%}
+';
+
+/* ===== 맛집 블로그 커스텀 스타일 ===== */
+
+:root {
+  --food-accent: #b0452e;
+  --food-accent-soft: #f3e6df;
+}
+html[data-mode="dark"] {
+  --food-accent: #e08a6c;
+  --food-accent-soft: #3a2a22;
+}
+
+/* 사이드바 포인트 컬러 */
+#avatar {
+  box-shadow: 0 0 0 4px var(--food-accent-soft), 0 4px 14px rgba(0,0,0,0.15);
+}
+.site-title {
+  color: var(--food-accent) !important;
+}
+#sidebar .nav-item.active .nav-link,
+#sidebar .nav-link:hover {
+  color: var(--food-accent) !important;
+}
+
+/* 글 목록 카드 */
+.card-wrapper {
+  transition: transform .2s ease;
+  border-radius: 14px;
+}
+.card-wrapper:hover {
+  transform: translateY(-3px);
+}
+.card.post-preview {
+  border: none;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.07);
+  transition: box-shadow .2s ease;
+}
+.card-wrapper:hover .card.post-preview {
+  box-shadow: 0 10px 26px rgba(176,69,46,0.2);
+}
+.card-title {
+  font-weight: 700;
+}
+.card-wrapper:hover .card-title {
+  color: var(--food-accent);
+}
+
+/* 카테고리 뱃지 */
+.categories a {
+  color: var(--food-accent);
+  background: var(--food-accent-soft);
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: 0.78em;
+  font-weight: 600;
+  text-decoration: none;
+}
+.post-meta i {
+  color: var(--food-accent);
+  opacity: .85;
+}
+.pin {
+  color: var(--food-accent);
+}
