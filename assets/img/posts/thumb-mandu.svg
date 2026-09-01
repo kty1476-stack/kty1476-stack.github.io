@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C13236"/>
+      <stop offset="100%" stop-color="#711A1D"/>
+    </linearGradient>
+    <radialGradient id="manduBody" cx="35%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#F5D89A"/>
+      <stop offset="60%" stop-color="#E3B563"/>
+      <stop offset="100%" stop-color="#B9843A"/>
+    </radialGradient>
+    <radialGradient id="plateShadow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg2)"/>
+
+  <g opacity="0.08" fill="#ffffff">
+    <circle cx="110" cy="80" r="4"/>
+    <circle cx="1090" cy="110" r="5"/>
+    <circle cx="1000" cy="70" r="3"/>
+    <circle cx="70" cy="500" r="4"/>
+  </g>
+
+  <!-- category badge -->
+  <rect x="64" y="64" width="176" height="52" rx="26" fill="#ffffff"/>
+  <text x="152" y="98" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="700" fill="#711A1D" text-anchor="middle">생활의 달인</text>
+
+  <!-- plate shadow -->
+  <ellipse cx="600" cy="380" rx="320" ry="60" fill="url(#plateShadow2)"/>
+
+  <!-- three dumplings, crescent shapes -->
+  <g>
+    <!-- left dumpling -->
+    <path d="M 380 340 C 380 260 460 210 540 240 C 600 262 610 330 560 360 C 500 396 380 400 380 340 Z" fill="url(#manduBody)" stroke="#8A5A22" stroke-width="5"/>
+    <path d="M 400 320 C 430 290 480 270 530 285" fill="none" stroke="#8A5A22" stroke-width="6" stroke-linecap="round"/>
+
+    <!-- middle dumpling (front, bigger) -->
+    <path d="M 520 400 C 500 300 610 240 710 280 C 790 312 800 400 730 440 C 650 486 520 480 520 400 Z" fill="url(#manduBody)" stroke="#8A5A22" stroke-width="6"/>
+    <path d="M 550 370 C 590 330 660 305 720 325" fill="none" stroke="#8A5A22" stroke-width="7" stroke-linecap="round"/>
+
+    <!-- right dumpling -->
+    <path d="M 680 340 C 690 270 770 230 830 268 C 880 298 880 355 830 380 C 770 410 680 400 680 340 Z" fill="url(#manduBody)" stroke="#8A5A22" stroke-width="5"/>
+    <path d="M 700 320 C 730 292 780 275 820 288" fill="none" stroke="#8A5A22" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- fried browning spots -->
+  <g fill="#9A5F1E" opacity="0.5">
+    <ellipse cx="620" cy="420" rx="22" ry="12"/>
+    <ellipse cx="700" cy="440" rx="18" ry="10"/>
+    <ellipse cx="450" cy="330" rx="16" ry="9"/>
+  </g>
+
+  <!-- steam -->
+  <g stroke="#ffffff" stroke-width="7" stroke-linecap="round" fill="none" opacity="0.55">
+    <path d="M 600 220 C 590 190 620 175 610 145"/>
+    <path d="M 660 210 C 650 180 680 165 670 135"/>
+    <path d="M 540 215 C 530 188 558 172 548 145"/>
+  </g>
+
+  <!-- bottom title bar -->
+  <rect x="0" y="470" width="1200" height="160" fill="#000000" opacity="0.35"/>
+  <text x="64" y="545" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="46" font-weight="800" fill="#ffffff">인생만두, 군만두 달인</text>
+  <text x="64" y="590" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="500" fill="#ffffff" opacity="0.85">원주 동승루</text>
+</svg>
+
