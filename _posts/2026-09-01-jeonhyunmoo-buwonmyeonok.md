@@ -3,6 +3,7 @@ title: "[전현무계획] 노포의 손맛에 반하다, 남대문시장 부원�
 date: 2026-09-01 11:00:00 +0900
 categories: [전현무계획]
 tags: [전현무계획]
+image: /assets/img/posts/thumb-bindaetteok.svg
 ---
 
 <!-- prettier-ignore -->
