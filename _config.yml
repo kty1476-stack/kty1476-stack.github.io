@@ -19,10 +19,8 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 오늘의 맛집 # the main title
-
-tagline: 방송 맛집 정보와 직접 다녀온 후기 # it will display as the subtitle
-
+title: 오늘의 맛집·생활정보 # the main title
+tagline: 방송 맛집 정보와 놓치기 아까운 생활 정보를 전해드려요 # it will display as the subtitle
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
