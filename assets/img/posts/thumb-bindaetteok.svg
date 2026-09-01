@@ -1,29 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
     <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#D9642F"/>
-      <stop offset="100%" stop-color="#8C3B1B"/>
+      <stop offset="0%" stop-color="#E07A3E"/>
+      <stop offset="55%" stop-color="#C4592B"/>
+      <stop offset="100%" stop-color="#7C3417"/>
     </linearGradient>
-    <radialGradient id="pancake" cx="42%" cy="38%" r="65%">
-      <stop offset="0%" stop-color="#F0B84E"/>
-      <stop offset="70%" stop-color="#D99A34"/>
-      <stop offset="100%" stop-color="#B87A24"/>
+    <radialGradient id="pancake" cx="40%" cy="34%" r="68%">
+      <stop offset="0%" stop-color="#F4C266"/>
+      <stop offset="55%" stop-color="#DE9C3E"/>
+      <stop offset="85%" stop-color="#BD7B27"/>
+      <stop offset="100%" stop-color="#9C601A"/>
     </radialGradient>
     <radialGradient id="plateShadow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.35"/>
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.4"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="plateInner" cx="42%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="70%" stop-color="#F1EAE0"/>
+      <stop offset="100%" stop-color="#E2D8C8"/>
+    </radialGradient>
+    <linearGradient id="plateRim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#CFC6B6"/>
+    </linearGradient>
+    <radialGradient id="sauceDish" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#3A241A"/>
+      <stop offset="100%" stop-color="#1C0F09"/>
+    </radialGradient>
+    <linearGradient id="chopstick" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B76A32"/>
+      <stop offset="100%" stop-color="#7C4419"/>
+    </linearGradient>
   </defs>
 
   <rect width="1200" height="630" fill="url(#bg1)"/>
 
-  <!-- subtle texture dots -->
+  <!-- subtle diagonal table texture -->
+  <g opacity="0.05" stroke="#FFFFFF" stroke-width="2">
+    <line x1="-100" y1="80" x2="1300" y2="580"/>
+    <line x1="-100" y1="180" x2="1300" y2="680"/>
+    <line x1="-100" y1="-20" x2="1300" y2="480"/>
+  </g>
   <g opacity="0.08" fill="#ffffff">
     <circle cx="120" cy="90" r="4"/>
     <circle cx="1080" cy="120" r="5"/>
     <circle cx="980" cy="60" r="3"/>
     <circle cx="60" cy="500" r="4"/>
-    <circle cx="1120" cy="520" r="4"/>
+    <circle cx="1140" cy="200" r="4"/>
   </g>
 
   <!-- category badge -->
@@ -31,41 +55,73 @@
   <text x="152" y="98" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="700" fill="#8C3B1B" text-anchor="middle">전현무계획</text>
 
   <!-- plate shadow -->
-  <ellipse cx="620" cy="330" rx="260" ry="255" fill="url(#plateShadow)"/>
+  <ellipse cx="600" cy="400" rx="300" ry="70" fill="url(#plateShadow)"/>
+
+  <!-- plate -->
+  <ellipse cx="600" cy="335" rx="290" ry="118" fill="url(#plateRim)"/>
+  <ellipse cx="600" cy="330" rx="262" ry="100" fill="url(#plateInner)"/>
+  <ellipse cx="600" cy="330" rx="150" ry="58" fill="none" stroke="#DCD2C0" stroke-width="3" opacity="0.7"/>
 
   <!-- pancake body -->
-  <circle cx="600" cy="300" r="230" fill="url(#pancake)" stroke="#7A4A16" stroke-width="6"/>
+  <ellipse cx="600" cy="322" rx="212" ry="82" fill="#7A4A16" opacity="0.25"/>
+  <circle cx="598" cy="308" r="196" fill="url(#pancake)" stroke="#6E4014" stroke-width="6"/>
+
+  <!-- glossy highlight -->
+  <ellipse cx="520" cy="235" rx="95" ry="46" fill="#FFFFFF" opacity="0.16" transform="rotate(-18 520 235)"/>
 
   <!-- fried texture blobs -->
-  <g fill="#A9701F" opacity="0.55">
-    <ellipse cx="520" cy="210" rx="34" ry="20" transform="rotate(-15 520 210)"/>
-    <ellipse cx="690" cy="250" rx="30" ry="18" transform="rotate(20 690 250)"/>
-    <ellipse cx="600" cy="380" rx="38" ry="22" transform="rotate(5 600 380)"/>
-    <ellipse cx="480" cy="360" rx="26" ry="16" transform="rotate(-25 480 360)"/>
-    <ellipse cx="700" cy="400" rx="24" ry="15" transform="rotate(15 700 400)"/>
+  <g fill="#9A6420" opacity="0.5">
+    <ellipse cx="520" cy="220" rx="32" ry="19" transform="rotate(-15 520 220)"/>
+    <ellipse cx="680" cy="255" rx="28" ry="17" transform="rotate(20 680 255)"/>
+    <ellipse cx="598" cy="378" rx="36" ry="21" transform="rotate(5 598 378)"/>
+    <ellipse cx="484" cy="352" rx="24" ry="15" transform="rotate(-25 484 352)"/>
+    <ellipse cx="690" cy="392" rx="22" ry="14" transform="rotate(15 690 392)"/>
+    <ellipse cx="560" cy="410" rx="20" ry="12" transform="rotate(-8 560 410)"/>
   </g>
 
   <!-- mung bean speckles -->
-  <g fill="#F4E2A8">
-    <circle cx="560" cy="260" r="6"/>
-    <circle cx="640" cy="300" r="5"/>
-    <circle cx="580" cy="340" r="5"/>
-    <circle cx="650" cy="230" r="4"/>
-    <circle cx="510" cy="300" r="4"/>
-    <circle cx="660" cy="360" r="5"/>
+  <g fill="#F7E7B8">
+    <circle cx="558" cy="262" r="6"/>
+    <circle cx="636" cy="298" r="5"/>
+    <circle cx="578" cy="338" r="5"/>
+    <circle cx="646" cy="232" r="4"/>
+    <circle cx="512" cy="300" r="4"/>
+    <circle cx="656" cy="356" r="5"/>
+    <circle cx="600" cy="200" r="4"/>
+    <circle cx="500" cy="260" r="4"/>
   </g>
 
   <!-- scallion strips -->
   <g stroke="#4E7A3C" stroke-width="10" stroke-linecap="round" opacity="0.85">
-    <line x1="540" y1="230" x2="580" y2="270"/>
-    <line x1="640" y1="340" x2="600" y2="380"/>
-    <line x1="480" y1="330" x2="520" y2="360"/>
-    <line x1="670" y1="270" x2="640" y2="240"/>
+    <line x1="538" y1="228" x2="578" y2="268"/>
+    <line x1="636" y1="336" x2="598" y2="376"/>
+    <line x1="478" y1="328" x2="518" y2="358"/>
+    <line x1="666" y1="266" x2="636" y2="236"/>
+    <line x1="600" y1="196" x2="632" y2="222"/>
+  </g>
+  <g fill="#3E6630" opacity="0.7">
+    <circle cx="538" cy="228" r="4"/>
+    <circle cx="636" cy="336" r="4"/>
+    <circle cx="478" cy="328" r="4"/>
+    <circle cx="666" cy="266" r="4"/>
+  </g>
+
+  <!-- crispy edge notch showing bite -->
+  <path d="M 760 290 C 780 268 792 300 776 316 C 762 328 748 306 760 290 Z" fill="url(#pancake)" stroke="#6E4014" stroke-width="4"/>
+
+  <!-- soy sauce dish -->
+  <ellipse cx="905" cy="440" rx="72" ry="30" fill="#F4EEE2"/>
+  <ellipse cx="905" cy="436" rx="55" ry="21" fill="url(#sauceDish)"/>
+  <ellipse cx="895" cy="428" rx="16" ry="6" fill="#ffffff" opacity="0.18"/>
+
+  <!-- chopsticks -->
+  <g transform="rotate(24 1010 380)">
+    <rect x="960" y="374" width="150" height="9" rx="4.5" fill="url(#chopstick)"/>
+    <rect x="960" y="390" width="150" height="9" rx="4.5" fill="url(#chopstick)"/>
   </g>
 
   <!-- bottom title bar -->
-  <rect x="0" y="470" width="1200" height="160" fill="#000000" opacity="0.32"/>
+  <rect x="0" y="470" width="1200" height="160" fill="#000000" opacity="0.34"/>
   <text x="64" y="545" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="46" font-weight="800" fill="#ffffff">노포의 손맛, 빈대떡</text>
   <text x="64" y="590" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="500" fill="#ffffff" opacity="0.85">남대문시장 부원면옥</text>
 </svg>
-
