@@ -14,10 +14,17 @@ script_includes:
 {% include toc-status.html %}
 
 <article class="px-1" data-toc="{{ enable_toc }}">
-  <div class="mb-3">
+  <div class="mb-3 d-flex flex-wrap align-items-center gap-2">
     <a href="{{ site.baseurl }}/" class="btn btn-outline-secondary btn-sm">
       <i class="fas fa-home fa-fw me-1"></i>{{ site.data.locales[lang].tabs.home }}
     </a>
+    {% assign sorted_categories = site.categories | sort %}
+    {% for category in sorted_categories %}
+      {% assign cat_name = category[0] %}
+      <a href="{{ site.baseurl }}/categories/{{ cat_name | slugify | url_encode }}/" class="btn btn-outline-secondary btn-sm">
+        <i class="far fa-folder-open fa-fw me-1"></i>{{ cat_name }}
+      </a>
+    {% endfor %}
   </div>
 
   <header>
@@ -185,4 +192,3 @@ script_includes:
   </div>
   <!-- div.post-tail-wrapper -->
 </article>
-
