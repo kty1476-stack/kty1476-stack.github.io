@@ -3,14 +3,16 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
+# 예약된(당일/미래 시각) 글도 바로 노출되도록 허용
+future: true
+
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
-
+timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
