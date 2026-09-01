@@ -43,6 +43,25 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--food-accent) !important;
 }
 
+/* 상단 경로(브레드크럼) 색상 */
+#breadcrumb {
+  font-weight: 600;
+}
+#breadcrumb > span {
+  color: var(--food-accent);
+}
+#breadcrumb > span a {
+  color: inherit;
+  text-decoration: none;
+}
+#breadcrumb > span a:hover {
+  text-decoration: underline;
+}
+#breadcrumb > span:last-child {
+  font-weight: 700;
+  opacity: 0.85;
+}
+
 /* 카테고리 바로가기 (홈 화면 상단) */
 .category-quicknav {
   gap: 0.5rem;
