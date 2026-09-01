@@ -3,6 +3,9 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
+
+# 홈 화면에 한 페이지당 보여줄 게시물 수
+paginate: 5
 # 예약된(당일/미래 시각) 글도 바로 노출되도록 허용
 future: true
 
