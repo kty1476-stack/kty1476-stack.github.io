@@ -3,6 +3,7 @@ title: "[맛있는 녀석들] 한 방 있는 빨간 맛, 안국역 신라제면 
 date: 2026-09-02 11:00:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
+image: /assets/img/posts/thumb-kalnakji.svg
 ---
 
 <!-- prettier-ignore -->
