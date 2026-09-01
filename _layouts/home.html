@@ -60,6 +60,7 @@ layout: default
         {% when '인기검색맛집' %}{% assign cat_color = '#3c7a89' %}
         {% when 'TV맛집' %}{% assign cat_color = '#b0452e' %}
         {% when '발로뛴 맛집' %}{% assign cat_color = '#7a5c8c' %}
+        {% when '정부지원금' %}{% assign cat_color = '#215c9e' %}
       {% endcase %}
       {% capture _category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
       <a href="{{ _category_url | relative_url }}" class="category-pill" style="--cat-color: {{ cat_color }};">{{ category_name }}</a>
@@ -78,6 +79,7 @@ layout: default
       {% when '인기검색맛집' %}{% assign cat_color = '#3c7a89' %}
       {% when 'TV맛집' %}{% assign cat_color = '#b0452e' %}
       {% when '발로뛴 맛집' %}{% assign cat_color = '#7a5c8c' %}
+      {% when '정부지원금' %}{% assign cat_color = '#215c9e' %}
     {% endcase %}
     <article class="card-wrapper card" style="--cat-color: {{ cat_color }};">
       <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
@@ -169,4 +171,3 @@ layout: default
 {% if paginator.total_pages > 1 %}
   {% include post-paginator.html %}
 {% endif %}
-
