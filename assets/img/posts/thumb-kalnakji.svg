@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E14A2B"/>
+      <stop offset="100%" stop-color="#8E1F1A"/>
+    </linearGradient>
+    <radialGradient id="bowlRim" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#E7E1D6"/>
+    </radialGradient>
+    <radialGradient id="broth" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#E23B24"/>
+      <stop offset="100%" stop-color="#9E1E12"/>
+    </radialGradient>
+    <radialGradient id="tableShadow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg3)"/>
+
+  <g opacity="0.08" fill="#ffffff">
+    <circle cx="120" cy="90" r="4"/>
+    <circle cx="1080" cy="120" r="5"/>
+    <circle cx="60" cy="520" r="4"/>
+  </g>
+
+  <!-- category badge -->
+  <rect x="64" y="64" width="196" height="52" rx="26" fill="#ffffff"/>
+  <text x="162" y="98" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="700" fill="#8E1F1A" text-anchor="middle">맛있는 녀석들</text>
+
+  <!-- table shadow -->
+  <ellipse cx="620" cy="430" rx="300" ry="60" fill="url(#tableShadow)"/>
+
+  <!-- bowl -->
+  <ellipse cx="600" cy="330" rx="270" ry="90" fill="url(#bowlRim)"/>
+  <path d="M 340 330 C 340 420 460 470 600 470 C 740 470 860 420 860 330 L 860 320 C 860 380 750 420 600 420 C 450 420 340 380 340 320 Z" fill="#D8D2C6"/>
+
+  <!-- broth -->
+  <ellipse cx="600" cy="322" rx="240" ry="76" fill="url(#broth)"/>
+
+  <!-- noodle swirls -->
+  <g fill="none" stroke="#FCE9C9" stroke-width="9" stroke-linecap="round" opacity="0.9">
+    <path d="M 470 320 C 500 300 520 340 550 320 C 580 300 600 340 630 320"/>
+    <path d="M 500 350 C 530 332 550 368 580 350 C 610 332 630 368 660 350"/>
+    <path d="M 560 300 C 590 282 610 316 640 300 C 670 282 690 316 720 300"/>
+  </g>
+
+  <!-- octopus tentacle curls -->
+  <g fill="none" stroke="#B23A3A" stroke-width="12" stroke-linecap="round" opacity="0.95">
+    <path d="M 480 300 C 470 280 495 265 505 285 C 512 300 495 305 490 292"/>
+    <path d="M 700 340 C 715 322 738 335 730 355 C 723 370 705 362 710 348"/>
+  </g>
+
+  <!-- chili flake dots -->
+  <g fill="#FF6A3D">
+    <circle cx="540" cy="310" r="5"/>
+    <circle cx="610" cy="345" r="4"/>
+    <circle cx="670" cy="315" r="5"/>
+    <circle cx="590" cy="290" r="4"/>
+    <circle cx="520" cy="345" r="4"/>
+  </g>
+
+  <!-- steam -->
+  <g stroke="#ffffff" stroke-width="7" stroke-linecap="round" fill="none" opacity="0.5">
+    <path d="M 560 230 C 550 200 580 185 570 155"/>
+    <path d="M 640 225 C 630 195 660 180 650 150"/>
+  </g>
+
+  <!-- bottom title bar -->
+  <rect x="0" y="470" width="1200" height="160" fill="#000000" opacity="0.35"/>
+  <text x="64" y="545" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="46" font-weight="800" fill="#ffffff">한 방 있는 빨간 맛, 칼낙지</text>
+  <text x="64" y="590" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="500" fill="#ffffff" opacity="0.85">안국역 신라제면</text>
+</svg>
+
