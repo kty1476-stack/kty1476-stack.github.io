@@ -1,27 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
     <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#C13236"/>
-      <stop offset="100%" stop-color="#711A1D"/>
+      <stop offset="0%" stop-color="#D0453F"/>
+      <stop offset="55%" stop-color="#A32E2C"/>
+      <stop offset="100%" stop-color="#5C1517"/>
     </linearGradient>
-    <radialGradient id="manduBody" cx="35%" cy="30%" r="80%">
-      <stop offset="0%" stop-color="#F5D89A"/>
-      <stop offset="60%" stop-color="#E3B563"/>
-      <stop offset="100%" stop-color="#B9843A"/>
+    <radialGradient id="manduBody" cx="35%" cy="28%" r="82%">
+      <stop offset="0%" stop-color="#FBE4AE"/>
+      <stop offset="55%" stop-color="#EAC178"/>
+      <stop offset="85%" stop-color="#CC9646"/>
+      <stop offset="100%" stop-color="#A97328"/>
     </radialGradient>
     <radialGradient id="plateShadow2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.32"/>
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.38"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="plateInner2" cx="42%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="70%" stop-color="#F3EEE4"/>
+      <stop offset="100%" stop-color="#E5DCCB"/>
+    </radialGradient>
+    <linearGradient id="plateRim2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#D2C8B8"/>
+    </linearGradient>
+    <radialGradient id="chiliOil" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#E4402A"/>
+      <stop offset="100%" stop-color="#8E1D12"/>
+    </radialGradient>
+    <linearGradient id="chopstick2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B76A32"/>
+      <stop offset="100%" stop-color="#7C4419"/>
+    </linearGradient>
   </defs>
 
   <rect width="1200" height="630" fill="url(#bg2)"/>
 
+  <g opacity="0.06" stroke="#FFFFFF" stroke-width="2">
+    <line x1="-100" y1="60" x2="1300" y2="560"/>
+    <line x1="-100" y1="-40" x2="1300" y2="460"/>
+  </g>
   <g opacity="0.08" fill="#ffffff">
     <circle cx="110" cy="80" r="4"/>
     <circle cx="1090" cy="110" r="5"/>
     <circle cx="1000" cy="70" r="3"/>
     <circle cx="70" cy="500" r="4"/>
+    <circle cx="1140" cy="220" r="4"/>
   </g>
 
   <!-- category badge -->
@@ -29,21 +53,46 @@
   <text x="152" y="98" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="700" fill="#711A1D" text-anchor="middle">생활의 달인</text>
 
   <!-- plate shadow -->
-  <ellipse cx="600" cy="380" rx="320" ry="60" fill="url(#plateShadow2)"/>
+  <ellipse cx="600" cy="420" rx="330" ry="66" fill="url(#plateShadow2)"/>
+
+  <!-- plate -->
+  <ellipse cx="600" cy="358" rx="300" ry="112" fill="url(#plateRim2)"/>
+  <ellipse cx="600" cy="352" rx="270" ry="94" fill="url(#plateInner2)"/>
+  <ellipse cx="600" cy="352" rx="160" ry="52" fill="none" stroke="#E0D6C4" stroke-width="3" opacity="0.7"/>
+
+  <!-- dumpling shadows -->
+  <g fill="#000000" opacity="0.14">
+    <ellipse cx="470" cy="370" rx="95" ry="26"/>
+    <ellipse cx="655" cy="420" rx="115" ry="30"/>
+    <ellipse cx="800" cy="365" rx="90" ry="24"/>
+  </g>
 
   <!-- three dumplings, crescent shapes -->
   <g>
     <!-- left dumpling -->
     <path d="M 380 340 C 380 260 460 210 540 240 C 600 262 610 330 560 360 C 500 396 380 400 380 340 Z" fill="url(#manduBody)" stroke="#8A5A22" stroke-width="5"/>
-    <path d="M 400 320 C 430 290 480 270 530 285" fill="none" stroke="#8A5A22" stroke-width="6" stroke-linecap="round"/>
+    <g stroke="#8A5A22" stroke-width="5" stroke-linecap="round" fill="none" opacity="0.75">
+      <path d="M 402 315 C 415 300 428 298 440 305"/>
+      <path d="M 430 288 C 443 275 456 274 468 282"/>
+      <path d="M 460 268 C 472 257 484 257 495 264"/>
+    </g>
 
     <!-- middle dumpling (front, bigger) -->
     <path d="M 520 400 C 500 300 610 240 710 280 C 790 312 800 400 730 440 C 650 486 520 480 520 400 Z" fill="url(#manduBody)" stroke="#8A5A22" stroke-width="6"/>
-    <path d="M 550 370 C 590 330 660 305 720 325" fill="none" stroke="#8A5A22" stroke-width="7" stroke-linecap="round"/>
+    <g stroke="#8A5A22" stroke-width="6" stroke-linecap="round" fill="none" opacity="0.75">
+      <path d="M 548 362 C 566 344 582 342 598 350"/>
+      <path d="M 584 328 C 602 310 618 308 634 316"/>
+      <path d="M 622 302 C 640 286 656 284 672 292"/>
+    </g>
+    <!-- glossy highlight -->
+    <ellipse cx="600" cy="320" rx="60" ry="30" fill="#FFFFFF" opacity="0.18" transform="rotate(-20 600 320)"/>
 
     <!-- right dumpling -->
     <path d="M 680 340 C 690 270 770 230 830 268 C 880 298 880 355 830 380 C 770 410 680 400 680 340 Z" fill="url(#manduBody)" stroke="#8A5A22" stroke-width="5"/>
-    <path d="M 700 320 C 730 292 780 275 820 288" fill="none" stroke="#8A5A22" stroke-width="6" stroke-linecap="round"/>
+    <g stroke="#8A5A22" stroke-width="5" stroke-linecap="round" fill="none" opacity="0.75">
+      <path d="M 700 318 C 712 305 724 303 735 310"/>
+      <path d="M 726 292 C 738 280 750 279 761 286"/>
+    </g>
   </g>
 
   <!-- fried browning spots -->
@@ -51,6 +100,7 @@
     <ellipse cx="620" cy="420" rx="22" ry="12"/>
     <ellipse cx="700" cy="440" rx="18" ry="10"/>
     <ellipse cx="450" cy="330" rx="16" ry="9"/>
+    <ellipse cx="770" cy="340" rx="14" ry="8"/>
   </g>
 
   <!-- steam -->
@@ -58,6 +108,22 @@
     <path d="M 600 220 C 590 190 620 175 610 145"/>
     <path d="M 660 210 C 650 180 680 165 670 135"/>
     <path d="M 540 215 C 530 188 558 172 548 145"/>
+    <path d="M 730 235 C 720 208 748 195 738 168"/>
+  </g>
+
+  <!-- chili oil dipping dish -->
+  <ellipse cx="920" cy="450" rx="70" ry="28" fill="#F4EEE2"/>
+  <ellipse cx="920" cy="446" rx="53" ry="19" fill="url(#chiliOil)"/>
+  <g fill="#FFB27A" opacity="0.8">
+    <circle cx="905" cy="443" r="3"/>
+    <circle cx="932" cy="450" r="3"/>
+    <circle cx="918" cy="438" r="2.5"/>
+  </g>
+
+  <!-- chopsticks -->
+  <g transform="rotate(-22 240 400)">
+    <rect x="150" y="392" width="150" height="9" rx="4.5" fill="url(#chopstick2)"/>
+    <rect x="150" y="408" width="150" height="9" rx="4.5" fill="url(#chopstick2)"/>
   </g>
 
   <!-- bottom title bar -->
@@ -65,4 +131,3 @@
   <text x="64" y="545" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="46" font-weight="800" fill="#ffffff">인생만두, 군만두 달인</text>
   <text x="64" y="590" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="500" fill="#ffffff" opacity="0.85">원주 동승루</text>
 </svg>
-
