@@ -46,153 +46,50 @@
   </g>
   <rect width="820" height="630" fill="url(#scrimLR)"/>
 
-  <!-- illustration: right side only -->
   <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
-  <ellipse cx="600" cy="452" rx="330" ry="64" fill="url(#shadowHR)"/>
-  <ellipse cx="600" cy="330" rx="278" ry="98" fill="url(#bowlHR)"/>
-  <path d="M 322 330 C 322 428 450 480 600 480 C 750 480 878 428 878 330 L 878 318 C 878 384 760 428 600 428 C 440 428 322 384 322 318 Z" fill="#C8D6DC"/>
-  <ellipse cx="600" cy="330" rx="278" ry="98" fill="none" stroke="#B4C6CD" stroke-width="3" opacity="0.6"/>
-  <ellipse cx="600" cy="320" rx="246" ry="82" fill="url(#noodleHR)"/>
-  <g fill="none" stroke="#D9B672" stroke-width="5" stroke-linecap="round" opacity="0.75">
-    <path d="M 400 316 C 452 292 512 344 566 318"/>
-    <path d="M 430 350 C 482 326 542 378 596 352"/>
-    <path d="M 616 300 C 668 276 728 328 782 302"/>
-  </g>
-  <ellipse cx="600" cy="312" rx="182" ry="60" fill="url(#sauceHR)"/>
-  <ellipse cx="540" cy="292" rx="56" ry="18" fill="#7A5232" opacity="0.35"/>
-  <g>
-    <rect x="512" y="292" width="34" height="26" rx="7" fill="#F2C14E" transform="rotate(-12 529 305)"/>
-    <rect x="596" y="284" width="30" height="24" rx="7" fill="#F6E7C4" transform="rotate(8 611 296)"/>
-    <rect x="664" y="308" width="32" height="25" rx="7" fill="#F2C14E" transform="rotate(-6 680 320)"/>
-    <rect x="556" y="330" width="30" height="23" rx="7" fill="#F6E7C4" transform="rotate(14 571 341)"/>
-    <rect x="626" y="336" width="28" height="22" rx="7" fill="#E8A33D" transform="rotate(-16 640 347)"/>
-  </g>
-  <g fill="#8FCB63" opacity="0.95">
-    <ellipse cx="586" cy="308" rx="13" ry="8" transform="rotate(-18 586 308)"/>
-    <ellipse cx="650" cy="292" rx="12" ry="7" transform="rotate(12 650 292)"/>
-  </g>
-  <g fill="none" stroke="#6FB84E" stroke-width="9" stroke-linecap="round">
-    <path d="M 690 282 C 724 272 754 288 776 280"/>
-    <path d="M 700 300 C 734 290 764 306 786 298"/>
-  </g>
-  <g transform="rotate(-20 220 380)">
-    <rect x="140" y="372" width="150" height="9" rx="4.5" fill="url(#chopHR)"/>
-    <rect x="140" y="388" width="150" height="9" rx="4.5" fill="url(#chopHR)"/>
-  </g>
-  <g fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" opacity="0.28">
-    <path d="M 520 214 C 500 190 540 176 520 150"/>
-    <path d="M 600 202 C 580 178 620 164 600 138"/>
-    <path d="M 680 214 C 660 190 700 176 680 150"/>
-  </g>
+    <ellipse cx="600" cy="452" rx="330" ry="64" fill="url(#shadowHR)"/>
+    <ellipse cx="600" cy="330" rx="278" ry="98" fill="url(#bowlHR)"/>
+    <path d="M 322 330 C 322 428 450 480 600 480 C 750 480 878 428 878 330 L 878 318 C 878 384 760 428 600 428 C 440 428 322 384 322 318 Z" fill="#C8D6DC"/>
+    <ellipse cx="600" cy="330" rx="278" ry="98" fill="none" stroke="#B4C6CD" stroke-width="3" opacity="0.6"/>
+    <ellipse cx="600" cy="320" rx="246" ry="82" fill="url(#noodleHR)"/>
+    <g fill="none" stroke="#D9B672" stroke-width="5" stroke-linecap="round" opacity="0.75">
+      <path d="M 400 316 C 452 292 512 344 566 318"/>
+      <path d="M 430 350 C 482 326 542 378 596 352"/>
+      <path d="M 616 300 C 668 276 728 328 782 302"/>
+    </g>
+    <ellipse cx="600" cy="312" rx="182" ry="60" fill="url(#sauceHR)"/>
+    <ellipse cx="540" cy="292" rx="56" ry="18" fill="#7A5232" opacity="0.35"/>
+    <g>
+      <rect x="512" y="292" width="34" height="26" rx="7" fill="#F2C14E" transform="rotate(-12 529 305)"/>
+      <rect x="596" y="284" width="30" height="24" rx="7" fill="#F6E7C4" transform="rotate(8 611 296)"/>
+      <rect x="664" y="308" width="32" height="25" rx="7" fill="#F2C14E" transform="rotate(-6 680 320)"/>
+      <rect x="556" y="330" width="30" height="23" rx="7" fill="#F6E7C4" transform="rotate(14 571 341)"/>
+      <rect x="626" y="336" width="28" height="22" rx="7" fill="#E8A33D" transform="rotate(-16 640 347)"/>
+    </g>
+    <g fill="#8FCB63" opacity="0.95">
+      <ellipse cx="586" cy="308" rx="13" ry="8" transform="rotate(-18 586 308)"/>
+      <ellipse cx="650" cy="292" rx="12" ry="7" transform="rotate(12 650 292)"/>
+    </g>
+    <g fill="none" stroke="#6FB84E" stroke-width="9" stroke-linecap="round">
+      <path d="M 690 282 C 724 272 754 288 776 280"/>
+      <path d="M 700 300 C 734 290 764 306 786 298"/>
+    </g>
+    <g transform="rotate(-20 220 380)">
+      <rect x="140" y="372" width="150" height="9" rx="4.5" fill="url(#chopHR)"/>
+      <rect x="140" y="388" width="150" height="9" rx="4.5" fill="url(#chopHR)"/>
+    </g>
+    <g fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" opacity="0.28">
+      <path d="M 520 214 C 500 190 540 176 520 150"/>
+      <path d="M 600 202 C 580 178 620 164 600 138"/>
+      <path d="M 680 214 C 660 190 700 176 680 150"/>
+    </g>
   </g>
 
-  <!-- category badge -->
   <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
   <text x="178" y="105" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="29" font-weight="700" fill="#8E1F1A" text-anchor="middle">맛있는 녀석들</text>
 
-  <!-- headline -->
   <text x="72" y="288" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">70년 수타면</text>
   <text x="72" y="366" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">노포의 한 상</text>
   <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
   <text x="72" y="484" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92">마포역 현래장</text>
-</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <defs>
-    <linearGradient id="bgHR" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#E14A2B"/>
-      <stop offset="55%" stop-color="#B8321F"/>
-      <stop offset="100%" stop-color="#8E1F1A"/>
-    </linearGradient>
-    <radialGradient id="bowlHR" cx="45%" cy="35%" r="75%">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="70%" stop-color="#EEF3F5"/>
-      <stop offset="100%" stop-color="#CCD9DE"/>
-    </radialGradient>
-    <radialGradient id="sauceHR" cx="42%" cy="32%" r="78%">
-      <stop offset="0%" stop-color="#5A3A24"/>
-      <stop offset="55%" stop-color="#3B2314"/>
-      <stop offset="100%" stop-color="#1E120A"/>
-    </radialGradient>
-    <radialGradient id="noodleHR" cx="40%" cy="30%" r="80%">
-      <stop offset="0%" stop-color="#FBECC8"/>
-      <stop offset="100%" stop-color="#E4C88E"/>
-    </radialGradient>
-    <radialGradient id="shadowHR" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.38"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="chopHR" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#B76A32"/>
-      <stop offset="100%" stop-color="#7C4419"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1200" height="630" fill="url(#bgHR)"/>
-
-  <g opacity="0.06" stroke="#FFFFFF" stroke-width="2">
-    <line x1="-100" y1="70" x2="1300" y2="570"/>
-  </g>
-  <g opacity="0.08" fill="#ffffff">
-    <circle cx="120" cy="90" r="4"/>
-    <circle cx="1080" cy="120" r="5"/>
-    <circle cx="60" cy="520" r="4"/>
-    <circle cx="1140" cy="230" r="4"/>
-  </g>
-
-  <rect x="64" y="64" width="196" height="52" rx="26" fill="#ffffff"/>
-  <text x="162" y="98" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="700" fill="#8E1F1A" text-anchor="middle">맛있는 녀석들</text>
-
-  <ellipse cx="600" cy="452" rx="330" ry="64" fill="url(#shadowHR)"/>
-
-  <ellipse cx="600" cy="330" rx="278" ry="98" fill="url(#bowlHR)"/>
-  <path d="M 322 330 C 322 428 450 480 600 480 C 750 480 878 428 878 330 L 878 318 C 878 384 760 428 600 428 C 440 428 322 384 322 318 Z" fill="#C8D6DC"/>
-  <ellipse cx="600" cy="330" rx="278" ry="98" fill="none" stroke="#B4C6CD" stroke-width="3" opacity="0.6"/>
-
-  <ellipse cx="600" cy="320" rx="246" ry="82" fill="url(#noodleHR)"/>
-  <g fill="none" stroke="#D9B672" stroke-width="5" stroke-linecap="round" opacity="0.75">
-    <path d="M 400 316 C 452 292 512 344 566 318"/>
-    <path d="M 430 350 C 482 326 542 378 596 352"/>
-    <path d="M 616 300 C 668 276 728 328 782 302"/>
-  </g>
-
-  <ellipse cx="600" cy="312" rx="182" ry="60" fill="url(#sauceHR)"/>
-  <ellipse cx="540" cy="292" rx="56" ry="18" fill="#7A5232" opacity="0.35"/>
-
-  <g>
-    <rect x="512" y="292" width="34" height="26" rx="7" fill="#F2C14E" transform="rotate(-12 529 305)"/>
-    <rect x="596" y="284" width="30" height="24" rx="7" fill="#F6E7C4" transform="rotate(8 611 296)"/>
-    <rect x="664" y="308" width="32" height="25" rx="7" fill="#F2C14E" transform="rotate(-6 680 320)"/>
-    <rect x="556" y="330" width="30" height="23" rx="7" fill="#F6E7C4" transform="rotate(14 571 341)"/>
-    <rect x="626" y="336" width="28" height="22" rx="7" fill="#E8A33D" transform="rotate(-16 640 347)"/>
-  </g>
-  <g fill="#8FCB63" opacity="0.95">
-    <ellipse cx="586" cy="308" rx="13" ry="8" transform="rotate(-18 586 308)"/>
-    <ellipse cx="650" cy="292" rx="12" ry="7" transform="rotate(12 650 292)"/>
-  </g>
-
-  <g fill="none" stroke="#6FB84E" stroke-width="9" stroke-linecap="round">
-    <path d="M 690 282 C 724 272 754 288 776 280"/>
-    <path d="M 700 300 C 734 290 764 306 786 298"/>
-  </g>
-
-  <ellipse cx="962" cy="430" rx="66" ry="26" fill="#F4F7F8"/>
-  <ellipse cx="962" cy="424" rx="50" ry="18" fill="#FFFFFF"/>
-  <g fill="#F5D65B">
-    <ellipse cx="948" cy="422" rx="16" ry="7" transform="rotate(-10 948 422)"/>
-    <ellipse cx="974" cy="427" rx="16" ry="7" transform="rotate(8 974 427)"/>
-  </g>
-
-  <g transform="rotate(-20 220 380)">
-    <rect x="140" y="372" width="150" height="9" rx="4.5" fill="url(#chopHR)"/>
-    <rect x="140" y="388" width="150" height="9" rx="4.5" fill="url(#chopHR)"/>
-  </g>
-
-  <g fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" opacity="0.28">
-    <path d="M 520 214 C 500 190 540 176 520 150"/>
-    <path d="M 600 202 C 580 178 620 164 600 138"/>
-    <path d="M 680 214 C 660 190 700 176 680 150"/>
-  </g>
-
-  <rect x="0" y="470" width="1200" height="160" fill="#000000" opacity="0.35"/>
-  <text x="64" y="545" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="46" font-weight="800" fill="#ffffff">70년 수타면 노포의 한 상</text>
-  <text x="64" y="590" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="500" fill="#ffffff" opacity="0.85">마포역 현래장</text>
 </svg>
