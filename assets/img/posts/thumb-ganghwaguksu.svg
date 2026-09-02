@@ -56,172 +56,49 @@
   </g>
   <rect width="820" height="630" fill="url(#scrimLR)"/>
 
-  <!-- illustration: right side only -->
   <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
-  <ellipse cx="600" cy="438" rx="320" ry="62" fill="url(#plateShadow5)"/>
-  <ellipse cx="600" cy="330" rx="272" ry="96" fill="url(#bowlRim5)"/>
-  <path d="M 328 330 C 328 424 452 474 600 474 C 748 474 872 424 872 330 L 872 318 C 872 382 756 424 600 424 C 444 424 328 382 328 318 Z" fill="#D8CFBF"/>
-  <ellipse cx="600" cy="326" rx="242" ry="80" fill="url(#bowlInner5)"/>
-  <ellipse cx="600" cy="316" rx="210" ry="70" fill="url(#noodleMound5)"/>
-  <g fill="none" stroke="#E8CB93" stroke-width="7" stroke-linecap="round" opacity="0.85">
-    <path d="M 430 316 C 470 292 500 340 540 316 C 580 292 610 340 650 316"/>
-    <path d="M 466 350 C 506 328 536 372 576 350 C 616 328 646 372 686 350"/>
-    <path d="M 520 286 C 560 264 590 308 630 286 C 670 264 700 308 740 286"/>
-  </g>
-  <g fill="none" stroke="#FFF6E1" stroke-width="6" stroke-linecap="round" opacity="0.9">
-    <path d="M 452 330 C 492 308 522 352 562 330 C 602 308 632 352 672 330"/>
-    <path d="M 546 302 C 586 280 616 324 656 302 C 696 280 726 324 766 302"/>
-  </g>
-  <g fill="#E24A2C" opacity="0.42">
-    <ellipse cx="560" cy="318" rx="86" ry="26" transform="rotate(-8 560 318)"/>
-    <ellipse cx="676" cy="336" rx="62" ry="20" transform="rotate(10 676 336)"/>
-  </g>
-  <g fill="url(#cucumber5)">
-    <rect x="500" y="272" width="96" height="12" rx="6" transform="rotate(-14 500 272)"/>
-    <rect x="560" y="256" width="88" height="12" rx="6" transform="rotate(6 560 256)"/>
-    <rect x="616" y="292" width="92" height="12" rx="6" transform="rotate(-6 616 292)"/>
-  </g>
-  <ellipse cx="470" cy="342" rx="58" ry="46" fill="#FFFDF6"/>
-  <ellipse cx="470" cy="340" rx="30" ry="24" fill="url(#eggYolk5)"/>
-  <g fill="#FFF6DF">
-    <ellipse cx="588" cy="300" rx="5" ry="3" transform="rotate(22 588 300)"/>
-    <ellipse cx="650" cy="326" rx="5" ry="3" transform="rotate(-16 650 326)"/>
-    <ellipse cx="712" cy="312" rx="5" ry="3" transform="rotate(34 712 312)"/>
-    <ellipse cx="530" cy="344" rx="5" ry="3" transform="rotate(-28 530 344)"/>
-  </g>
-  <g transform="rotate(-20 220 380)">
-    <rect x="140" y="372" width="150" height="9" rx="4.5" fill="url(#chopstick5)"/>
-    <rect x="140" y="388" width="150" height="9" rx="4.5" fill="url(#chopstick5)"/>
-  </g>
+    <ellipse cx="600" cy="438" rx="320" ry="62" fill="url(#plateShadow5)"/>
+    <ellipse cx="600" cy="330" rx="272" ry="96" fill="url(#bowlRim5)"/>
+    <path d="M 328 330 C 328 424 452 474 600 474 C 748 474 872 424 872 330 L 872 318 C 872 382 756 424 600 424 C 444 424 328 382 328 318 Z" fill="#D8CFBF"/>
+    <ellipse cx="600" cy="326" rx="242" ry="80" fill="url(#bowlInner5)"/>
+    <ellipse cx="600" cy="316" rx="210" ry="70" fill="url(#noodleMound5)"/>
+    <g fill="none" stroke="#E8CB93" stroke-width="7" stroke-linecap="round" opacity="0.85">
+      <path d="M 430 316 C 470 292 500 340 540 316 C 580 292 610 340 650 316"/>
+      <path d="M 466 350 C 506 328 536 372 576 350 C 616 328 646 372 686 350"/>
+      <path d="M 520 286 C 560 264 590 308 630 286 C 670 264 700 308 740 286"/>
+    </g>
+    <g fill="none" stroke="#FFF6E1" stroke-width="6" stroke-linecap="round" opacity="0.9">
+      <path d="M 452 330 C 492 308 522 352 562 330 C 602 308 632 352 672 330"/>
+      <path d="M 546 302 C 586 280 616 324 656 302 C 696 280 726 324 766 302"/>
+    </g>
+    <g fill="#E24A2C" opacity="0.42">
+      <ellipse cx="560" cy="318" rx="86" ry="26" transform="rotate(-8 560 318)"/>
+      <ellipse cx="676" cy="336" rx="62" ry="20" transform="rotate(10 676 336)"/>
+    </g>
+    <g fill="url(#cucumber5)">
+      <rect x="500" y="272" width="96" height="12" rx="6" transform="rotate(-14 500 272)"/>
+      <rect x="560" y="256" width="88" height="12" rx="6" transform="rotate(6 560 256)"/>
+      <rect x="616" y="292" width="92" height="12" rx="6" transform="rotate(-6 616 292)"/>
+    </g>
+    <ellipse cx="470" cy="342" rx="58" ry="46" fill="#FFFDF6"/>
+    <ellipse cx="470" cy="340" rx="30" ry="24" fill="url(#eggYolk5)"/>
+    <g fill="#FFF6DF">
+      <ellipse cx="588" cy="300" rx="5" ry="3" transform="rotate(22 588 300)"/>
+      <ellipse cx="650" cy="326" rx="5" ry="3" transform="rotate(-16 650 326)"/>
+      <ellipse cx="712" cy="312" rx="5" ry="3" transform="rotate(34 712 312)"/>
+      <ellipse cx="530" cy="344" rx="5" ry="3" transform="rotate(-28 530 344)"/>
+    </g>
+    <g transform="rotate(-20 220 380)">
+      <rect x="140" y="372" width="150" height="9" rx="4.5" fill="url(#chopstick5)"/>
+      <rect x="140" y="388" width="150" height="9" rx="4.5" fill="url(#chopstick5)"/>
+    </g>
   </g>
 
-  <!-- category badge -->
   <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
   <text x="178" y="105" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="29" font-weight="700" fill="#711A1D" text-anchor="middle">생활의 달인</text>
 
-  <!-- headline -->
   <text x="72" y="288" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">양념장 없는</text>
   <text x="72" y="366" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">강화도 비빔국수</text>
   <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
   <text x="72" y="484" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92">강화읍 강화국수</text>
-</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <defs>
-    <linearGradient id="bg5" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#C13236"/>
-      <stop offset="55%" stop-color="#9A2427"/>
-      <stop offset="100%" stop-color="#711A1D"/>
-    </linearGradient>
-    <radialGradient id="plateShadow5" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.38"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="bowlRim5" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#D3C9B9"/>
-    </linearGradient>
-    <radialGradient id="bowlInner5" cx="42%" cy="32%" r="72%">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="70%" stop-color="#F2ECE1"/>
-      <stop offset="100%" stop-color="#E1D7C6"/>
-    </radialGradient>
-    <radialGradient id="noodleMound5" cx="38%" cy="26%" r="84%">
-      <stop offset="0%" stop-color="#FFF3D8"/>
-      <stop offset="60%" stop-color="#F4DFAF"/>
-      <stop offset="100%" stop-color="#D8B87A"/>
-    </radialGradient>
-    <radialGradient id="eggYolk5" cx="35%" cy="30%" r="78%">
-      <stop offset="0%" stop-color="#FFD86B"/>
-      <stop offset="100%" stop-color="#E8A422"/>
-    </radialGradient>
-    <linearGradient id="cucumber5" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#8FD06A"/>
-      <stop offset="100%" stop-color="#4E9438"/>
-    </linearGradient>
-    <linearGradient id="chopstick5" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#B76A32"/>
-      <stop offset="100%" stop-color="#7C4419"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1200" height="630" fill="url(#bg5)"/>
-
-  <g opacity="0.06" stroke="#FFFFFF" stroke-width="2">
-    <line x1="-100" y1="66" x2="1300" y2="566"/>
-    <line x1="-100" y1="-34" x2="1300" y2="466"/>
-  </g>
-  <g opacity="0.08" fill="#ffffff">
-    <circle cx="116" cy="86" r="4"/>
-    <circle cx="1086" cy="116" r="5"/>
-    <circle cx="1006" cy="72" r="3"/>
-    <circle cx="66" cy="508" r="4"/>
-    <circle cx="1142" cy="226" r="4"/>
-  </g>
-
-  <!-- category badge -->
-  <rect x="64" y="64" width="176" height="52" rx="26" fill="#ffffff"/>
-  <text x="152" y="98" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="700" fill="#711A1D" text-anchor="middle">생활의 달인</text>
-
-  <!-- table shadow -->
-  <ellipse cx="600" cy="438" rx="320" ry="62" fill="url(#plateShadow5)"/>
-
-  <!-- bowl -->
-  <ellipse cx="600" cy="330" rx="272" ry="96" fill="url(#bowlRim5)"/>
-  <path d="M 328 330 C 328 424 452 474 600 474 C 748 474 872 424 872 330 L 872 318 C 872 382 756 424 600 424 C 444 424 328 382 328 318 Z" fill="#D8CFBF"/>
-  <ellipse cx="600" cy="326" rx="242" ry="80" fill="url(#bowlInner5)"/>
-
-  <!-- noodle mound -->
-  <ellipse cx="600" cy="316" rx="210" ry="70" fill="url(#noodleMound5)"/>
-  <g fill="none" stroke="#E8CB93" stroke-width="7" stroke-linecap="round" opacity="0.85">
-    <path d="M 430 316 C 470 292 500 340 540 316 C 580 292 610 340 650 316"/>
-    <path d="M 466 350 C 506 328 536 372 576 350 C 616 328 646 372 686 350"/>
-    <path d="M 520 286 C 560 264 590 308 630 286 C 670 264 700 308 740 286"/>
-  </g>
-  <g fill="none" stroke="#FFF6E1" stroke-width="6" stroke-linecap="round" opacity="0.9">
-    <path d="M 452 330 C 492 308 522 352 562 330 C 602 308 632 352 672 330"/>
-    <path d="M 546 302 C 586 280 616 324 656 302 C 696 280 726 324 766 302"/>
-  </g>
-
-  <!-- light chili seasoning sheen -->
-  <g fill="#E24A2C" opacity="0.42">
-    <ellipse cx="560" cy="318" rx="86" ry="26" transform="rotate(-8 560 318)"/>
-    <ellipse cx="676" cy="336" rx="62" ry="20" transform="rotate(10 676 336)"/>
-  </g>
-
-  <!-- cucumber julienne -->
-  <g fill="url(#cucumber5)">
-    <rect x="500" y="272" width="96" height="12" rx="6" transform="rotate(-14 500 272)"/>
-    <rect x="560" y="256" width="88" height="12" rx="6" transform="rotate(6 560 256)"/>
-    <rect x="616" y="292" width="92" height="12" rx="6" transform="rotate(-6 616 292)"/>
-  </g>
-
-  <!-- half boiled egg -->
-  <ellipse cx="470" cy="342" rx="58" ry="46" fill="#FFFDF6"/>
-  <ellipse cx="470" cy="340" rx="30" ry="24" fill="url(#eggYolk5)"/>
-
-  <!-- sesame seeds -->
-  <g fill="#FFF6DF">
-    <ellipse cx="588" cy="300" rx="5" ry="3" transform="rotate(22 588 300)"/>
-    <ellipse cx="650" cy="326" rx="5" ry="3" transform="rotate(-16 650 326)"/>
-    <ellipse cx="712" cy="312" rx="5" ry="3" transform="rotate(34 712 312)"/>
-    <ellipse cx="530" cy="344" rx="5" ry="3" transform="rotate(-28 530 344)"/>
-  </g>
-
-  <!-- side dish of kimchi -->
-  <ellipse cx="962" cy="428" rx="66" ry="26" fill="#F4EEE2"/>
-  <ellipse cx="962" cy="424" rx="48" ry="17" fill="#C4302A"/>
-  <g fill="#8E1E19" opacity="0.6">
-    <ellipse cx="950" cy="422" rx="10" ry="5"/>
-    <ellipse cx="974" cy="427" rx="9" ry="4.5"/>
-  </g>
-
-  <!-- chopsticks -->
-  <g transform="rotate(-20 220 380)">
-    <rect x="140" y="372" width="150" height="9" rx="4.5" fill="url(#chopstick5)"/>
-    <rect x="140" y="388" width="150" height="9" rx="4.5" fill="url(#chopstick5)"/>
-  </g>
-
-  <!-- bottom title bar -->
-  <rect x="0" y="470" width="1200" height="160" fill="#000000" opacity="0.34"/>
-  <text x="64" y="545" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="46" font-weight="800" fill="#ffffff">양념장 없는 강화도 비빔국수</text>
-  <text x="64" y="590" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="500" fill="#ffffff" opacity="0.85">강화읍 강화국수</text>
 </svg>
