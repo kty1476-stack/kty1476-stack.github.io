@@ -45,135 +45,46 @@
   </g>
   <rect width="820" height="630" fill="url(#scrimLR)"/>
 
-  <!-- illustration: right side only -->
   <g transform="translate(930,318) scale(0.72) translate(-620,-330)">
-  <ellipse cx="500" cy="440" rx="230" ry="42" fill="url(#docShadow)"/>
-  <g transform="translate(452,326) rotate(2)">
-    <path d="M -150 -180 L 80 -180 L 150 -112 L 150 178 L -150 178 Z" fill="#DDE6F0" stroke="#C7D0DC" stroke-width="3" opacity="0.9"/>
-  </g>
-  <g transform="translate(430,330) rotate(-6)">
-    <path d="M -160 -190 L 90 -190 L 160 -120 L 160 190 L -160 190 Z" fill="url(#paper)" stroke="#C7D0DC" stroke-width="4"/>
-    <path d="M 90 -190 L 90 -120 L 160 -120 Z" fill="#C7D0DC"/>
-    <g stroke="#9BB0C7" stroke-width="10" stroke-linecap="round">
-      <line x1="-120" y1="-70" x2="80" y2="-70"/>
-      <line x1="-120" y1="-20" x2="100" y2="-20"/>
-      <line x1="-120" y1="30" x2="60" y2="30"/>
-      <line x1="-120" y1="80" x2="90" y2="80"/>
+    <ellipse cx="500" cy="440" rx="230" ry="42" fill="url(#docShadow)"/>
+    <g transform="translate(452,326) rotate(2)">
+      <path d="M -150 -180 L 80 -180 L 150 -112 L 150 178 L -150 178 Z" fill="#DDE6F0" stroke="#C7D0DC" stroke-width="3" opacity="0.9"/>
     </g>
-    <circle cx="70" cy="130" r="48" fill="none" stroke="#2E9E5B" stroke-width="8"/>
-    <circle cx="70" cy="130" r="48" fill="#2E9E5B" opacity="0.08"/>
-    <path d="M 46 130 L 63 149 L 98 106" fill="none" stroke="#2E9E5B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
-  <g transform="translate(276,150) rotate(-8)" fill="none" stroke="url(#clip)" stroke-width="9" stroke-linecap="round">
-    <path d="M 0 0 C 0 -36 44 -36 44 0 L 44 60 C 44 82 12 82 12 60 L 12 10"/>
-  </g>
-  <circle cx="800" cy="330" r="118" fill="url(#coin)" stroke="#9C6A0E" stroke-width="5" opacity="0.9"/>
-  <circle cx="770" cy="290" r="140" fill="url(#coin)" stroke="#A97110" stroke-width="6"/>
-  <ellipse cx="720" cy="240" rx="42" ry="20" fill="#FFFFFF" opacity="0.28" transform="rotate(-25 720 240)"/>
-  <text x="770" y="330" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="150" font-weight="800" fill="#7A4E0C" text-anchor="middle">₩</text>
-  <g transform="translate(900,450)">
-    <rect x="-64" y="-56" width="128" height="108" rx="14" fill="#ffffff" stroke="#C7D0DC" stroke-width="4"/>
-    <rect x="-64" y="-56" width="128" height="34" rx="14" fill="#D93A2B"/>
-    <rect x="-64" y="-30" width="128" height="8" fill="#D93A2B"/>
-    <circle cx="-38" cy="-56" r="6" fill="#8E241A"/>
-    <circle cx="38" cy="-56" r="6" fill="#8E241A"/>
-    <text x="0" y="34" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="48" font-weight="800" fill="#0C2C52" text-anchor="middle">15</text>
-  </g>
+    <g transform="translate(430,330) rotate(-6)">
+      <path d="M -160 -190 L 90 -190 L 160 -120 L 160 190 L -160 190 Z" fill="url(#paper)" stroke="#C7D0DC" stroke-width="4"/>
+      <path d="M 90 -190 L 90 -120 L 160 -120 Z" fill="#C7D0DC"/>
+      <g stroke="#9BB0C7" stroke-width="10" stroke-linecap="round">
+        <line x1="-120" y1="-70" x2="80" y2="-70"/>
+        <line x1="-120" y1="-20" x2="100" y2="-20"/>
+        <line x1="-120" y1="30" x2="60" y2="30"/>
+        <line x1="-120" y1="80" x2="90" y2="80"/>
+      </g>
+      <circle cx="70" cy="130" r="48" fill="none" stroke="#2E9E5B" stroke-width="8"/>
+      <circle cx="70" cy="130" r="48" fill="#2E9E5B" opacity="0.08"/>
+      <path d="M 46 130 L 63 149 L 98 106" fill="none" stroke="#2E9E5B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(276,150) rotate(-8)" fill="none" stroke="url(#clip)" stroke-width="9" stroke-linecap="round">
+      <path d="M 0 0 C 0 -36 44 -36 44 0 L 44 60 C 44 82 12 82 12 60 L 12 10"/>
+    </g>
+    <circle cx="800" cy="330" r="118" fill="url(#coin)" stroke="#9C6A0E" stroke-width="5" opacity="0.9"/>
+    <circle cx="770" cy="290" r="140" fill="url(#coin)" stroke="#A97110" stroke-width="6"/>
+    <ellipse cx="720" cy="240" rx="42" ry="20" fill="#FFFFFF" opacity="0.28" transform="rotate(-25 720 240)"/>
+    <text x="770" y="330" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="150" font-weight="800" fill="#7A4E0C" text-anchor="middle">₩</text>
+    <g transform="translate(900,450)">
+      <rect x="-64" y="-56" width="128" height="108" rx="14" fill="#ffffff" stroke="#C7D0DC" stroke-width="4"/>
+      <rect x="-64" y="-56" width="128" height="34" rx="14" fill="#D93A2B"/>
+      <rect x="-64" y="-30" width="128" height="8" fill="#D93A2B"/>
+      <circle cx="-38" cy="-56" r="6" fill="#8E241A"/>
+      <circle cx="38" cy="-56" r="6" fill="#8E241A"/>
+      <text x="0" y="34" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="48" font-weight="800" fill="#0C2C52" text-anchor="middle">15</text>
+    </g>
   </g>
 
-  <!-- category badge -->
   <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
   <text x="178" y="105" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="29" font-weight="700" fill="#0C2C52" text-anchor="middle">정부지원금</text>
 
-  <!-- headline -->
   <text x="72" y="288" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">근로장려금</text>
   <text x="72" y="366" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">반기신청</text>
   <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
   <text x="72" y="484" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92">9월 15일 마감</text>
-</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <defs>
-    <linearGradient id="bg4" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#2E71B8"/>
-      <stop offset="55%" stop-color="#1B4C86"/>
-      <stop offset="100%" stop-color="#081D3C"/>
-    </linearGradient>
-    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#E9EFF6"/>
-    </linearGradient>
-    <radialGradient id="coin" cx="35%" cy="28%" r="78%">
-      <stop offset="0%" stop-color="#FFF0B0"/>
-      <stop offset="45%" stop-color="#F6C846"/>
-      <stop offset="80%" stop-color="#E0A324"/>
-      <stop offset="100%" stop-color="#B87F12"/>
-    </radialGradient>
-    <radialGradient id="docShadow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.32"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="clip" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#DCE4EE"/>
-      <stop offset="100%" stop-color="#A9B7C9"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1200" height="630" fill="url(#bg4)"/>
-
-  <g opacity="0.05" stroke="#FFFFFF" stroke-width="1.5">
-    <line x1="0" y1="120" x2="1200" y2="120"/>
-    <line x1="0" y1="220" x2="1200" y2="220"/>
-    <line x1="200" y1="0" x2="200" y2="630"/>
-    <line x1="1000" y1="0" x2="1000" y2="630"/>
-  </g>
-  <g opacity="0.08" fill="#ffffff">
-    <circle cx="120" cy="90" r="4"/>
-    <circle cx="1080" cy="120" r="5"/>
-    <circle cx="70" cy="520" r="4"/>
-    <circle cx="1120" cy="520" r="4"/>
-  </g>
-
-  <rect x="64" y="64" width="176" height="52" rx="26" fill="#ffffff"/>
-  <text x="152" y="98" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="700" fill="#0C2C52" text-anchor="middle">정부지원금</text>
-
-  <ellipse cx="500" cy="440" rx="230" ry="42" fill="url(#docShadow)"/>
-
-  <g transform="translate(452,326) rotate(2)">
-    <path d="M -150 -180 L 80 -180 L 150 -112 L 150 178 L -150 178 Z" fill="#DDE6F0" stroke="#C7D0DC" stroke-width="3" opacity="0.9"/>
-  </g>
-
-  <g transform="translate(430,330) rotate(-6)">
-    <path d="M -160 -190 L 90 -190 L 160 -120 L 160 190 L -160 190 Z" fill="url(#paper)" stroke="#C7D0DC" stroke-width="4"/>
-    <path d="M 90 -190 L 90 -120 L 160 -120 Z" fill="#C7D0DC"/>
-    <g stroke="#9BB0C7" stroke-width="10" stroke-linecap="round">
-      <line x1="-120" y1="-70" x2="80" y2="-70"/>
-      <line x1="-120" y1="-20" x2="100" y2="-20"/>
-      <line x1="-120" y1="30" x2="60" y2="30"/>
-      <line x1="-120" y1="80" x2="90" y2="80"/>
-    </g>
-    <circle cx="70" cy="130" r="48" fill="none" stroke="#2E9E5B" stroke-width="8"/>
-    <circle cx="70" cy="130" r="48" fill="#2E9E5B" opacity="0.08"/>
-    <path d="M 46 130 L 63 149 L 98 106" fill="none" stroke="#2E9E5B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
-
-  <g transform="translate(276,150) rotate(-8)" fill="none" stroke="url(#clip)" stroke-width="9" stroke-linecap="round">
-    <path d="M 0 0 C 0 -36 44 -36 44 0 L 44 60 C 44 82 12 82 12 60 L 12 10"/>
-  </g>
-
-  <circle cx="800" cy="330" r="118" fill="url(#coin)" stroke="#9C6A0E" stroke-width="5" opacity="0.9"/>
-  <circle cx="770" cy="290" r="140" fill="url(#coin)" stroke="#A97110" stroke-width="6"/>
-  <ellipse cx="720" cy="240" rx="42" ry="20" fill="#FFFFFF" opacity="0.28" transform="rotate(-25 720 240)"/>
-  <text x="770" y="330" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="150" font-weight="800" fill="#7A4E0C" text-anchor="middle">₩</text>
-
-  <g transform="translate(930,440)">
-    <rect x="-64" y="-56" width="128" height="108" rx="14" fill="#ffffff" stroke="#C7D0DC" stroke-width="4"/>
-    <rect x="-64" y="-56" width="128" height="34" rx="14" fill="#D93A2B"/>
-    <rect x="-64" y="-30" width="128" height="8" fill="#D93A2B"/>
-    <circle cx="-38" cy="-56" r="6" fill="#8E241A"/>
-    <circle cx="38" cy="-56" r="6" fill="#8E241A"/>
-    <text x="0" y="34" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="48" font-weight="800" fill="#0C2C52" text-anchor="middle">15</text>
-  </g>
-
-  <rect x="0" y="470" width="1200" height="160" fill="#000000" opacity="0.34"/>
-  <text x="64" y="545" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="44" font-weight="800" fill="#ffffff">근로장려금 반기신청</text>
-  <text x="64" y="590" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="26" font-weight="500" fill="#ffffff" opacity="0.85">9월 15일 마감, 지금 확인하세요</text>
 </svg>
