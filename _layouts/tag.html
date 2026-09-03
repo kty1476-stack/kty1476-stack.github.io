@@ -14,31 +14,14 @@ layout: page
   </a>
   {% for category in sort_categories %}
     {% assign category_name = category | first %}
-    {% assign cat_color = '#b0452e' %}
-    {% case category_name %}
-      {% when '전현무계획' %}{% assign cat_color = '#d9762e' %}
-      {% when '생활의달인' %}{% assign cat_color = '#4c8c4a' %}
-      {% when '맛있는녀석들' %}{% assign cat_color = '#c1443c' %}
-      {% when '인기검색맛집' %}{% assign cat_color = '#3c7a89' %}
-      {% when 'TV맛집' %}{% assign cat_color = '#b0452e' %}
-      {% when '발로뛴 맛집' %}{% assign cat_color = '#7a5c8c' %}
-      {% when '정부지원금' %}{% assign cat_color = '#215c9e' %}
-    {% endcase %}
+    {% include cat-color.html name=category_name %}
     {% capture _category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
     <a href="{{ _category_url | relative_url }}" class="category-pill" style="--cat-color: {{ cat_color }};">{{ category_name }}</a>
   {% endfor %}
 </div>
 
-{% assign page_cat_color = '#b0452e' %}
-{% case page.title %}
-  {% when '전현무계획' %}{% assign page_cat_color = '#d9762e' %}
-  {% when '생활의달인' %}{% assign page_cat_color = '#4c8c4a' %}
-  {% when '맛있는녀석들' %}{% assign page_cat_color = '#c1443c' %}
-  {% when '인기검색맛집' %}{% assign page_cat_color = '#3c7a89' %}
-  {% when 'TV맛집' %}{% assign page_cat_color = '#b0452e' %}
-  {% when '발로뛴 맛집' %}{% assign page_cat_color = '#7a5c8c' %}
-  {% when '정부지원금' %}{% assign page_cat_color = '#215c9e' %}
-{% endcase %}
+{% include cat-color.html name=page.title %}
+{% assign page_cat_color = cat_color %}
 
 <div id="page-tag">
   <h1 class="ps-lg-2 mb-4">
@@ -50,16 +33,7 @@ layout: page
   <div id="post-list" class="flex-grow-1 px-xl-1">
     {% for post in page.posts %}
       {% assign main_category = post.categories[0] %}
-      {% assign cat_color = '#b0452e' %}
-      {% case main_category %}
-        {% when '전현무계획' %}{% assign cat_color = '#d9762e' %}
-        {% when '생활의달인' %}{% assign cat_color = '#4c8c4a' %}
-        {% when '맛있는녀석들' %}{% assign cat_color = '#c1443c' %}
-        {% when '인기검색맛집' %}{% assign cat_color = '#3c7a89' %}
-        {% when 'TV맛집' %}{% assign cat_color = '#b0452e' %}
-        {% when '발로뛴 맛집' %}{% assign cat_color = '#7a5c8c' %}
-        {% when '정부지원금' %}{% assign cat_color = '#215c9e' %}
-      {% endcase %}
+      {% include cat-color.html name=main_category %}
       <article class="card-wrapper card" style="--cat-color: {{ cat_color }};">
         <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
           {% assign card_body_col = '12' %}
