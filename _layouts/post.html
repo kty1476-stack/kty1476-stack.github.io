@@ -14,16 +14,26 @@ script_includes:
 {% include toc-status.html %}
 
 <article class="px-1" data-toc="{{ enable_toc }}">
-  <div class="mb-3 d-flex flex-wrap align-items-center gap-2">
-    <a href="{{ site.baseurl }}/" class="btn btn-outline-secondary btn-sm">
-      <i class="fas fa-home fa-fw me-1"></i>{{ site.data.locales[lang].tabs.home }}
+  <div class="category-quicknav d-flex flex-wrap">
+    <a href="{{ '/' | relative_url }}" class="category-pill home-pill">
+      <i class="fas fa-home"></i>
+      홈으로
     </a>
     {% assign sorted_categories = site.categories | sort %}
     {% for category in sorted_categories %}
-      {% assign cat_name = category[0] %}
-      <a href="{{ site.baseurl }}/categories/{{ cat_name | slugify | url_encode }}/" class="btn btn-outline-secondary btn-sm">
-        <i class="far fa-folder-open fa-fw me-1"></i>{{ cat_name }}
-      </a>
+      {% assign category_name = category | first %}
+      {% assign cat_color = '#b0452e' %}
+      {% case category_name %}
+        {% when '전현무계획' %}{% assign cat_color = '#d9762e' %}
+        {% when '생활의달인' %}{% assign cat_color = '#4c8c4a' %}
+        {% when '맛있는녀석들' %}{% assign cat_color = '#c1443c' %}
+        {% when '인기검색맛집' %}{% assign cat_color = '#3c7a89' %}
+        {% when 'TV맛집' %}{% assign cat_color = '#b0452e' %}
+        {% when '발로뛴 맛집' %}{% assign cat_color = '#7a5c8c' %}
+        {% when '정부지원금' %}{% assign cat_color = '#215c9e' %}
+      {% endcase %}
+      {% capture _category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
+      <a href="{{ _category_url | relative_url }}" class="category-pill" style="--cat-color: {{ cat_color }};">{{ category_name }}</a>
     {% endfor %}
   </div>
 
