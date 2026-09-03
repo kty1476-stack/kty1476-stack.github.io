@@ -190,3 +190,49 @@ html[data-mode="dark"] .category-pill.home-pill:hover {
 #breadcrumb {
   display: none !important;
 }
+
+
+/* ===== 상단 검색창: 길이 확대 + 사이트 포인트 컬러 ===== */
+search {
+  border-radius: 999px;
+  border: 1.5px solid var(--food-accent-soft);
+  background: var(--food-accent-soft);
+  padding: 0 0.95rem;
+  transition: border-color .18s ease, box-shadow .18s ease, background-color .18s ease;
+}
+search i {
+  color: var(--food-accent);
+  opacity: .9;
+}
+search:focus-within {
+  border-color: var(--food-accent);
+  background: var(--main-bg);
+  box-shadow: 0 0 0 3px rgba(176, 69, 46, 0.18);
+}
+html[data-mode="dark"] search:focus-within {
+  box-shadow: 0 0 0 3px rgba(224, 138, 108, 0.22);
+}
+#search-input {
+  background: transparent;
+  padding: 0.34rem 0.45rem;
+  font-size: 0.95rem;
+}
+#search-input::placeholder {
+  color: var(--food-accent);
+  opacity: .62;
+}
+#search-cancel {
+  color: var(--food-accent);
+  font-weight: 600;
+}
+
+/* 화면 폭에 따라 검색창 길이 (테마 기본 200px -> 넉넉하게) */
+@media all and (min-width: 850px) {
+  search { max-width: 300px; }
+}
+@media all and (min-width: 1200px) {
+  search { max-width: 360px; }
+}
+@media all and (min-width: 1650px) {
+  search { max-width: 400px; }
+}
