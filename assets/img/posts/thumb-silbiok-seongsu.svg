@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E14A2B"/>
+      <stop offset="1" stop-color="#8E1F1A"/>
+    </linearGradient>
+    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.38"/>
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="broth" cx="0.4" cy="0.32" r="0.75">
+      <stop offset="0" stop-color="#8C6B3F"/>
+      <stop offset="1" stop-color="#4A3316"/>
+    </radialGradient>
+    <radialGradient id="potg" cx="0.35" cy="0.25" r="0.85">
+      <stop offset="0" stop-color="#5B6570"/>
+      <stop offset="1" stop-color="#232B33"/>
+    </radialGradient>
+    <radialGradient id="beefg" cx="0.35" cy="0.3" r="0.8">
+      <stop offset="0" stop-color="#B4552F"/>
+      <stop offset="1" stop-color="#7A3018"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="820" height="630" fill="url(#scrim)"/>
+
+  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
+    <ellipse cx="600" cy="470" rx="270" ry="34" fill="#000000" opacity="0.18"/>
+    <path d="M330 300 L870 300 L838 452 A44 44 0 0 1 795 488 L405 488 A44 44 0 0 1 362 452 Z" fill="url(#potg)"/>
+    <rect x="248" y="300" width="96" height="26" rx="13" fill="#2B333B"/>
+    <rect x="856" y="300" width="96" height="26" rx="13" fill="#2B333B"/>
+    <ellipse cx="600" cy="300" rx="272" ry="66" fill="#39434D"/>
+    <ellipse cx="600" cy="300" rx="246" ry="56" fill="url(#broth)"/>
+    <path d="M400 292 q46 -30 92 -2 q46 28 92 -2 q46 -30 92 -2 q46 28 92 -2" stroke="#2E6B4F" stroke-width="17" fill="none" stroke-linecap="round" opacity="0.95"/>
+    <path d="M424 316 q44 -26 88 0 q44 26 88 0 q44 -26 88 0" stroke="#1F5540" stroke-width="14" fill="none" stroke-linecap="round" opacity="0.9"/>
+    <ellipse cx="505" cy="292" rx="46" ry="24" fill="url(#beefg)"/>
+    <ellipse cx="676" cy="308" rx="42" ry="22" fill="url(#beefg)"/>
+    <ellipse cx="600" cy="272" rx="38" ry="19" fill="#E8DCC0"/>
+    <ellipse cx="712" cy="272" rx="30" ry="15" fill="#E8DCC0" opacity="0.9"/>
+    <circle cx="452" cy="268" r="13" fill="#5FA05C"/>
+    <circle cx="748" cy="298" r="11" fill="#5FA05C"/>
+    <circle cx="560" cy="318" r="10" fill="#D9483B"/>
+    <path d="M520 208 q-24 -34 0 -66 q24 -32 0 -62" stroke="#ffffff" stroke-width="11" fill="none" stroke-linecap="round" opacity="0.5"/>
+    <path d="M600 190 q-24 -34 0 -66 q24 -32 0 -62" stroke="#ffffff" stroke-width="11" fill="none" stroke-linecap="round" opacity="0.42"/>
+    <path d="M680 208 q-24 -34 0 -66 q24 -32 0 -62" stroke="#ffffff" stroke-width="11" fill="none" stroke-linecap="round" opacity="0.5"/>
+  </g>
+
+  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
+  <text x="178" y="105" text-anchor="middle" font-size="29" font-weight="700" fill="#8E1F1A" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">맛있는 녀석들</text>
+
+  <text x="72" y="288" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">소고기미역전골</text>
+  <text x="72" y="366" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">한 냄비 가득</text>
+
+  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
+
+  <text x="72" y="484" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">성수역 실비옥</text>
+</svg>
