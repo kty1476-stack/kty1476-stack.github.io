@@ -1,0 +1,142 @@
+---
+layout: page
+# The Tag layout
+---
+
+{% include lang.html %}
+
+{% assign sort_categories = site.categories | sort %}
+
+<div class="category-quicknav d-flex flex-wrap">
+  <a href="{{ '/' | relative_url }}" class="category-pill home-pill">
+    <i class="fas fa-home"></i>
+    홈으로
+  </a>
+  {% for category in sort_categories %}
+    {% assign category_name = category | first %}
+    {% assign cat_color = '#b0452e' %}
+    {% case category_name %}
+      {% when '전현무계획' %}{% assign cat_color = '#d9762e' %}
+      {% when '생활의달인' %}{% assign cat_color = '#4c8c4a' %}
+      {% when '맛있는녀석들' %}{% assign cat_color = '#c1443c' %}
+      {% when '인기검색맛집' %}{% assign cat_color = '#3c7a89' %}
+      {% when 'TV맛집' %}{% assign cat_color = '#b0452e' %}
+      {% when '발로뛴 맛집' %}{% assign cat_color = '#7a5c8c' %}
+      {% when '정부지원금' %}{% assign cat_color = '#215c9e' %}
+    {% endcase %}
+    {% capture _category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
+    <a href="{{ _category_url | relative_url }}" class="category-pill" style="--cat-color: {{ cat_color }};">{{ category_name }}</a>
+  {% endfor %}
+</div>
+
+{% assign page_cat_color = '#b0452e' %}
+{% case page.title %}
+  {% when '전현무계획' %}{% assign page_cat_color = '#d9762e' %}
+  {% when '생활의달인' %}{% assign page_cat_color = '#4c8c4a' %}
+  {% when '맛있는녀석들' %}{% assign page_cat_color = '#c1443c' %}
+  {% when '인기검색맛집' %}{% assign page_cat_color = '#3c7a89' %}
+  {% when 'TV맛집' %}{% assign page_cat_color = '#b0452e' %}
+  {% when '발로뛴 맛집' %}{% assign page_cat_color = '#7a5c8c' %}
+  {% when '정부지원금' %}{% assign page_cat_color = '#215c9e' %}
+{% endcase %}
+
+<div id="page-tag">
+  <h1 class="ps-lg-2 mb-4">
+    <i class="fa fa-tag fa-fw" style="color: {{ page_cat_color }};"></i>
+    {{ page.title }}
+    <span class="lead text-muted ps-2">{{ page.posts | size }}</span>
+  </h1>
+
+  <div id="post-list" class="flex-grow-1 px-xl-1">
+    {% for post in page.posts %}
+      {% assign main_category = post.categories[0] %}
+      {% assign cat_color = '#b0452e' %}
+      {% case main_category %}
+        {% when '전현무계획' %}{% assign cat_color = '#d9762e' %}
+        {% when '생활의달인' %}{% assign cat_color = '#4c8c4a' %}
+        {% when '맛있는녀석들' %}{% assign cat_color = '#c1443c' %}
+        {% when '인기검색맛집' %}{% assign cat_color = '#3c7a89' %}
+        {% when 'TV맛집' %}{% assign cat_color = '#b0452e' %}
+        {% when '발로뛴 맛집' %}{% assign cat_color = '#7a5c8c' %}
+        {% when '정부지원금' %}{% assign cat_color = '#215c9e' %}
+      {% endcase %}
+      <article class="card-wrapper card" style="--cat-color: {{ cat_color }};">
+        <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
+          {% assign card_body_col = '12' %}
+
+          {% if post.image %}
+            {% assign src = post.image.path | default: post.image %}
+
+            {% if post.media_subpath %}
+              {% unless src contains '://' %}
+                {% assign src = post.media_subpath
+                  | append: '/'
+                  | append: src
+                  | replace: '///', '/'
+                  | replace: '//', '/'
+                %}
+              {% endunless %}
+            {% endif %}
+
+            {% if post.image.lqip %}
+              {% assign lqip = post.image.lqip %}
+
+              {% if post.media_subpath %}
+                {% unless lqip contains 'data:' %}
+                  {% assign lqip = post.media_subpath
+                    | append: '/'
+                    | append: lqip
+                    | replace: '///', '/'
+                    | replace: '//', '/'
+                  %}
+                {% endunless %}
+              {% endif %}
+
+              {% assign lqip_attr = 'lqip="' | append: lqip | append: '"' %}
+            {% endif %}
+
+            {% assign alt = post.image.alt | xml_escape | default: 'Preview Image' %}
+
+            <div class="col-md-5">
+              <img src="{{ src }}" alt="{{ alt }}" {{ lqip_attr }}>
+            </div>
+
+            {% assign card_body_col = '7' %}
+          {% endif %}
+
+          <div class="col-md-{{ card_body_col }}">
+            <div class="card-body d-flex flex-column">
+              <h1 class="card-title my-2 mt-md-0">{{ post.title }}</h1>
+
+              <div class="card-text content mt-0 mb-3">
+                <p>{% include post-summary.html %}</p>
+              </div>
+
+              <div class="post-meta flex-grow-1 d-flex align-items-end">
+                <div class="me-auto">
+                  <!-- posted date -->
+                  <i class="far fa-calendar fa-fw me-1"></i>
+                  {% include datetime.html date=post.date lang=lang %}
+
+                  <!-- categories -->
+                  {% if post.categories.size > 0 %}
+                    <i class="far fa-folder-open fa-fw me-1"></i>
+                    <span class="categories" style="--cat-color: {{ cat_color }};">
+                      {% for category in post.categories %}
+                        {{ category }}
+                        {%- unless forloop.last -%},{%- endunless -%}
+                      {% endfor %}
+                    </span>
+                  {% endif %}
+                </div>
+              </div>
+              <!-- .post-meta -->
+            </div>
+            <!-- .card-body -->
+          </div>
+        </a>
+      </article>
+    {% endfor %}
+  </div>
+  <!-- #post-list -->
+</div>
