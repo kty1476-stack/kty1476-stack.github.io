@@ -32,15 +32,7 @@ layout: page
     {% assign sub_categories = sub_categories | sort %}
     {% assign sub_categories_size = sub_categories | size %}
 
-    {% assign cat_color = '#b0452e' %}
-    {% case category_name %}
-      {% when '전현무계획' %}{% assign cat_color = '#d9762e' %}
-      {% when '생활의달인' %}{% assign cat_color = '#4c8c4a' %}
-      {% when '맛있는녀석들' %}{% assign cat_color = '#c1443c' %}
-      {% when '인기검색맛집' %}{% assign cat_color = '#3c7a89' %}
-      {% when 'TV맛집' %}{% assign cat_color = '#b0452e' %}
-      {% when '발로뛴 맛집' %}{% assign cat_color = '#7a5c8c' %}
-    {% endcase %}
+    {% include cat-color.html name=category_name %}
 
     <div class="card categories" style="--cat-color: {{ cat_color }};">
       <!-- top-category -->
