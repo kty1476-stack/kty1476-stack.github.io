@@ -1,0 +1,46 @@
+{%- comment -%}
+  카테고리 색상 결정 (_data/category_colors.yml 참조)
+
+    입력 : include.name  = 카테고리 이름
+    출력 : cat_color     = "#RRGGBB"
+
+  1) fixed 표에 있으면 그 색을 쓴다 (기존 카테고리는 색이 절대 안 바뀜)
+  2) 표에 없는 새 카테고리는 auto 팔레트에서 자동 배정한다.
+     순서 기준은 "그 카테고리의 첫 글이 올라온 시각"이라서,
+     나중에 카테고리가 더 생겨도 먼저 있던 카테고리의 색은 그대로 유지된다.
+  3) 카테고리가 아예 아니면(태그 페이지 등) default 색을 쓴다.
+{%- endcomment -%}
+
+{%- assign _cc_name = include.name -%}
+{%- assign cat_color = site.data.category_colors.fixed[_cc_name] -%}
+
+{%- unless cat_color -%}
+  {%- assign _cc_mine = site.categories[_cc_name] -%}
+
+  {%- if _cc_mine == nil or _cc_mine.size == 0 -%}
+    {%- assign cat_color = site.data.category_colors.default | default: '#b0452e' -%}
+  {%- else -%}
+    {%- assign _cc_mine_sorted = _cc_mine | sort: 'date' -%}
+    {%- assign _cc_my_first = _cc_mine_sorted[0].date | date: '%Y%m%d%H%M%S' -%}
+    {%- assign _cc_rank = 0 -%}
+
+    {%- for _cc_pair in site.categories -%}
+      {%- assign _cc_other = _cc_pair[0] -%}
+      {%- unless _cc_other == _cc_name -%}
+        {%- unless site.data.category_colors.fixed[_cc_other] -%}
+          {%- assign _cc_other_sorted = _cc_pair[1] | sort: 'date' -%}
+          {%- assign _cc_other_first = _cc_other_sorted[0].date | date: '%Y%m%d%H%M%S' -%}
+          {%- if _cc_other_first < _cc_my_first -%}
+            {%- assign _cc_rank = _cc_rank | plus: 1 -%}
+          {%- elsif _cc_other_first == _cc_my_first and _cc_other < _cc_name -%}
+            {%- assign _cc_rank = _cc_rank | plus: 1 -%}
+          {%- endif -%}
+        {%- endunless -%}
+      {%- endunless -%}
+    {%- endfor -%}
+
+    {%- assign _cc_palette = site.data.category_colors.auto -%}
+    {%- assign _cc_index = _cc_rank | modulo: _cc_palette.size -%}
+    {%- assign cat_color = _cc_palette[_cc_index] -%}
+  {%- endif -%}
+{%- endunless -%}
