@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E14A2B"/>
+      <stop offset="1" stop-color="#8E1F1A"/>
+    </linearGradient>
+    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.38"/>
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="bowlGrad" cx="0.35" cy="0.2" r="0.9">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.55" stop-color="#EFE3D2"/>
+      <stop offset="1" stop-color="#C8B49B"/>
+    </radialGradient>
+    <radialGradient id="brothGrad" cx="0.4" cy="0.3" r="0.8">
+      <stop offset="0" stop-color="#F7EBD6"/>
+      <stop offset="1" stop-color="#DCC7A5"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="820" height="630" fill="url(#scrim)"/>
+  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
+    <ellipse cx="600" cy="452" rx="220" ry="26" fill="#000000" opacity="0.18"/>
+    <path d="M400 300 Q400 440 600 440 Q800 440 800 300 Z" fill="url(#bowlGrad)"/>
+    <ellipse cx="600" cy="300" rx="200" ry="60" fill="#F4E9DA"/>
+    <ellipse cx="600" cy="302" rx="176" ry="50" fill="url(#brothGrad)"/>
+    <ellipse cx="558" cy="292" rx="46" ry="24" fill="#E8CDA8"/>
+    <ellipse cx="632" cy="306" rx="40" ry="21" fill="#DCBB92"/>
+    <ellipse cx="596" cy="278" rx="30" ry="15" fill="#F0DCC0"/>
+    <circle cx="666" cy="286" r="9" fill="#4E9C4E"/>
+    <circle cx="540" cy="322" r="8" fill="#4E9C4E"/>
+    <circle cx="608" cy="330" r="7" fill="#4E9C4E"/>
+    <path d="M556 218 q18 -26 0 -52 q-18 -26 0 -52" stroke="#ffffff" stroke-width="9" fill="none" opacity="0.5" stroke-linecap="round"/>
+    <path d="M626 226 q18 -26 0 -52 q-18 -26 0 -52" stroke="#ffffff" stroke-width="9" fill="none" opacity="0.38" stroke-linecap="round"/>
+  </g>
+  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
+  <text x="178" y="105" text-anchor="middle" font-size="29" font-weight="700" fill="#8E1F1A" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">맛있는 녀석들</text>
+  <text x="72" y="288" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">70년 넘게</text>
+  <text x="72" y="366" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">끓여 온 족탕</text>
+  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
+  <text x="72" y="484" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">을지로4가 문화옥</text>
+</svg>
