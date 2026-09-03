@@ -167,3 +167,21 @@ span.categories {
 #main-wrapper .content {
   padding-top: .5rem;
 }
+
+/* 홈으로 버튼 - 카테고리 색상과 헷갈리지 않도록 중립 차콜 컬러 */
+.category-pill.home-pill {
+  background: #37474f;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.18);
+}
+.category-pill.home-pill:hover {
+  background: #263238;
+}
+.category-pill.home-pill i {
+  margin-right: 4px;
+}
+html[data-mode="dark"] .category-pill.home-pill {
+  background: #5c6b73;
+}
+html[data-mode="dark"] .category-pill.home-pill:hover {
+  background: #708791;
+}
