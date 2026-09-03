@@ -185,3 +185,8 @@ html[data-mode="dark"] .category-pill.home-pill {
 html[data-mode="dark"] .category-pill.home-pill:hover {
   background: #708791;
 }
+
+/* 상단 경로(브레드크럼) 숨김 */
+#breadcrumb {
+  display: none !important;
+}
