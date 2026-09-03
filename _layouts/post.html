@@ -22,16 +22,7 @@ script_includes:
     {% assign sorted_categories = site.categories | sort %}
     {% for category in sorted_categories %}
       {% assign category_name = category | first %}
-      {% assign cat_color = '#b0452e' %}
-      {% case category_name %}
-        {% when '전현무계획' %}{% assign cat_color = '#d9762e' %}
-        {% when '생활의달인' %}{% assign cat_color = '#4c8c4a' %}
-        {% when '맛있는녀석들' %}{% assign cat_color = '#c1443c' %}
-        {% when '인기검색맛집' %}{% assign cat_color = '#3c7a89' %}
-        {% when 'TV맛집' %}{% assign cat_color = '#b0452e' %}
-        {% when '발로뛴 맛집' %}{% assign cat_color = '#7a5c8c' %}
-        {% when '정부지원금' %}{% assign cat_color = '#215c9e' %}
-      {% endcase %}
+      {% include cat-color.html name=category_name %}
       {% capture _category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
       <a href="{{ _category_url | relative_url }}" class="category-pill" style="--cat-color: {{ cat_color }};">{{ category_name }}</a>
     {% endfor %}
