@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2E71B8"/>
+      <stop offset="1" stop-color="#081D3C"/>
+    </linearGradient>
+    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.38"/>
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#C3D8F0"/>
+    </linearGradient>
+    <radialGradient id="coin" cx="0.35" cy="0.3" r="0.8">
+      <stop offset="0" stop-color="#FFD673"/>
+      <stop offset="1" stop-color="#E0A01A"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="820" height="630" fill="url(#scrim)"/>
+
+  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
+    <circle cx="600" cy="325" r="205" fill="url(#glow)"/>
+
+    <rect x="430" y="225" width="350" height="215" rx="26" fill="url(#card)"/>
+    <rect x="430" y="266" width="350" height="42" fill="#0C2C52"/>
+    <rect x="468" y="336" width="60" height="44" rx="10" fill="#F2B01E"/>
+    <rect x="468" y="352" width="60" height="5" fill="#C98A12"/>
+    <rect x="495" y="336" width="6" height="44" fill="#C98A12"/>
+    <rect x="468" y="404" width="150" height="12" rx="6" fill="#2E71B8" opacity="0.55"/>
+    <rect x="632" y="404" width="86" height="12" rx="6" fill="#2E71B8" opacity="0.3"/>
+
+    <path d="M 706 318 L 651 380 L 682 380 L 666 434 L 722 366 L 691 366 Z" fill="#F2B01E" stroke="#0C2C52" stroke-width="6" stroke-linejoin="round"/>
+
+    <ellipse cx="418" cy="462" rx="52" ry="18" fill="#C98A12"/>
+    <rect x="366" y="440" width="104" height="22" fill="#E0A01A"/>
+    <ellipse cx="418" cy="440" rx="52" ry="18" fill="url(#coin)"/>
+    <rect x="366" y="418" width="104" height="22" fill="#E0A01A"/>
+    <ellipse cx="418" cy="418" rx="52" ry="18" fill="url(#coin)"/>
+  </g>
+
+  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
+  <text x="178" y="105" text-anchor="middle" font-size="29" font-weight="700" fill="#0C2C52" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">정부지원금</text>
+
+  <text x="72" y="288" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">에너지바우처</text>
+  <text x="72" y="366" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">최대 70만 원</text>
+
+  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
+
+  <text x="72" y="484" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">신청은 12월 31일까지</text>
+</svg>
