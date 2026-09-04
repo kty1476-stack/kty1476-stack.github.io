@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E14A2B"/>
+      <stop offset="1" stop-color="#8E1F1A"/>
+    </linearGradient>
+    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.38"/>
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="plate" cx="0.38" cy="0.32" r="0.78">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#d8cec4"/>
+    </radialGradient>
+    <radialGradient id="meat" cx="0.36" cy="0.3" r="0.8">
+      <stop offset="0" stop-color="#F0693F"/>
+      <stop offset="1" stop-color="#A32410"/>
+    </radialGradient>
+    <radialGradient id="bowl" cx="0.36" cy="0.3" r="0.8">
+      <stop offset="0" stop-color="#F4EDE4"/>
+      <stop offset="1" stop-color="#C9BCAC"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="820" height="630" fill="url(#scrim)"/>
+
+  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
+    <ellipse cx="600" cy="420" rx="250" ry="52" fill="#000000" opacity="0.18"/>
+    <ellipse cx="600" cy="330" rx="240" ry="150" fill="url(#plate)"/>
+    <ellipse cx="600" cy="330" rx="196" ry="120" fill="#efe6da"/>
+    <ellipse cx="600" cy="332" rx="168" ry="100" fill="url(#meat)"/>
+    <ellipse cx="546" cy="306" rx="44" ry="24" fill="#F58253" opacity="0.85"/>
+    <ellipse cx="646" cy="352" rx="52" ry="26" fill="#8E1F0F" opacity="0.7"/>
+    <ellipse cx="628" cy="300" rx="34" ry="18" fill="#F8A06A" opacity="0.75"/>
+    <ellipse cx="562" cy="360" rx="30" ry="16" fill="#F58253" opacity="0.6"/>
+    <ellipse cx="590" cy="290" rx="28" ry="10" fill="#5FA24B"/>
+    <ellipse cx="666" cy="322" rx="24" ry="9" fill="#5FA24B"/>
+    <ellipse cx="536" cy="338" rx="22" ry="8" fill="#7FBF62"/>
+    <circle cx="606" cy="336" r="6" fill="#FFF1D6"/>
+    <circle cx="576" cy="330" r="5" fill="#FFF1D6"/>
+    <circle cx="640" cy="316" r="5" fill="#FFF1D6"/>
+    <ellipse cx="392" cy="392" rx="98" ry="62" fill="url(#bowl)"/>
+    <ellipse cx="392" cy="386" rx="76" ry="46" fill="#FBF7F0"/>
+    <ellipse cx="392" cy="386" rx="60" ry="34" fill="#F3E7CE"/>
+    <path d="M366 340 q10 -26 26 -40" stroke="#ffffff" stroke-width="8" stroke-linecap="round" fill="none" opacity="0.5"/>
+    <path d="M404 342 q12 -24 30 -36" stroke="#ffffff" stroke-width="8" stroke-linecap="round" fill="none" opacity="0.35"/>
+  </g>
+
+  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
+  <text x="178" y="105" text-anchor="middle" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="29" font-weight="700" fill="#8E1F1A">맛있는 녀석들</text>
+
+  <text x="72" y="288" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">조미료 없이 낸</text>
+  <text x="72" y="366" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">남도 손맛 한 상</text>
+
+  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
+
+  <text x="72" y="484" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92">서울 여의도 · 남도집</text>
+</svg>
