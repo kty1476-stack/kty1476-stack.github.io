@@ -1,0 +1,9 @@
+---
+permalink: /robots.txt
+---
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
+Sitemap: https://kty1476-stack.github.io/watch-today/sitemap.xml
