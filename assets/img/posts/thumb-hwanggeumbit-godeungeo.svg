@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E14A2B"/>
+      <stop offset="1" stop-color="#8E1F1A"/>
+    </linearGradient>
+    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.38"/>
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="plate" cx="0.38" cy="0.32" r="0.78">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#d9d2c6"/>
+    </radialGradient>
+    <radialGradient id="fish" cx="0.35" cy="0.3" r="0.8">
+      <stop offset="0" stop-color="#8fa8bd"/>
+      <stop offset="1" stop-color="#3d5468"/>
+    </radialGradient>
+    <radialGradient id="flame" cx="0.5" cy="0.75" r="0.75">
+      <stop offset="0" stop-color="#FFD86B"/>
+      <stop offset="1" stop-color="#E2601C"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="820" height="630" fill="url(#scrim)"/>
+
+  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
+    <ellipse cx="600" cy="470" rx="250" ry="42" fill="#000000" opacity="0.18"/>
+    <ellipse cx="600" cy="330" rx="240" ry="150" fill="url(#plate)"/>
+    <ellipse cx="600" cy="330" rx="196" ry="120" fill="#efe7da"/>
+    <path d="M420 330 C480 250, 700 250, 760 330 C700 410, 480 410, 420 330 Z" fill="url(#fish)"/>
+    <path d="M760 330 L830 288 L830 372 Z" fill="#5b7285"/>
+    <path d="M470 330 C520 292, 700 292, 748 330 C700 368, 520 368, 470 330 Z" fill="#c9a06a" opacity="0.55"/>
+    <path d="M500 300 L560 300 M520 330 L590 330 M500 360 L560 360" stroke="#2b3b4a" stroke-width="9" stroke-linecap="round" opacity="0.55"/>
+    <circle cx="470" cy="316" r="11" fill="#f3f3f3"/>
+    <circle cx="470" cy="316" r="5" fill="#22303d"/>
+    <ellipse cx="600" cy="452" rx="120" ry="26" fill="url(#flame)" opacity="0.85"/>
+    <circle cx="405" cy="252" r="20" fill="#7FBF6A"/>
+    <circle cx="795" cy="252" r="16" fill="#F2C14E"/>
+  </g>
+
+  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
+  <text x="178" y="105" text-anchor="middle" font-size="29" font-weight="700" fill="#8E1F1A" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">맛있는 녀석들</text>
+
+  <text x="72" y="288" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">450도 화덕에서</text>
+  <text x="72" y="366" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">구워낸 생선 한 상</text>
+
+  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
+
+  <text x="72" y="484" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">인천 가정동 황금빛고등어</text>
+</svg>
