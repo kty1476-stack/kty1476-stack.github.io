@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E14A2B"/>
+      <stop offset="1" stop-color="#8E1F1A"/>
+    </linearGradient>
+    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.38"/>
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="broth" cx="0.38" cy="0.32" r="0.78">
+      <stop offset="0" stop-color="#FBF0D4"/>
+      <stop offset="1" stop-color="#E4CE9C"/>
+    </radialGradient>
+    <radialGradient id="bowl" cx="0.35" cy="0.22" r="0.9">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#D9DEE4"/>
+    </radialGradient>
+    <radialGradient id="noodle" cx="0.35" cy="0.3" r="0.8">
+      <stop offset="0" stop-color="#FFF8E6"/>
+      <stop offset="1" stop-color="#EBD9A8"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="820" height="630" fill="url(#scrim)"/>
+
+  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
+    <ellipse cx="600" cy="502" rx="196" ry="26" fill="#000000" opacity="0.18"/>
+    <path d="M 414 316 Q 424 494 600 494 Q 776 494 786 316 Z" fill="url(#bowl)"/>
+    <ellipse cx="600" cy="316" rx="186" ry="66" fill="url(#broth)"/>
+    <path d="M 452 312 Q 520 276 596 300 Q 672 324 744 292" fill="none" stroke="url(#noodle)" stroke-width="15" stroke-linecap="round"/>
+    <path d="M 460 336 Q 528 300 604 324 Q 680 348 748 316" fill="none" stroke="url(#noodle)" stroke-width="15" stroke-linecap="round"/>
+    <path d="M 468 360 Q 536 326 610 348 Q 684 370 742 342" fill="none" stroke="url(#noodle)" stroke-width="15" stroke-linecap="round"/>
+    <ellipse cx="536" cy="298" rx="44" ry="15" fill="#F2F6F8" transform="rotate(-12 536 298)"/>
+    <ellipse cx="668" cy="306" rx="40" ry="13" fill="#F6E8A8" transform="rotate(10 668 306)"/>
+    <ellipse cx="600" cy="344" rx="34" ry="11" fill="#3E8B57" transform="rotate(-6 600 344)"/>
+    <ellipse cx="558" cy="352" rx="26" ry="9" fill="#3E8B57" transform="rotate(8 558 352)"/>
+    <path d="M 414 320 Q 600 372 786 320" fill="none" stroke="#FFFFFF" stroke-width="10" opacity="0.55"/>
+    <path d="M 690 168 Q 706 198 690 228 Q 674 258 690 288" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity="0.4"/>
+    <path d="M 600 148 Q 616 180 600 212 Q 584 244 600 276" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity="0.34"/>
+    <path d="M 510 168 Q 526 198 510 228 Q 494 258 510 288" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity="0.4"/>
+  </g>
+
+  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
+  <text x="178" y="105" text-anchor="middle" font-size="29" font-weight="700" fill="#8E1F1A" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">맛있는 녀석들</text>
+
+  <text x="72" y="288" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">43년 홍두깨</text>
+  <text x="72" y="366" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">국시 한 그릇</text>
+
+  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
+
+  <text x="72" y="484" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">압구정 안동국시</text>
+</svg>
