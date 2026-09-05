@@ -1,60 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#3E9E63"/>
-      <stop offset="100%" stop-color="#14472B"/>
-    </linearGradient>
-    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.38"/>
-      <stop offset="60%" stop-color="#000000" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="plate" cx="40%" cy="35%" r="72%">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#D9DEE2"/>
-    </radialGradient>
-    <radialGradient id="crust" cx="38%" cy="32%" r="75%">
-      <stop offset="0%" stop-color="#F2C57C"/>
-      <stop offset="100%" stop-color="#C98A3C"/>
-    </radialGradient>
-    <radialGradient id="cheese" cx="40%" cy="34%" r="72%">
-      <stop offset="0%" stop-color="#FFE9A8"/>
-      <stop offset="100%" stop-color="#F0C05A"/>
-    </radialGradient>
-  </defs>
-
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect width="820" height="630" fill="url(#scrim)"/>
-
-  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
-    <ellipse cx="600" cy="352" rx="252" ry="248" fill="#000000" opacity="0.18"/>
-    <circle cx="600" cy="330" r="250" fill="url(#plate)"/>
-    <circle cx="600" cy="330" r="228" fill="#EDF1F3"/>
-    <circle cx="600" cy="330" r="205" fill="url(#crust)"/>
-    <circle cx="600" cy="330" r="168" fill="url(#cheese)"/>
-    <circle cx="524" cy="268" r="26" fill="#D8452F"/>
-    <circle cx="662" cy="262" r="22" fill="#D8452F"/>
-    <circle cx="600" cy="360" r="27" fill="#D8452F"/>
-    <circle cx="502" cy="382" r="21" fill="#D8452F"/>
-    <circle cx="676" cy="398" r="24" fill="#D8452F"/>
-    <ellipse cx="566" cy="316" rx="17" ry="11" fill="#7FB069" opacity="0.95"/>
-    <ellipse cx="646" cy="336" rx="15" ry="10" fill="#7FB069" opacity="0.95"/>
-    <ellipse cx="588" cy="424" rx="16" ry="10" fill="#7FB069" opacity="0.95"/>
-    <path d="M600 330 L600 162" stroke="#E0A94E" stroke-width="7" stroke-linecap="round" opacity="0.65"/>
-    <path d="M600 330 L746 246" stroke="#E0A94E" stroke-width="7" stroke-linecap="round" opacity="0.65"/>
-    <path d="M600 330 L746 414" stroke="#E0A94E" stroke-width="7" stroke-linecap="round" opacity="0.65"/>
-    <path d="M600 330 L600 498" stroke="#E0A94E" stroke-width="7" stroke-linecap="round" opacity="0.65"/>
-    <path d="M600 330 L454 414" stroke="#E0A94E" stroke-width="7" stroke-linecap="round" opacity="0.65"/>
-    <path d="M600 330 L454 246" stroke="#E0A94E" stroke-width="7" stroke-linecap="round" opacity="0.65"/>
-  </g>
-
-  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
-  <text x="178" y="105" text-anchor="middle" font-size="29" font-weight="700" fill="#14472B" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">생활의 달인</text>
-
-  <text x="72" y="288" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">엣지까지 치즈로</text>
-  <text x="72" y="366" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">채운 한 판</text>
-
-  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
-
-  <text x="72" y="484" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">부산 남포동 이재모피자 본점</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+ <title id="title">치즈로 채운 한 판 — 부산 남포동 · 이재모피자</title><desc id="desc">생활의 달인 게시글을 위한 치즈로 채운 한 판 일러스트. 실제 음식 사진이 아닌 주제 표현입니다.</desc>
+ <g font-family="'Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+ <rect x="0" y="0" width="1200" height="630" rx="0" fill="#FBEBCF"/><ellipse cx="600" cy="382" rx="465" ry="185" fill="#FFFFFF65"/>
+ <path d="M0 521 Q300 469 600 531 T1200 515 V630 H0 Z" fill="#FFFFFF60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="600" y="55" text-anchor="middle" fill="#A37436" font-size="24" font-weight="700">생활의 달인</text><text x="600" y="127" text-anchor="middle" fill="#34483E" font-size="57" font-weight="700">치즈로 채운 한 판</text>
+ <g transform="translate(600 352) scale(1.12)"><ellipse cx="0" cy="20" rx="245" ry="132" fill="#00000010"/><ellipse cx="0" cy="0" rx="246" ry="130" fill="#FFFDF7"/><ellipse cx="0" cy="0" rx="215" ry="108" fill="#F2EDE1"/><ellipse cx="0" cy="0" rx="204" ry="99" fill="#FFFCF5"/><ellipse cx="0" cy="0" rx="185" ry="100" fill="#CE8D42"/><ellipse cx="0" cy="-5" rx="172" ry="90" fill="#F7D46F"/><ellipse cx="45" cy="0" rx="16" ry="12" fill="#D9694C"/><ellipse cx="-40.5566543547685" cy="20.263895416534528" rx="16" ry="12" fill="#D9694C"/><ellipse cx="5.687433923564016" cy="-34.865761309254424" rx="16" ry="12" fill="#D9694C"/><ellipse cx="45.62634858991914" cy="31.746714553966108" rx="16" ry="12" fill="#D9694C"/><ellipse cx="-83.6984677425008" cy="-7.8447051550340845" rx="16" ry="12" fill="#D9694C"/><ellipse cx="80.16612607958675" cy="-26.828645900021748" rx="16" ry="12" fill="#D9694C"/><ellipse cx="-27.280822402444183" cy="53.11117771021029" rx="16" ry="12" fill="#D9694C"/><ellipse cx="-52.97803755230669" cy="-53.254022014890275" rx="16" ry="12" fill="#D9694C"/><ellipse cx="117.40254333710885" cy="22.315470373293202" rx="16" ry="12" fill="#D9694C"/><path d="M0 -93 L0 85 M-156 -44 L153 42 M-149 49 L146 -48" fill="none" stroke="#E5AD4E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(35 10) rotate(40)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(-73 -25) rotate(-30)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+ <g transform="translate(215 403) rotate(-35)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(991 380) rotate(50)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><ellipse cx="260" cy="285" rx="8" ry="8" fill="#A37436"/><ellipse cx="942" cy="456" rx="7" ry="7" fill="#A37436"/>
+ <text x="600" y="568" text-anchor="middle" fill="#43574D" font-size="31" font-weight="600">부산 남포동 · 이재모피자</text><text x="600" y="606" text-anchor="middle" fill="#A37436" font-size="17" font-weight="400">오늘의 맛집 · 메뉴 일러스트</text>
+ </g></svg>

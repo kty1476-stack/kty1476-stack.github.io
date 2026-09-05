@@ -1,98 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <defs>
-    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#E07A3E"/>
-      <stop offset="55%" stop-color="#C4592B"/>
-      <stop offset="100%" stop-color="#7C3417"/>
-    </linearGradient>
-    <radialGradient id="pancake" cx="40%" cy="34%" r="68%">
-      <stop offset="0%" stop-color="#F4C266"/>
-      <stop offset="55%" stop-color="#DE9C3E"/>
-      <stop offset="85%" stop-color="#BD7B27"/>
-      <stop offset="100%" stop-color="#9C601A"/>
-    </radialGradient>
-    <radialGradient id="plateShadow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="plateInner" cx="42%" cy="35%" r="70%">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="70%" stop-color="#F1EAE0"/>
-      <stop offset="100%" stop-color="#E2D8C8"/>
-    </radialGradient>
-    <linearGradient id="plateRim" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#CFC6B6"/>
-    </linearGradient>
-    <linearGradient id="scrimLR" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.38"/>
-      <stop offset="60%" stop-color="#000000" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1200" height="630" fill="url(#bg1)"/>
-  <g opacity="0.05" stroke="#FFFFFF" stroke-width="2">
-    <line x1="-100" y1="80" x2="1300" y2="580"/>
-    <line x1="-100" y1="180" x2="1300" y2="680"/>
-    <line x1="-100" y1="-20" x2="1300" y2="480"/>
-  </g>
-  <g opacity="0.08" fill="#ffffff">
-    <circle cx="120" cy="90" r="4"/>
-    <circle cx="1080" cy="120" r="5"/>
-    <circle cx="980" cy="60" r="3"/>
-    <circle cx="60" cy="500" r="4"/>
-    <circle cx="1140" cy="200" r="4"/>
-  </g>
-  <rect width="820" height="630" fill="url(#scrimLR)"/>
-
-  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
-    <ellipse cx="600" cy="400" rx="300" ry="70" fill="url(#plateShadow)"/>
-    <ellipse cx="600" cy="335" rx="290" ry="118" fill="url(#plateRim)"/>
-    <ellipse cx="600" cy="330" rx="262" ry="100" fill="url(#plateInner)"/>
-    <ellipse cx="600" cy="330" rx="150" ry="58" fill="none" stroke="#DCD2C0" stroke-width="3" opacity="0.7"/>
-    <ellipse cx="600" cy="322" rx="212" ry="82" fill="#7A4A16" opacity="0.25"/>
-    <circle cx="598" cy="308" r="196" fill="url(#pancake)" stroke="#6E4014" stroke-width="6"/>
-    <ellipse cx="520" cy="235" rx="95" ry="46" fill="#FFFFFF" opacity="0.16" transform="rotate(-18 520 235)"/>
-    <g fill="#9A6420" opacity="0.5">
-      <ellipse cx="520" cy="220" rx="32" ry="19" transform="rotate(-15 520 220)"/>
-      <ellipse cx="680" cy="255" rx="28" ry="17" transform="rotate(20 680 255)"/>
-      <ellipse cx="598" cy="378" rx="36" ry="21" transform="rotate(5 598 378)"/>
-      <ellipse cx="484" cy="352" rx="24" ry="15" transform="rotate(-25 484 352)"/>
-      <ellipse cx="690" cy="392" rx="22" ry="14" transform="rotate(15 690 392)"/>
-      <ellipse cx="560" cy="410" rx="20" ry="12" transform="rotate(-8 560 410)"/>
-    </g>
-    <g fill="#F7E7B8">
-      <circle cx="558" cy="262" r="6"/>
-      <circle cx="636" cy="298" r="5"/>
-      <circle cx="578" cy="338" r="5"/>
-      <circle cx="646" cy="232" r="4"/>
-      <circle cx="512" cy="300" r="4"/>
-      <circle cx="656" cy="356" r="5"/>
-      <circle cx="600" cy="200" r="4"/>
-      <circle cx="500" cy="260" r="4"/>
-    </g>
-    <g stroke="#4E7A3C" stroke-width="10" stroke-linecap="round" opacity="0.85">
-      <line x1="538" y1="228" x2="578" y2="268"/>
-      <line x1="636" y1="336" x2="598" y2="376"/>
-      <line x1="478" y1="328" x2="518" y2="358"/>
-      <line x1="666" y1="266" x2="636" y2="236"/>
-      <line x1="600" y1="196" x2="632" y2="222"/>
-    </g>
-    <g fill="#3E6630" opacity="0.7">
-      <circle cx="538" cy="228" r="4"/>
-      <circle cx="636" cy="336" r="4"/>
-      <circle cx="478" cy="328" r="4"/>
-      <circle cx="666" cy="266" r="4"/>
-    </g>
-    <path d="M 760 290 C 780 268 792 300 776 316 C 762 328 748 306 760 290 Z" fill="url(#pancake)" stroke="#6E4014" stroke-width="4"/>
-  </g>
-
-  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
-  <text x="178" y="105" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="29" font-weight="700" fill="#8C3B1B" text-anchor="middle">전현무계획</text>
-
-  <text x="72" y="288" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">노포의 손맛에</text>
-  <text x="72" y="366" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">반한 빈대떡</text>
-  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
-  <text x="72" y="484" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92">남대문시장 부원면옥</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+ <title id="title">빈대떡 한 장 — 남대문시장 · 부원면옥</title><desc id="desc">전현무계획 게시글을 위한 빈대떡 한 장 일러스트. 실제 음식 사진이 아닌 주제 표현입니다.</desc>
+ <g font-family="'Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+ <rect x="0" y="0" width="1200" height="630" rx="0" fill="#FFF1D0"/><ellipse cx="600" cy="382" rx="465" ry="185" fill="#FFFFFF65"/>
+ <path d="M0 521 Q300 469 600 531 T1200 515 V630 H0 Z" fill="#FFFFFF60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="600" y="55" text-anchor="middle" fill="#876429" font-size="24" font-weight="700">전현무계획</text><text x="600" y="127" text-anchor="middle" fill="#34483E" font-size="57" font-weight="700">빈대떡 한 장</text>
+ <g transform="translate(600 352) scale(1.12)"><ellipse cx="0" cy="20" rx="245" ry="132" fill="#00000010"/><ellipse cx="0" cy="0" rx="246" ry="130" fill="#FFFDF7"/><ellipse cx="0" cy="0" rx="215" ry="108" fill="#F2EDE1"/><ellipse cx="0" cy="0" rx="204" ry="99" fill="#FFFCF5"/><ellipse cx="-30" cy="-4" rx="160" ry="86" fill="#D39842"/><ellipse cx="-30" cy="-9" rx="151" ry="77" fill="#E7BB66"/><rect x="-160" y="-63" width="28" height="6" rx="3" fill="#B27D36"/><rect x="-93" y="-34" width="28" height="6" rx="3" fill="#518655"/><rect x="-26" y="-5" width="28" height="6" rx="3" fill="#B27D36"/><rect x="41" y="24" width="28" height="6" rx="3" fill="#518655"/><rect x="-157" y="-59" width="28" height="6" rx="3" fill="#B27D36"/><rect x="-90" y="-30" width="28" height="6" rx="3" fill="#518655"/><rect x="-23" y="-1" width="28" height="6" rx="3" fill="#B27D36"/><rect x="44" y="28" width="28" height="6" rx="3" fill="#518655"/><rect x="-154" y="-55" width="28" height="6" rx="3" fill="#B27D36"/><rect x="-87" y="-26" width="28" height="6" rx="3" fill="#518655"/><rect x="-20" y="3" width="28" height="6" rx="3" fill="#B27D36"/><rect x="47" y="32" width="28" height="6" rx="3" fill="#518655"/><rect x="-151" y="-51" width="28" height="6" rx="3" fill="#B27D36"/><rect x="-84" y="-22" width="28" height="6" rx="3" fill="#518655"/><rect x="-17" y="7" width="28" height="6" rx="3" fill="#B27D36"/><rect x="50" y="36" width="28" height="6" rx="3" fill="#518655"/><rect x="-148" y="-47" width="28" height="6" rx="3" fill="#B27D36"/><rect x="-81" y="-18" width="28" height="6" rx="3" fill="#518655"/><rect x="-14" y="11" width="28" height="6" rx="3" fill="#B27D36"/><rect x="53" y="40" width="28" height="6" rx="3" fill="#518655"/><rect x="-145" y="-43" width="28" height="6" rx="3" fill="#B27D36"/><rect x="-78" y="-14" width="28" height="6" rx="3" fill="#518655"/><rect x="-11" y="15" width="28" height="6" rx="3" fill="#B27D36"/><rect x="56" y="44" width="28" height="6" rx="3" fill="#518655"/><ellipse cx="180" cy="65" rx="56" ry="33" fill="#FFF"/><ellipse cx="180" cy="65" rx="44" ry="24" fill="#7D4934"/></g>
+ <g transform="translate(215 403) rotate(-35)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(991 380) rotate(50)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><ellipse cx="260" cy="285" rx="8" ry="8" fill="#876429"/><ellipse cx="942" cy="456" rx="7" ry="7" fill="#876429"/>
+ <text x="600" y="568" text-anchor="middle" fill="#43574D" font-size="31" font-weight="600">남대문시장 · 부원면옥</text><text x="600" y="606" text-anchor="middle" fill="#876429" font-size="17" font-weight="400">오늘의 맛집 · 메뉴 일러스트</text>
+ </g></svg>

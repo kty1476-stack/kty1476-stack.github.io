@@ -1,60 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#E14A2B"/>
-      <stop offset="1" stop-color="#8E1F1A"/>
-    </linearGradient>
-    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#000000" stop-opacity="0.38"/>
-      <stop offset="0.6" stop-color="#000000" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="plate" cx="0.38" cy="0.32" r="0.78">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#d8cec4"/>
-    </radialGradient>
-    <radialGradient id="meat" cx="0.36" cy="0.3" r="0.8">
-      <stop offset="0" stop-color="#F0693F"/>
-      <stop offset="1" stop-color="#A32410"/>
-    </radialGradient>
-    <radialGradient id="bowl" cx="0.36" cy="0.3" r="0.8">
-      <stop offset="0" stop-color="#F4EDE4"/>
-      <stop offset="1" stop-color="#C9BCAC"/>
-    </radialGradient>
-  </defs>
-
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect width="820" height="630" fill="url(#scrim)"/>
-
-  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
-    <ellipse cx="600" cy="420" rx="250" ry="52" fill="#000000" opacity="0.18"/>
-    <ellipse cx="600" cy="330" rx="240" ry="150" fill="url(#plate)"/>
-    <ellipse cx="600" cy="330" rx="196" ry="120" fill="#efe6da"/>
-    <ellipse cx="600" cy="332" rx="168" ry="100" fill="url(#meat)"/>
-    <ellipse cx="546" cy="306" rx="44" ry="24" fill="#F58253" opacity="0.85"/>
-    <ellipse cx="646" cy="352" rx="52" ry="26" fill="#8E1F0F" opacity="0.7"/>
-    <ellipse cx="628" cy="300" rx="34" ry="18" fill="#F8A06A" opacity="0.75"/>
-    <ellipse cx="562" cy="360" rx="30" ry="16" fill="#F58253" opacity="0.6"/>
-    <ellipse cx="590" cy="290" rx="28" ry="10" fill="#5FA24B"/>
-    <ellipse cx="666" cy="322" rx="24" ry="9" fill="#5FA24B"/>
-    <ellipse cx="536" cy="338" rx="22" ry="8" fill="#7FBF62"/>
-    <circle cx="606" cy="336" r="6" fill="#FFF1D6"/>
-    <circle cx="576" cy="330" r="5" fill="#FFF1D6"/>
-    <circle cx="640" cy="316" r="5" fill="#FFF1D6"/>
-    <ellipse cx="392" cy="392" rx="98" ry="62" fill="url(#bowl)"/>
-    <ellipse cx="392" cy="386" rx="76" ry="46" fill="#FBF7F0"/>
-    <ellipse cx="392" cy="386" rx="60" ry="34" fill="#F3E7CE"/>
-    <path d="M366 340 q10 -26 26 -40" stroke="#ffffff" stroke-width="8" stroke-linecap="round" fill="none" opacity="0.5"/>
-    <path d="M404 342 q12 -24 30 -36" stroke="#ffffff" stroke-width="8" stroke-linecap="round" fill="none" opacity="0.35"/>
-  </g>
-
-  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
-  <text x="178" y="105" text-anchor="middle" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="29" font-weight="700" fill="#8E1F1A">맛있는 녀석들</text>
-
-  <text x="72" y="288" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">조미료 없이 낸</text>
-  <text x="72" y="366" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">남도 손맛 한 상</text>
-
-  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
-
-  <text x="72" y="484" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92">서울 여의도 · 남도집</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+ <title id="title">정겨운 제육 한 상 — 여의도 · 남도집</title><desc id="desc">맛있는 녀석들 게시글을 위한 정겨운 제육 한 상 일러스트. 실제 음식 사진이 아닌 주제 표현입니다.</desc>
+ <g font-family="'Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+ <rect x="0" y="0" width="1200" height="630" rx="0" fill="#F5E3D6"/><ellipse cx="600" cy="382" rx="465" ry="185" fill="#FFFFFF65"/>
+ <path d="M0 521 Q300 469 600 531 T1200 515 V630 H0 Z" fill="#FFFFFF60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="600" y="55" text-anchor="middle" fill="#9E654C" font-size="24" font-weight="700">맛있는 녀석들</text><text x="600" y="127" text-anchor="middle" fill="#34483E" font-size="57" font-weight="700">정겨운 제육 한 상</text>
+ <g transform="translate(600 352) scale(1.12)"><ellipse cx="0" cy="20" rx="245" ry="132" fill="#00000010"/><ellipse cx="0" cy="0" rx="246" ry="130" fill="#FFFDF7"/><ellipse cx="0" cy="0" rx="215" ry="108" fill="#F2EDE1"/><ellipse cx="0" cy="0" rx="204" ry="99" fill="#FFFCF5"/><g transform="translate(-145 -47) rotate(0)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#DA8554"/></g><g transform="translate(-86 -16) rotate(29)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#C46B42"/></g><g transform="translate(-27 15) rotate(58)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#DA8554"/></g><g transform="translate(32 46) rotate(87)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#C46B42"/></g><g transform="translate(91 -25) rotate(116)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#DA8554"/></g><g transform="translate(-140 6) rotate(145)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#C46B42"/></g><g transform="translate(-81 37) rotate(174)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#DA8554"/></g><g transform="translate(-22 -34) rotate(203)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#C46B42"/></g><g transform="translate(37 -3) rotate(232)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#DA8554"/></g><g transform="translate(96 28) rotate(261)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#C46B42"/></g><g transform="translate(-135 -43) rotate(290)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#DA8554"/></g><g transform="translate(-76 -12) rotate(319)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#C46B42"/></g><g transform="translate(-17 19) rotate(348)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#DA8554"/></g><g transform="translate(42 50) rotate(377)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#C46B42"/></g><g transform="translate(101 -21) rotate(406)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#DA8554"/></g><g transform="translate(-130 10) rotate(435)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#C46B42"/></g><g transform="translate(-71 41) rotate(464)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#DA8554"/></g><g transform="translate(-12 -30) rotate(493)"><rect x="-23" y="-12" width="47" height="27" rx="9" fill="#C46B42"/></g><g transform="translate(-75 -28) rotate(-60)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(52 -15) rotate(55)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(8 18) rotate(-15)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><ellipse cx="210" cy="60" rx="57" ry="39" fill="#FFF"/><ellipse cx="210" cy="54" rx="45" ry="27" fill="#F0E5C9"/></g>
+ <g transform="translate(215 403) rotate(-35)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(991 380) rotate(50)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><ellipse cx="260" cy="285" rx="8" ry="8" fill="#9E654C"/><ellipse cx="942" cy="456" rx="7" ry="7" fill="#9E654C"/>
+ <text x="600" y="568" text-anchor="middle" fill="#43574D" font-size="31" font-weight="600">여의도 · 남도집</text><text x="600" y="606" text-anchor="middle" fill="#9E654C" font-size="17" font-weight="400">오늘의 맛집 · 메뉴 일러스트</text>
+ </g></svg>

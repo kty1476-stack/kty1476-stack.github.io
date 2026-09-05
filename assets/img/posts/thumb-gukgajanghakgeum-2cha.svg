@@ -1,91 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <defs>
-    <linearGradient id="bgGov" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#2E71B8"/>
-      <stop offset="55%" stop-color="#1B4C86"/>
-      <stop offset="100%" stop-color="#081D3C"/>
-    </linearGradient>
-    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.38"/>
-      <stop offset="60%" stop-color="#000000" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="phoneBody" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#F7FAFD"/>
-      <stop offset="100%" stop-color="#D6DFEA"/>
-    </linearGradient>
-    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#EAF1F8"/>
-    </linearGradient>
-    <radialGradient id="dropShadow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.32"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="capGrad" cx="35%" cy="28%" r="80%">
-      <stop offset="0%" stop-color="#FFF0B0"/>
-      <stop offset="50%" stop-color="#F6C846"/>
-      <stop offset="100%" stop-color="#C68C16"/>
-    </radialGradient>
-  </defs>
-
-  <rect width="1200" height="630" fill="url(#bgGov)"/>
-  <g opacity="0.05" stroke="#FFFFFF" stroke-width="1.5">
-    <line x1="0" y1="120" x2="1200" y2="120"/>
-    <line x1="0" y1="220" x2="1200" y2="220"/>
-    <line x1="200" y1="0" x2="200" y2="630"/>
-    <line x1="1000" y1="0" x2="1000" y2="630"/>
-  </g>
-  <g opacity="0.08" fill="#ffffff">
-    <circle cx="120" cy="90" r="4"/>
-    <circle cx="1080" cy="120" r="5"/>
-    <circle cx="70" cy="520" r="4"/>
-    <circle cx="1120" cy="520" r="4"/>
-  </g>
-  <rect width="820" height="630" fill="url(#scrim)"/>
-
-  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
-    <ellipse cx="600" cy="548" rx="248" ry="40" fill="url(#dropShadow)"/>
-
-    <g transform="translate(540,320) rotate(-4)">
-      <rect x="-142" y="-232" width="284" height="464" rx="38" fill="url(#phoneBody)" stroke="#B7C4D3" stroke-width="5"/>
-      <rect x="-118" y="-198" width="236" height="396" rx="16" fill="url(#screen)" stroke="#C7D3E0" stroke-width="3"/>
-      <rect x="-26" y="-222" width="52" height="12" rx="6" fill="#B7C4D3"/>
-      <rect x="-118" y="-198" width="236" height="62" rx="16" fill="#2E71B8"/>
-      <rect x="-118" y="-160" width="236" height="24" fill="#2E71B8"/>
-      <rect x="-98" y="-180" width="132" height="14" rx="7" fill="#ffffff" opacity="0.92"/>
-      <g stroke="#A9BACD" stroke-width="13" stroke-linecap="round">
-        <line x1="-92" y1="-96" x2="70" y2="-96"/>
-        <line x1="-92" y1="-46" x2="92" y2="-46"/>
-        <line x1="-92" y1="4" x2="40" y2="4"/>
-      </g>
-      <rect x="-92" y="52" width="184" height="56" rx="28" fill="#2E9E5B"/>
-      <path d="M -34 80 L -14 100 L 32 56" fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-      <rect x="-40" y="160" width="80" height="10" rx="5" fill="#C7D3E0"/>
-    </g>
-
-    <g transform="translate(792,442) rotate(6)">
-      <rect x="-72" y="-64" width="144" height="124" rx="16" fill="#ffffff" stroke="#C7D0DC" stroke-width="4"/>
-      <rect x="-72" y="-64" width="144" height="38" rx="16" fill="#D93A2B"/>
-      <rect x="-72" y="-36" width="144" height="10" fill="#D93A2B"/>
-      <circle cx="-42" cy="-64" r="7" fill="#8E241A"/>
-      <circle cx="42" cy="-64" r="7" fill="#8E241A"/>
-      <text x="0" y="36" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="48" font-weight="800" fill="#0C2C52" text-anchor="middle">9.9</text>
-    </g>
-
-    <g transform="translate(778,196)">
-      <path d="M -104 0 L 0 -46 L 104 0 L 0 46 Z" fill="url(#capGrad)" stroke="#9C6A0E" stroke-width="4"/>
-      <path d="M -58 20 L -58 62 C -58 84 58 84 58 62 L 58 20" fill="none" stroke="#C68C16" stroke-width="12" stroke-linecap="round"/>
-      <line x1="104" y1="0" x2="104" y2="66" stroke="#9C6A0E" stroke-width="8" stroke-linecap="round"/>
-      <circle cx="104" cy="74" r="12" fill="#9C6A0E"/>
-    </g>
-  </g>
-
-  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
-  <text x="178" y="105" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="29" font-weight="700" fill="#0C2C52" text-anchor="middle">정부지원금</text>
-
-  <text x="72" y="288" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">국가장학금</text>
-  <text x="72" y="366" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">9월 9일 마감</text>
-  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
-  <text x="72" y="484" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92">2학기 2차 신청</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+ <title id="title">국가장학금 2차 신청 — 2026학년도 2학기</title><desc id="desc">정부지원금 게시글을 위한 국가장학금 2차 신청 일러스트. 실제 음식 사진이 아닌 주제 표현입니다.</desc>
+ <g font-family="'Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+ <rect x="0" y="0" width="1200" height="630" rx="0" fill="#E9E6F3"/><ellipse cx="600" cy="382" rx="465" ry="185" fill="#FFFFFF65"/>
+ <path d="M0 521 Q300 469 600 531 T1200 515 V630 H0 Z" fill="#FFFFFF60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="600" y="55" text-anchor="middle" fill="#777098" font-size="24" font-weight="700">정부지원금</text><text x="600" y="127" text-anchor="middle" fill="#34483E" font-size="57" font-weight="700">국가장학금 2차 신청</text>
+ <g transform="translate(600 352) scale(1.12)"><ellipse cx="0" cy="113" rx="220" ry="21" fill="#00000010"/><rect x="-138" y="4" width="211" height="95" rx="9" fill="#ECA969"/><rect x="-138" y="33" width="211" height="12" rx="0" fill="#FFF1D4"/><rect x="-82" y="52" width="212" height="49" rx="8" fill="#80AAA1"/><path d="M-115 -59 L15 -113 L145 -59 L15 -4 Z" fill="#56788D" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M-71 -38 L-71 10 Q15 59 94 7 L94 -38 L15 -4 Z" fill="#739AA7" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M145 -59 V28" fill="none" stroke="#D4A44E" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="145" cy="39" rx="10" ry="20" fill="#D4A44E"/></g>
+ <g transform="translate(215 403) rotate(-35)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(991 380) rotate(50)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><ellipse cx="260" cy="285" rx="8" ry="8" fill="#777098"/><ellipse cx="942" cy="456" rx="7" ry="7" fill="#777098"/>
+ <text x="600" y="568" text-anchor="middle" fill="#43574D" font-size="31" font-weight="600">2026학년도 2학기</text><text x="600" y="606" text-anchor="middle" fill="#777098" font-size="17" font-weight="400">생활정보 · 주제 일러스트</text>
+ </g></svg>

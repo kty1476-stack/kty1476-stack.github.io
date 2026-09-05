@@ -1,53 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#E14A2B"/>
-      <stop offset="1" stop-color="#8E1F1A"/>
-    </linearGradient>
-    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#000000" stop-opacity="0.38"/>
-      <stop offset="0.6" stop-color="#000000" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="plate" cx="0.38" cy="0.32" r="0.78">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#d9d2c6"/>
-    </radialGradient>
-    <radialGradient id="fish" cx="0.35" cy="0.3" r="0.8">
-      <stop offset="0" stop-color="#8fa8bd"/>
-      <stop offset="1" stop-color="#3d5468"/>
-    </radialGradient>
-    <radialGradient id="flame" cx="0.5" cy="0.75" r="0.75">
-      <stop offset="0" stop-color="#FFD86B"/>
-      <stop offset="1" stop-color="#E2601C"/>
-    </radialGradient>
-  </defs>
-
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect width="820" height="630" fill="url(#scrim)"/>
-
-  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
-    <ellipse cx="600" cy="470" rx="250" ry="42" fill="#000000" opacity="0.18"/>
-    <ellipse cx="600" cy="330" rx="240" ry="150" fill="url(#plate)"/>
-    <ellipse cx="600" cy="330" rx="196" ry="120" fill="#efe7da"/>
-    <path d="M420 330 C480 250, 700 250, 760 330 C700 410, 480 410, 420 330 Z" fill="url(#fish)"/>
-    <path d="M760 330 L830 288 L830 372 Z" fill="#5b7285"/>
-    <path d="M470 330 C520 292, 700 292, 748 330 C700 368, 520 368, 470 330 Z" fill="#c9a06a" opacity="0.55"/>
-    <path d="M500 300 L560 300 M520 330 L590 330 M500 360 L560 360" stroke="#2b3b4a" stroke-width="9" stroke-linecap="round" opacity="0.55"/>
-    <circle cx="470" cy="316" r="11" fill="#f3f3f3"/>
-    <circle cx="470" cy="316" r="5" fill="#22303d"/>
-    <ellipse cx="600" cy="452" rx="120" ry="26" fill="url(#flame)" opacity="0.85"/>
-    <circle cx="405" cy="252" r="20" fill="#7FBF6A"/>
-    <circle cx="795" cy="252" r="16" fill="#F2C14E"/>
-  </g>
-
-  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
-  <text x="178" y="105" text-anchor="middle" font-size="29" font-weight="700" fill="#8E1F1A" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">맛있는 녀석들</text>
-
-  <text x="72" y="288" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">450도 화덕에서</text>
-  <text x="72" y="366" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">구워낸 생선 한 상</text>
-
-  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
-
-  <text x="72" y="484" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">인천 가정동 황금빛고등어</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+ <title id="title">노릇한 화덕 생선구이 — 인천 · 황금빛고등어</title><desc id="desc">맛있는 녀석들 게시글을 위한 노릇한 화덕 생선구이 일러스트. 실제 음식 사진이 아닌 주제 표현입니다.</desc>
+ <g font-family="'Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+ <rect x="0" y="0" width="1200" height="630" rx="0" fill="#F7ECCF"/><ellipse cx="600" cy="382" rx="465" ry="185" fill="#FFFFFF65"/>
+ <path d="M0 521 Q300 469 600 531 T1200 515 V630 H0 Z" fill="#FFFFFF60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="600" y="55" text-anchor="middle" fill="#9C783A" font-size="24" font-weight="700">맛있는 녀석들</text><text x="600" y="127" text-anchor="middle" fill="#34483E" font-size="57" font-weight="700">노릇한 화덕 생선구이</text>
+ <g transform="translate(600 352) scale(1.12)"><ellipse cx="0" cy="20" rx="245" ry="132" fill="#00000010"/><ellipse cx="0" cy="0" rx="246" ry="130" fill="#FFFDF7"/><ellipse cx="0" cy="0" rx="215" ry="108" fill="#F2EDE1"/><ellipse cx="0" cy="0" rx="204" ry="99" fill="#FFFCF5"/><path d="M-185 0 L-230 -49 L-223 44 Z" fill="#668D91" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M-195 0 Q-95 -113 161 -39 L209 0 L166 36 Q-85 107 -195 0" fill="#D8AD63" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M-185 0 Q-38 -70 179 -12" fill="none" stroke="#657F7B" stroke-width="23" stroke-linecap="round" stroke-linejoin="round"/><path d="M-112 -38 l-20 67" fill="none" stroke="#A8733C" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M-69 -38 l-20 67" fill="none" stroke="#A8733C" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M-26 -38 l-20 67" fill="none" stroke="#A8733C" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M17 -38 l-20 67" fill="none" stroke="#A8733C" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M60 -38 l-20 67" fill="none" stroke="#A8733C" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M103 -38 l-20 67" fill="none" stroke="#A8733C" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="176" cy="-5" rx="5" ry="5" fill="#394B45"/><ellipse cx="174" cy="82" rx="38" ry="27" fill="#F4D257"/><g transform="translate(111 80) rotate(60)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+ <g transform="translate(215 403) rotate(-35)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(991 380) rotate(50)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><ellipse cx="260" cy="285" rx="8" ry="8" fill="#9C783A"/><ellipse cx="942" cy="456" rx="7" ry="7" fill="#9C783A"/>
+ <text x="600" y="568" text-anchor="middle" fill="#43574D" font-size="31" font-weight="600">인천 · 황금빛고등어</text><text x="600" y="606" text-anchor="middle" fill="#9C783A" font-size="17" font-weight="400">오늘의 맛집 · 메뉴 일러스트</text>
+ </g></svg>

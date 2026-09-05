@@ -1,70 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#E14A2B"/>
-      <stop offset="1" stop-color="#8E1F1A"/>
-    </linearGradient>
-    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#000000" stop-opacity="0.38"/>
-      <stop offset="0.6" stop-color="#000000" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="plate" cx="0.38" cy="0.32" r="0.78">
-      <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#DCD3C6"/>
-    </radialGradient>
-    <radialGradient id="eel" cx="0.35" cy="0.3" r="0.8">
-      <stop offset="0" stop-color="#F0D6A8"/>
-      <stop offset="1" stop-color="#C08A4E"/>
-    </radialGradient>
-    <radialGradient id="uni" cx="0.35" cy="0.3" r="0.8">
-      <stop offset="0" stop-color="#FFC46B"/>
-      <stop offset="1" stop-color="#E08422"/>
-    </radialGradient>
-  </defs>
-
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect width="820" height="630" fill="url(#scrim)"/>
-
-  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
-    <ellipse cx="600" cy="360" rx="238" ry="66" fill="#000000" opacity="0.18"/>
-    <ellipse cx="600" cy="330" rx="235" ry="150" fill="url(#plate)"/>
-    <ellipse cx="600" cy="330" rx="188" ry="118" fill="#F3ECE0"/>
-    <ellipse cx="600" cy="330" rx="188" ry="118" fill="none" stroke="#C9BCA8" stroke-width="4"/>
-
-    <path d="M470 300 q40 -34 84 -6 q44 28 86 -4 q42 -32 88 -2 q40 28 82 -6" fill="none" stroke="#8B5E2B" stroke-width="4" opacity="0.35"/>
-
-    <g>
-      <ellipse cx="518" cy="316" rx="52" ry="24" fill="url(#eel)" transform="rotate(-12 518 316)"/>
-      <ellipse cx="600" cy="300" rx="52" ry="24" fill="url(#eel)" transform="rotate(6 600 300)"/>
-      <ellipse cx="684" cy="318" rx="52" ry="24" fill="url(#eel)" transform="rotate(-8 684 318)"/>
-      <ellipse cx="556" cy="366" rx="52" ry="24" fill="url(#eel)" transform="rotate(10 556 366)"/>
-      <ellipse cx="646" cy="368" rx="52" ry="24" fill="url(#eel)" transform="rotate(-6 646 368)"/>
-    </g>
-
-    <g fill="url(#uni)">
-      <ellipse cx="600" cy="296" rx="26" ry="15"/>
-      <ellipse cx="556" cy="362" rx="22" ry="13"/>
-      <ellipse cx="684" cy="314" rx="22" ry="13"/>
-    </g>
-
-    <g fill="#5E9B4A">
-      <ellipse cx="486" cy="352" rx="20" ry="9" transform="rotate(-24 486 352)"/>
-      <ellipse cx="712" cy="356" rx="20" ry="9" transform="rotate(20 712 356)"/>
-    </g>
-
-    <circle cx="600" cy="220" r="9" fill="#FFFFFF" opacity="0.30"/>
-    <circle cx="546" cy="238" r="6" fill="#FFFFFF" opacity="0.22"/>
-    <circle cx="656" cy="236" r="6" fill="#FFFFFF" opacity="0.22"/>
-  </g>
-
-  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
-  <text x="178" y="105" text-anchor="middle" font-size="29" font-weight="700" fill="#8E1F1A" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">맛있는녀석들</text>
-
-  <text x="72" y="288" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">우니를 올린</text>
-  <text x="72" y="366" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">장어회 한 점</text>
-
-  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
-
-  <text x="72" y="484" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">삼성역 두어마리 삼성점</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+ <title id="title">우니를 올린 장어회 — 삼성역 · 두어마리 삼성점</title><desc id="desc">맛있는 녀석들 게시글을 위한 우니를 올린 장어회 일러스트. 실제 음식 사진이 아닌 주제 표현입니다.</desc>
+ <g font-family="'Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+ <rect x="0" y="0" width="1200" height="630" rx="0" fill="#E3EFEB"/><ellipse cx="600" cy="382" rx="465" ry="185" fill="#FFFFFF65"/>
+ <path d="M0 521 Q300 469 600 531 T1200 515 V630 H0 Z" fill="#FFFFFF60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="600" y="55" text-anchor="middle" fill="#487D73" font-size="24" font-weight="700">맛있는 녀석들</text><text x="600" y="127" text-anchor="middle" fill="#34483E" font-size="57" font-weight="700">우니를 올린 장어회</text>
+ <g transform="translate(600 352) scale(1.12)"><ellipse cx="0" cy="20" rx="245" ry="132" fill="#00000010"/><ellipse cx="0" cy="0" rx="246" ry="130" fill="#FFFDF7"/><ellipse cx="0" cy="0" rx="215" ry="108" fill="#F2EDE1"/><ellipse cx="0" cy="0" rx="204" ry="99" fill="#FFFCF5"/><g transform="translate(-117 40) rotate(-45)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(135 25) rotate(50)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(-114 -14) rotate(-20)"><rect x="-24" y="-26" width="46" height="71" rx="12" fill="#F4DFCC"/><rect x="-19" y="-22" width="37" height="33" rx="10" fill="#EFA641"/><path d="M-8 -17 l0 22 M4 -17 l0 22" fill="none" stroke="#D88C33" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(-69 15) rotate(-20)"><rect x="-24" y="-26" width="46" height="71" rx="12" fill="#F4DFCC"/><rect x="-19" y="-22" width="37" height="33" rx="10" fill="#EFA641"/><path d="M-8 -17 l0 22 M4 -17 l0 22" fill="none" stroke="#D88C33" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(-24 -14) rotate(-20)"><rect x="-24" y="-26" width="46" height="71" rx="12" fill="#F4DFCC"/><rect x="-19" y="-22" width="37" height="33" rx="10" fill="#EFA641"/><path d="M-8 -17 l0 22 M4 -17 l0 22" fill="none" stroke="#D88C33" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(21 15) rotate(-20)"><rect x="-24" y="-26" width="46" height="71" rx="12" fill="#F4DFCC"/><rect x="-19" y="-22" width="37" height="33" rx="10" fill="#EFA641"/><path d="M-8 -17 l0 22 M4 -17 l0 22" fill="none" stroke="#D88C33" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(66 -14) rotate(-20)"><rect x="-24" y="-26" width="46" height="71" rx="12" fill="#F4DFCC"/><rect x="-19" y="-22" width="37" height="33" rx="10" fill="#EFA641"/><path d="M-8 -17 l0 22 M4 -17 l0 22" fill="none" stroke="#D88C33" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(111 15) rotate(-20)"><rect x="-24" y="-26" width="46" height="71" rx="12" fill="#F4DFCC"/><rect x="-19" y="-22" width="37" height="33" rx="10" fill="#EFA641"/><path d="M-8 -17 l0 22 M4 -17 l0 22" fill="none" stroke="#D88C33" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+ <g transform="translate(215 403) rotate(-35)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(991 380) rotate(50)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><ellipse cx="260" cy="285" rx="8" ry="8" fill="#487D73"/><ellipse cx="942" cy="456" rx="7" ry="7" fill="#487D73"/>
+ <text x="600" y="568" text-anchor="middle" fill="#43574D" font-size="31" font-weight="600">삼성역 · 두어마리 삼성점</text><text x="600" y="606" text-anchor="middle" fill="#487D73" font-size="17" font-weight="400">오늘의 맛집 · 메뉴 일러스트</text>
+ </g></svg>

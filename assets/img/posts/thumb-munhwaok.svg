@@ -1,44 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#E14A2B"/>
-      <stop offset="1" stop-color="#8E1F1A"/>
-    </linearGradient>
-    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#000000" stop-opacity="0.38"/>
-      <stop offset="0.6" stop-color="#000000" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="bowlGrad" cx="0.35" cy="0.2" r="0.9">
-      <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="0.55" stop-color="#EFE3D2"/>
-      <stop offset="1" stop-color="#C8B49B"/>
-    </radialGradient>
-    <radialGradient id="brothGrad" cx="0.4" cy="0.3" r="0.8">
-      <stop offset="0" stop-color="#F7EBD6"/>
-      <stop offset="1" stop-color="#DCC7A5"/>
-    </radialGradient>
-  </defs>
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect width="820" height="630" fill="url(#scrim)"/>
-  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
-    <ellipse cx="600" cy="452" rx="220" ry="26" fill="#000000" opacity="0.18"/>
-    <path d="M400 300 Q400 440 600 440 Q800 440 800 300 Z" fill="url(#bowlGrad)"/>
-    <ellipse cx="600" cy="300" rx="200" ry="60" fill="#F4E9DA"/>
-    <ellipse cx="600" cy="302" rx="176" ry="50" fill="url(#brothGrad)"/>
-    <ellipse cx="558" cy="292" rx="46" ry="24" fill="#E8CDA8"/>
-    <ellipse cx="632" cy="306" rx="40" ry="21" fill="#DCBB92"/>
-    <ellipse cx="596" cy="278" rx="30" ry="15" fill="#F0DCC0"/>
-    <circle cx="666" cy="286" r="9" fill="#4E9C4E"/>
-    <circle cx="540" cy="322" r="8" fill="#4E9C4E"/>
-    <circle cx="608" cy="330" r="7" fill="#4E9C4E"/>
-    <path d="M556 218 q18 -26 0 -52 q-18 -26 0 -52" stroke="#ffffff" stroke-width="9" fill="none" opacity="0.5" stroke-linecap="round"/>
-    <path d="M626 226 q18 -26 0 -52 q-18 -26 0 -52" stroke="#ffffff" stroke-width="9" fill="none" opacity="0.38" stroke-linecap="round"/>
-  </g>
-  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
-  <text x="178" y="105" text-anchor="middle" font-size="29" font-weight="700" fill="#8E1F1A" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">맛있는 녀석들</text>
-  <text x="72" y="288" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">70년 넘게</text>
-  <text x="72" y="366" font-size="66" font-weight="800" fill="#ffffff" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">끓여 온 족탕</text>
-  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
-  <text x="72" y="484" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">을지로4가 문화옥</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+ <title id="title">따뜻한 족탕 — 을지로 · 문화옥</title><desc id="desc">맛있는 녀석들 게시글을 위한 따뜻한 족탕 일러스트. 실제 음식 사진이 아닌 주제 표현입니다.</desc>
+ <g font-family="'Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+ <rect x="0" y="0" width="1200" height="630" rx="0" fill="#EFE8D9"/><ellipse cx="600" cy="382" rx="465" ry="185" fill="#FFFFFF65"/>
+ <path d="M0 521 Q300 469 600 531 T1200 515 V630 H0 Z" fill="#FFFFFF60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="600" y="55" text-anchor="middle" fill="#827252" font-size="24" font-weight="700">맛있는 녀석들</text><text x="600" y="127" text-anchor="middle" fill="#34483E" font-size="57" font-weight="700">따뜻한 족탕</text>
+ <g transform="translate(600 352) scale(1.12)"><ellipse cx="0" cy="95" rx="205" ry="24" fill="#00000012"/><path d="M-214 -10 Q-200 117 0 125 Q200 117 214 -10 Z" fill="#FFFEF9" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="0" cy="-10" rx="215" ry="92" fill="#FFFDF7"/><ellipse cx="0" cy="-10" rx="193" ry="75" fill="#F2E9CF"/><ellipse cx="-90" cy="-10" rx="38" ry="21" fill="#D7C1A3"/><ellipse cx="-28" cy="14" rx="38" ry="21" fill="#D7C1A3"/><ellipse cx="34" cy="-10" rx="38" ry="21" fill="#D7C1A3"/><ellipse cx="96" cy="14" rx="38" ry="21" fill="#D7C1A3"/><g transform="translate(-75 -28) rotate(-60)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(52 -15) rotate(55)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(8 18) rotate(-15)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+ <g transform="translate(215 403) rotate(-35)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(991 380) rotate(50)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><ellipse cx="260" cy="285" rx="8" ry="8" fill="#827252"/><ellipse cx="942" cy="456" rx="7" ry="7" fill="#827252"/>
+ <text x="600" y="568" text-anchor="middle" fill="#43574D" font-size="31" font-weight="600">을지로 · 문화옥</text><text x="600" y="606" text-anchor="middle" fill="#827252" font-size="17" font-weight="400">오늘의 맛집 · 메뉴 일러스트</text>
+ </g></svg>

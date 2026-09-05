@@ -1,65 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#2E71B8"/>
-      <stop offset="1" stop-color="#081D3C"/>
-    </linearGradient>
-    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#000000" stop-opacity="0.38"/>
-      <stop offset="0.6" stop-color="#000000" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="paper" cx="0.35" cy="0.25" r="0.9">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#D6DEE9"/>
-    </radialGradient>
-    <radialGradient id="coin" cx="0.35" cy="0.3" r="0.85">
-      <stop offset="0" stop-color="#FFE28A"/>
-      <stop offset="1" stop-color="#D9A32B"/>
-    </radialGradient>
-    <radialGradient id="badgeg" cx="0.35" cy="0.3" r="0.9">
-      <stop offset="0" stop-color="#7FC4A8"/>
-      <stop offset="1" stop-color="#2E8B63"/>
-    </radialGradient>
-  </defs>
-
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect width="820" height="630" fill="url(#scrim)"/>
-
-  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
-    <ellipse cx="600" cy="530" rx="230" ry="34" fill="#000000" opacity="0.22"/>
-
-    <g transform="rotate(-6 600 320)">
-      <path d="M462 130 h276 v370 l-27.6 -22 l-27.6 22 l-27.6 -22 l-27.6 22 l-27.6 -22 l-27.6 22 l-27.6 -22 l-27.6 22 l-27.6 -22 l-27.6 22 Z" fill="url(#paper)"/>
-      <rect x="500" y="188" width="200" height="18" rx="9" fill="#8FA3BC"/>
-      <rect x="500" y="234" width="152" height="14" rx="7" fill="#B6C4D6"/>
-      <rect x="500" y="272" width="176" height="14" rx="7" fill="#B6C4D6"/>
-      <rect x="500" y="310" width="130" height="14" rx="7" fill="#B6C4D6"/>
-      <rect x="500" y="352" width="200" height="5" rx="2.5" fill="#8FA3BC"/>
-      <rect x="500" y="378" width="118" height="24" rx="12" fill="#2E71B8"/>
-    </g>
-
-    <circle cx="742" cy="392" r="66" fill="url(#badgeg)"/>
-    <path d="M712 392 l20 22 l40 -46" fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
-
-    <g>
-      <ellipse cx="470" cy="470" rx="74" ry="24" fill="#B07C18"/>
-      <ellipse cx="470" cy="456" rx="74" ry="24" fill="url(#coin)"/>
-      <ellipse cx="470" cy="428" rx="74" ry="24" fill="#B07C18"/>
-      <ellipse cx="470" cy="414" rx="74" ry="24" fill="url(#coin)"/>
-      <ellipse cx="470" cy="386" rx="74" ry="24" fill="#B07C18"/>
-      <ellipse cx="470" cy="372" rx="74" ry="24" fill="url(#coin)"/>
-      <text x="470" y="384" text-anchor="middle" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="34" font-weight="700" fill="#8A5F10">₩</text>
-    </g>
-  </g>
-
-  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
-  <text x="178" y="105" text-anchor="middle" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="29" font-weight="700" fill="#0C2C52">정부지원금</text>
-
-  <text x="72" y="288" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">의료비 환급</text>
-  <text x="72" y="366" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">평균 136만 원</text>
-
-  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
-
-  <text x="72" y="484" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92">본인부담상한액 초과금</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+ <title id="title">의료비 환급 안내 — 본인부담상한액 초과금</title><desc id="desc">정부지원금 게시글을 위한 의료비 환급 안내 일러스트. 실제 음식 사진이 아닌 주제 표현입니다.</desc>
+ <g font-family="'Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+ <rect x="0" y="0" width="1200" height="630" rx="0" fill="#E1EFE9"/><ellipse cx="600" cy="382" rx="465" ry="185" fill="#FFFFFF65"/>
+ <path d="M0 521 Q300 469 600 531 T1200 515 V630 H0 Z" fill="#FFFFFF60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="600" y="55" text-anchor="middle" fill="#4C8575" font-size="24" font-weight="700">정부지원금</text><text x="600" y="127" text-anchor="middle" fill="#34483E" font-size="57" font-weight="700">의료비 환급 안내</text>
+ <g transform="translate(600 352) scale(1.12)"><ellipse cx="0" cy="113" rx="220" ry="21" fill="#00000010"/><rect x="-125" y="-88" width="246" height="177" rx="24" fill="#FFFDF5"/><rect x="-44" y="-113" width="88" height="44" rx="13" fill="#94BEB6"/><rect x="-23" y="-51" width="45" height="109" rx="5" fill="#67A998"/><rect x="-55" y="-18" width="109" height="45" rx="5" fill="#67A998"/><ellipse cx="132" cy="69" rx="60" ry="60" fill="#EAC46B"/><path d="M113 63 l16 20 l34 -40" fill="none" stroke="#FFF9DF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+ <g transform="translate(215 403) rotate(-35)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(991 380) rotate(50)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><ellipse cx="260" cy="285" rx="8" ry="8" fill="#4C8575"/><ellipse cx="942" cy="456" rx="7" ry="7" fill="#4C8575"/>
+ <text x="600" y="568" text-anchor="middle" fill="#43574D" font-size="31" font-weight="600">본인부담상한액 초과금</text><text x="600" y="606" text-anchor="middle" fill="#4C8575" font-size="17" font-weight="400">생활정보 · 주제 일러스트</text>
+ </g></svg>

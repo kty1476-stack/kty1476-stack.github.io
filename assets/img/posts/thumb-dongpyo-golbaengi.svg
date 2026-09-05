@@ -1,98 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <defs>
-    <linearGradient id="bgDP" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#E14A2B"/>
-      <stop offset="55%" stop-color="#B8321F"/>
-      <stop offset="100%" stop-color="#8E1F1A"/>
-    </linearGradient>
-    <linearGradient id="scrimDP" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.38"/>
-      <stop offset="60%" stop-color="#000000" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="potDP" cx="42%" cy="30%" r="78%">
-      <stop offset="0%" stop-color="#F3F6F8"/>
-      <stop offset="70%" stop-color="#D6DEE3"/>
-      <stop offset="100%" stop-color="#AAB7BE"/>
-    </radialGradient>
-    <radialGradient id="brothDP" cx="42%" cy="30%" r="80%">
-      <stop offset="0%" stop-color="#E8703A"/>
-      <stop offset="60%" stop-color="#C4441F"/>
-      <stop offset="100%" stop-color="#8C2A12"/>
-    </radialGradient>
-    <radialGradient id="shellDP" cx="35%" cy="28%" r="82%">
-      <stop offset="0%" stop-color="#FFF6E2"/>
-      <stop offset="65%" stop-color="#EFDCB6"/>
-      <stop offset="100%" stop-color="#CBB183"/>
-    </radialGradient>
-    <radialGradient id="shadowDP" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.38"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-
-  <rect width="1200" height="630" fill="url(#bgDP)"/>
-  <g opacity="0.06" stroke="#FFFFFF" stroke-width="2">
-    <line x1="-100" y1="80" x2="1300" y2="560"/>
-  </g>
-  <g opacity="0.08" fill="#ffffff">
-    <circle cx="118" cy="92" r="4"/>
-    <circle cx="1082" cy="126" r="5"/>
-    <circle cx="62" cy="524" r="4"/>
-    <circle cx="1138" cy="236" r="4"/>
-  </g>
-  <rect width="820" height="630" fill="url(#scrimDP)"/>
-
-  <g transform="translate(915,318) scale(0.78) translate(-600,-330)">
-    <ellipse cx="600" cy="456" rx="326" ry="62" fill="url(#shadowDP)"/>
-
-    <path d="M 330 322 C 330 424 452 478 600 478 C 748 478 870 424 870 322 L 870 306 C 870 372 754 418 600 418 C 446 418 330 372 330 306 Z" fill="#B9C6CD"/>
-    <ellipse cx="600" cy="318" rx="272" ry="94" fill="url(#potDP)"/>
-    <ellipse cx="600" cy="318" rx="272" ry="94" fill="none" stroke="#9FAEB6" stroke-width="4" opacity="0.7"/>
-    <ellipse cx="600" cy="322" rx="238" ry="78" fill="url(#brothDP)"/>
-
-    <g fill="#EFC36A" opacity="0.95">
-      <rect x="452" y="292" width="72" height="26" rx="12" transform="rotate(-14 488 305)"/>
-      <rect x="644" y="284" width="76" height="26" rx="12" transform="rotate(9 682 297)"/>
-      <rect x="556" y="352" width="70" height="24" rx="12" transform="rotate(-6 591 364)"/>
-    </g>
-
-    <g>
-      <ellipse cx="540" cy="304" rx="54" ry="46" fill="url(#shellDP)"/>
-      <path d="M 540 262 C 574 268 592 292 586 318 C 581 340 560 350 545 342 C 532 335 529 318 538 308 C 545 300 557 302 560 311" fill="none" stroke="#C0A473" stroke-width="7" stroke-linecap="round"/>
-      <ellipse cx="512" cy="330" rx="20" ry="13" fill="#F6E3C0" transform="rotate(-24 512 330)"/>
-    </g>
-    <g>
-      <ellipse cx="672" cy="336" rx="46" ry="39" fill="url(#shellDP)"/>
-      <path d="M 672 301 C 701 306 716 326 711 348 C 707 366 689 375 676 368 C 665 362 663 348 671 339 C 677 332 687 334 690 341" fill="none" stroke="#C0A473" stroke-width="6" stroke-linecap="round"/>
-      <ellipse cx="648" cy="358" rx="17" ry="11" fill="#F6E3C0" transform="rotate(-22 648 358)"/>
-    </g>
-    <g>
-      <ellipse cx="606" cy="272" rx="38" ry="32" fill="url(#shellDP)"/>
-      <path d="M 606 244 C 630 248 642 264 638 282 C 635 297 620 304 609 298 C 600 293 598 282 605 275 C 610 269 618 271 620 277" fill="none" stroke="#C0A473" stroke-width="5.5" stroke-linecap="round"/>
-    </g>
-
-    <g fill="none" stroke="#6FB84E" stroke-width="10" stroke-linecap="round">
-      <path d="M 452 352 C 486 342 512 356 536 350"/>
-      <path d="M 700 296 C 730 288 752 300 774 294"/>
-    </g>
-    <g fill="#D93A2B">
-      <ellipse cx="574" cy="356" rx="30" ry="9" transform="rotate(10 574 356)"/>
-      <ellipse cx="700" cy="322" rx="26" ry="8" transform="rotate(-12 700 322)"/>
-    </g>
-
-    <g fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" opacity="0.3">
-      <path d="M 520 212 C 500 188 540 174 520 148"/>
-      <path d="M 600 198 C 580 174 620 160 600 134"/>
-      <path d="M 680 212 C 660 188 700 174 680 148"/>
-    </g>
-  </g>
-
-  <rect x="72" y="66" width="212" height="58" rx="29" fill="#ffffff"/>
-  <text x="178" y="105" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="29" font-weight="700" fill="#8E1F1A" text-anchor="middle">맛있는 녀석들</text>
-
-  <text x="72" y="288" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">25년 노포의</text>
-  <text x="72" y="366" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="66" font-weight="800" fill="#ffffff">생골뱅이 한 냄비</text>
-  <rect x="72" y="410" width="96" height="6" rx="3" fill="#ffffff" opacity="0.55"/>
-  <text x="72" y="484" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="40" font-weight="600" fill="#ffffff" opacity="0.92">용산 동표골뱅이</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+ <title id="title">백골뱅이탕 한 냄비 — 용산 · 동표골뱅이</title><desc id="desc">맛있는 녀석들 게시글을 위한 백골뱅이탕 한 냄비 일러스트. 실제 음식 사진이 아닌 주제 표현입니다.</desc>
+ <g font-family="'Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+ <rect x="0" y="0" width="1200" height="630" rx="0" fill="#E0EBED"/><ellipse cx="600" cy="382" rx="465" ry="185" fill="#FFFFFF65"/>
+ <path d="M0 521 Q300 469 600 531 T1200 515 V630 H0 Z" fill="#FFFFFF60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="600" y="55" text-anchor="middle" fill="#4D7983" font-size="24" font-weight="700">맛있는 녀석들</text><text x="600" y="127" text-anchor="middle" fill="#34483E" font-size="57" font-weight="700">백골뱅이탕 한 냄비</text>
+ <g transform="translate(600 352) scale(1.12)"><ellipse cx="0" cy="95" rx="205" ry="24" fill="#00000012"/><path d="M-214 -10 Q-200 117 0 125 Q200 117 214 -10 Z" fill="#314C4B" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="0" cy="-10" rx="215" ry="92" fill="#45605A"/><ellipse cx="0" cy="-10" rx="193" ry="75" fill="#E7CFA3"/><g transform="translate(-127 -28) rotate(25)"><path d="M-26 23 Q-49 -6 -5 -38 Q25 -41 30 -7 Q34 22 -26 23" fill="#D8B992" stroke="#8E775E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-17 13 Q-34 -9 -5 -21 Q17 -23 14 -3 Q8 9 -5 2" fill="none" stroke="#A48769" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(-86 13) rotate(25)"><path d="M-26 23 Q-49 -6 -5 -38 Q25 -41 30 -7 Q34 22 -26 23" fill="#D8B992" stroke="#8E775E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-17 13 Q-34 -9 -5 -21 Q17 -23 14 -3 Q8 9 -5 2" fill="none" stroke="#A48769" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(-45 -28) rotate(25)"><path d="M-26 23 Q-49 -6 -5 -38 Q25 -41 30 -7 Q34 22 -26 23" fill="#D8B992" stroke="#8E775E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-17 13 Q-34 -9 -5 -21 Q17 -23 14 -3 Q8 9 -5 2" fill="none" stroke="#A48769" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(-4 13) rotate(25)"><path d="M-26 23 Q-49 -6 -5 -38 Q25 -41 30 -7 Q34 22 -26 23" fill="#D8B992" stroke="#8E775E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-17 13 Q-34 -9 -5 -21 Q17 -23 14 -3 Q8 9 -5 2" fill="none" stroke="#A48769" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(37 -28) rotate(25)"><path d="M-26 23 Q-49 -6 -5 -38 Q25 -41 30 -7 Q34 22 -26 23" fill="#D8B992" stroke="#8E775E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-17 13 Q-34 -9 -5 -21 Q17 -23 14 -3 Q8 9 -5 2" fill="none" stroke="#A48769" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(78 13) rotate(25)"><path d="M-26 23 Q-49 -6 -5 -38 Q25 -41 30 -7 Q34 22 -26 23" fill="#D8B992" stroke="#8E775E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-17 13 Q-34 -9 -5 -21 Q17 -23 14 -3 Q8 9 -5 2" fill="none" stroke="#A48769" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(119 -28) rotate(25)"><path d="M-26 23 Q-49 -6 -5 -38 Q25 -41 30 -7 Q34 22 -26 23" fill="#D8B992" stroke="#8E775E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-17 13 Q-34 -9 -5 -21 Q17 -23 14 -3 Q8 9 -5 2" fill="none" stroke="#A48769" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(-75 -28) rotate(-60)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(52 -15) rotate(55)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(8 18) rotate(-15)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+ <g transform="translate(215 403) rotate(-35)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(991 380) rotate(50)"><path d="M0 0 Q-30 -35 0 -58 Q30 -35 0 0" fill="#468A60" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -5 L0 -43" fill="none" stroke="#B8D99B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><ellipse cx="260" cy="285" rx="8" ry="8" fill="#4D7983"/><ellipse cx="942" cy="456" rx="7" ry="7" fill="#4D7983"/>
+ <text x="600" y="568" text-anchor="middle" fill="#43574D" font-size="31" font-weight="600">용산 · 동표골뱅이</text><text x="600" y="606" text-anchor="middle" fill="#4D7983" font-size="17" font-weight="400">오늘의 맛집 · 메뉴 일러스트</text>
+ </g></svg>
