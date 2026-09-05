@@ -3,7 +3,9 @@ title: "[정부지원금] 근로장려금 반기신청 9월 15일 마감, 대상
 date: 2026-09-01 20:00:00 +0900
 categories: [정부지원금]
 tags: [정부지원금]
-image: /assets/img/posts/thumb-geunrojangryeogeum.svg?v=13d874c
+image:
+  path: /assets/img/posts/thumb-geunrojangryeogeum-photo-v2.webp
+  alt: "정부지원금 · 근로장려금 · 반기신청 안내 — AI로 생성한 주제 예시 이미지입니다."
 ---
 
 <!-- prettier-ignore -->

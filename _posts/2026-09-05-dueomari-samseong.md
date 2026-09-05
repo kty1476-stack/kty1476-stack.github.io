@@ -3,7 +3,9 @@ title: "[맛있는 녀석들] 우니를 올린 장어회 한 점, 삼성역 두�
 date: 2026-09-05 09:10:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
-image: /assets/img/posts/thumb-dueomari-samseong.svg?v=13d874c
+image:
+  path: /assets/img/posts/thumb-dueomari-samseong-photo-v2.webp
+  alt: "맛있는 녀석들 · 우니를 올린 장어회 · 삼성역 · 두어마리 삼성점 — AI로 생성한 메뉴 예시 이미지이며 실제 매장 촬영 사진이 아닙니다."
 ---
 
 <!-- prettier-ignore -->

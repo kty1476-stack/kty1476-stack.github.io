@@ -3,7 +3,9 @@ title: "[전현무계획] 웨이팅 1시간 반의 이유, 성수동 훼미리�
 date: 2026-09-01 21:00:00 +0900
 categories: [전현무계획]
 tags: [전현무계획]
-image: /assets/img/posts/thumb-hwemiri-bossam.svg?v=13d874c
+image:
+  path: /assets/img/posts/thumb-hwemiri-bossam-photo-v2.webp
+  alt: "전현무계획 · 보쌈과 칼국수 · 성수 · 훼미리손칼국수보쌈 — AI로 생성한 메뉴 예시 이미지이며 실제 매장 촬영 사진이 아닙니다."
 ---
 
 <!-- prettier-ignore -->

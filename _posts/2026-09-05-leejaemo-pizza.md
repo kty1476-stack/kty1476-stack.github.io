@@ -3,7 +3,9 @@ title: "[생활의 달인] 엣지까지 치즈로 채운 한 판, 부산 남포�
 date: 2026-09-05 14:50:00 +0900
 categories: [생활의달인]
 tags: [생활의달인]
-image: /assets/img/posts/thumb-leejaemo-pizza.svg?v=13d874c
+image:
+  path: /assets/img/posts/thumb-leejaemo-pizza-photo-v2.webp
+  alt: "생활의 달인 · 치즈로 채운 한 판 · 부산 남포동 · 이재모피자 — AI로 생성한 메뉴 예시 이미지이며 실제 매장 촬영 사진이 아닙니다."
 ---
 
 <!-- prettier-ignore -->

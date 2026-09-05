@@ -3,7 +3,9 @@ title: "[전현무계획] 노포의 손맛에 반하다, 남대문시장 부원�
 date: 2026-09-01 11:00:00 +0900
 categories: [전현무계획]
 tags: [전현무계획]
-image: /assets/img/posts/thumb-bindaetteok.svg?v=13d874c
+image:
+  path: /assets/img/posts/thumb-bindaetteok-photo-v2.webp
+  alt: "전현무계획 · 빈대떡 한 장 · 남대문시장 · 부원면옥 — AI로 생성한 메뉴 예시 이미지이며 실제 매장 촬영 사진이 아닙니다."
 ---
 
 <!-- prettier-ignore -->

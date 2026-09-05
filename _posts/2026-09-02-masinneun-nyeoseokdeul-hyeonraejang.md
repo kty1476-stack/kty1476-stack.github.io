@@ -3,7 +3,9 @@ title: "[맛있는 녀석들] 70년 수타면 노포의 한 상, 마포역 현�
 date: 2026-09-02 13:50:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
-image: /assets/img/posts/thumb-hyeonraejang.svg?v=13d874c
+image:
+  path: /assets/img/posts/thumb-hyeonraejang-photo-v2.webp
+  alt: "맛있는 녀석들 · 수타 짜장 한 그릇 · 마포 · 현래장 — AI로 생성한 메뉴 예시 이미지이며 실제 매장 촬영 사진이 아닙니다."
 ---
 
 <!-- prettier-ignore -->

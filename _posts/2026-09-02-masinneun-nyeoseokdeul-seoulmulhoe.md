@@ -3,7 +3,9 @@ title: "[맛있는 녀석들] 물 없이 즐기는 포항식 물회, 삼성역 �
 date: 2026-09-02 10:20:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
-image: /assets/img/posts/thumb-seoulmulhoe.svg?v=13d874c
+image:
+  path: /assets/img/posts/thumb-seoulmulhoe-photo-v2.webp
+  alt: "맛있는 녀석들 · 포항식 물없는물회 · 삼성역 · 서울물회 — AI로 생성한 메뉴 예시 이미지이며 실제 매장 촬영 사진이 아닙니다."
 ---
 
 <!-- prettier-ignore -->

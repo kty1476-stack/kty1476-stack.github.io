@@ -3,7 +3,9 @@ title: "[맛있는 녀석들] 450도 화덕에서 구워낸 생선 한 상, 인�
 date: 2026-09-04 13:45:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
-image: /assets/img/posts/thumb-hwanggeumbit-godeungeo.svg?v=13d874c
+image:
+  path: /assets/img/posts/thumb-hwanggeumbit-godeungeo-photo-v2.webp
+  alt: "맛있는 녀석들 · 노릇한 화덕 생선구이 · 인천 · 황금빛고등어 — AI로 생성한 메뉴 예시 이미지이며 실제 매장 촬영 사진이 아닙니다."
 ---
 
 <!-- prettier-ignore -->

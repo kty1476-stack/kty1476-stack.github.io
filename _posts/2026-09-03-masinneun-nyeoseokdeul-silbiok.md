@@ -3,7 +3,9 @@ title: "[맛있는 녀석들] 수제비에 죽까지 이어지는 한 냄비, �
 date: 2026-09-03 09:10:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
-image: /assets/img/posts/thumb-silbiok-seongsu.svg?v=13d874c
+image:
+  path: /assets/img/posts/thumb-silbiok-seongsu-photo-v2.webp
+  alt: "맛있는 녀석들 · 소고기미역전골 · 성수 · 실비옥 — AI로 생성한 메뉴 예시 이미지이며 실제 매장 촬영 사진이 아닙니다."
 ---
 
 <!-- prettier-ignore -->

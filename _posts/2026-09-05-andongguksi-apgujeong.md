@@ -3,7 +3,9 @@ title: "[맛있는 녀석들] 43년 홍두깨 손칼국수 한 그릇, 압구정
 date: 2026-09-05 12:20:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
-image: /assets/img/posts/thumb-andongguksi-apgujeong.svg?v=13d874c
+image:
+  path: /assets/img/posts/thumb-andongguksi-apgujeong-photo-v2.webp
+  alt: "맛있는 녀석들 · 손으로 빚은 국시 · 압구정 · 안동국시 — AI로 생성한 메뉴 예시 이미지이며 실제 매장 촬영 사진이 아닙니다."
 ---
 
 <!-- prettier-ignore -->
