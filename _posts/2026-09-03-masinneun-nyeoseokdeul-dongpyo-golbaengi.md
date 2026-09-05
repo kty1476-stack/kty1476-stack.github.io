@@ -3,7 +3,7 @@ title: "[맛있는 녀석들] 25년 노포의 생골뱅이 한 냄비, 용산 �
 date: 2026-09-03 08:45:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
-image: /assets/img/posts/thumb-dongpyo-golbaengi.svg
+image: /assets/img/posts/thumb-dongpyo-golbaengi.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->

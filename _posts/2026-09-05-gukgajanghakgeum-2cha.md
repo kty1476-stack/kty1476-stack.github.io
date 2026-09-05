@@ -3,7 +3,7 @@ title: "[정부지원금] 2026학년도 2학기 국가장학금 2차 신청, 9�
 date: 2026-09-05 10:05:00 +0900
 categories: [정부지원금]
 tags: [정부지원금]
-image: /assets/img/posts/thumb-gukgajanghakgeum-2cha.svg
+image: /assets/img/posts/thumb-gukgajanghakgeum-2cha.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->

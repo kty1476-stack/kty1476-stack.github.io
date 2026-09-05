@@ -3,7 +3,7 @@ title: "[맛있는 녀석들] 70년 수타면 노포의 한 상, 마포역 현�
 date: 2026-09-02 13:50:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
-image: /assets/img/posts/thumb-hyeonraejang.svg
+image: /assets/img/posts/thumb-hyeonraejang.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->

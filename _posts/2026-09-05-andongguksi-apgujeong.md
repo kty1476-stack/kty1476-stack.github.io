@@ -3,7 +3,7 @@ title: "[맛있는 녀석들] 43년 홍두깨 손칼국수 한 그릇, 압구정
 date: 2026-09-05 12:20:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
-image: /assets/img/posts/thumb-andongguksi-apgujeong.svg
+image: /assets/img/posts/thumb-andongguksi-apgujeong.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->

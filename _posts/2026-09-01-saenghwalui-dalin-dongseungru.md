@@ -3,7 +3,7 @@ title: "[생활의 달인] 육즙 가득 인생만두, 원주 동승루 군만�
 date: 2026-09-01 18:00:00 +0900
 categories: [생활의달인]
 tags: [생활의달인]
-image: /assets/img/posts/thumb-mandu.svg
+image: /assets/img/posts/thumb-mandu.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->

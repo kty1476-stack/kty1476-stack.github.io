@@ -3,7 +3,7 @@ title: "[생활의 달인] 양념장 없이 완성한 맛, 강화도 강화국�
 date: 2026-09-02 09:00:00 +0900
 categories: [생활의달인]
 tags: [생활의달인]
-image: /assets/img/posts/thumb-ganghwaguksu.svg
+image: /assets/img/posts/thumb-ganghwaguksu.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->

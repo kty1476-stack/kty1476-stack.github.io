@@ -3,7 +3,7 @@ title: "[맛있는 녀석들] 우니를 올린 장어회 한 점, 삼성역 두�
 date: 2026-09-05 09:10:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
-image: /assets/img/posts/thumb-dueomari-samseong.svg
+image: /assets/img/posts/thumb-dueomari-samseong.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->

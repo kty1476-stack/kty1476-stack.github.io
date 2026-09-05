@@ -3,7 +3,7 @@ title: "[맛있는 녀석들] 70년 넘게 이어 온 노포의 족탕 한 그�
 date: 2026-09-03 15:00:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
-image: /assets/img/posts/thumb-munhwaok.svg
+image: /assets/img/posts/thumb-munhwaok.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->

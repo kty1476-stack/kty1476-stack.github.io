@@ -3,7 +3,7 @@ title: "[맛있는 녀석들] 손으로만 먹는 밥도둑 한 상, 송파나�
 date: 2026-09-04 09:00:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
-image: /assets/img/posts/thumb-bonga-jinmi.svg
+image: /assets/img/posts/thumb-bonga-jinmi.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->

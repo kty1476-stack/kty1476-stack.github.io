@@ -3,7 +3,7 @@ title: "[전현무계획] 웨이팅 1시간 반의 이유, 성수동 훼미리�
 date: 2026-09-01 21:00:00 +0900
 categories: [전현무계획]
 tags: [전현무계획]
-image: /assets/img/posts/thumb-hwemiri-bossam.svg
+image: /assets/img/posts/thumb-hwemiri-bossam.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->

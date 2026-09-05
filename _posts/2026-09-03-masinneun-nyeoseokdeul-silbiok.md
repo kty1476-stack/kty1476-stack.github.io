@@ -3,7 +3,7 @@ title: "[맛있는 녀석들] 수제비에 죽까지 이어지는 한 냄비, �
 date: 2026-09-03 09:10:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
-image: /assets/img/posts/thumb-silbiok-seongsu.svg
+image: /assets/img/posts/thumb-silbiok-seongsu.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->

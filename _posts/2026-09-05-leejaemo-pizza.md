@@ -3,7 +3,7 @@ title: "[생활의 달인] 엣지까지 치즈로 채운 한 판, 부산 남포�
 date: 2026-09-05 14:50:00 +0900
 categories: [생활의달인]
 tags: [생활의달인]
-image: /assets/img/posts/thumb-leejaemo-pizza.svg
+image: /assets/img/posts/thumb-leejaemo-pizza.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->

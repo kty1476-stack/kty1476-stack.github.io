@@ -3,7 +3,7 @@ title: "[정부지원금] 에너지바우처 하절기 사용 9월 30일 종료,
 date: 2026-09-03 10:00:00 +0900
 categories: [정부지원금]
 tags: [정부지원금]
-image: /assets/img/posts/thumb-eneoji-baucheo.svg
+image: /assets/img/posts/thumb-eneoji-baucheo.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->

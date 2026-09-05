@@ -3,7 +3,7 @@ title: "[정부지원금] 2025년 의료비 본인부담상한액 초과금 환�
 date: 2026-09-04 10:00:00 +0900
 categories: [정부지원금]
 tags: [정부지원금]
-image: /assets/img/posts/thumb-bonin-budam-sanghanje-hwangeup.svg
+image: /assets/img/posts/thumb-bonin-budam-sanghanje-hwangeup.svg?v=13d874c
 ---
 
 <!-- prettier-ignore -->
