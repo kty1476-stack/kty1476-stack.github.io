@@ -9,6 +9,10 @@ on:
       - README.md
       - LICENSE
 
+  # 09:00, 12:00, 15:00, 18:00 Asia/Seoul (UTC+9)
+  schedule:
+    - cron: '0 0,3,6,9 * * *'
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -44,6 +48,27 @@ jobs:
         with:
           ruby-version: 3.4
           bundler-cache: true
+
+      - name: Verify scheduled post filtering
+        run: |
+          bundle exec ruby -rjekyll -rtmpdir -rfileutils <<'RUBY'
+          config = Jekyll.configuration({"quiet" => true})
+          abort "Scheduled posts must remain hidden" unless config["future"] == false
+          Dir.mktmpdir("jekyll-schedule-test") do |root|
+            source = File.join(root, "source")
+            FileUtils.mkdir_p(File.join(source, "_posts"))
+            {"2000-01-01-released" => "2000-01-01 09:00:00 +0900",
+             "2999-01-01-scheduled" => "2999-01-01 09:00:00 +0900"}.each do |slug, date|
+              File.write(File.join(source, "_posts", "#{slug}.md"), "---\ntitle: Probe\ndate: #{date}\n---\nProbe\n")
+            end
+            test_config = Jekyll.configuration({"source" => source, "destination" => File.join(root, "site"),
+              "config" => [], "plugins" => [], "theme" => nil, "future" => config["future"],
+              "timezone" => config["timezone"], "quiet" => true})
+            site = Jekyll::Site.new(test_config)
+            site.process
+            abort "Scheduled post filtering failed" unless site.posts.docs.length == 1 && site.posts.docs.first.date.year == 2000
+          end
+          RUBY
 
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
