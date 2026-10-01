@@ -7,5 +7,3 @@ Disallow: /norobots/
 
 Sitemap: {{ '/sitemap.xml' | absolute_url }}
 Sitemap: https://kty1476-stack.github.io/watch-today/sitemap.xml
-Sitemap: https://kty1476-stack.github.io/amway-guide/sitemap.xml
-Sitemap: https://kty1476-stack.github.io/costco-life/sitemap.xml
