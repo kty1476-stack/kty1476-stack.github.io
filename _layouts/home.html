@@ -146,11 +146,6 @@ layout: default
         </div>
       </a>
     </article>
-    {% if paginator.page == 1 or paginator == nil %}
-      {% if forloop.index == 2 or forloop.last and forloop.index < 2 %}
-        {% include home-food-map.html %}
-      {% endif %}
-    {% endif %}
   {% endfor %}
 </div>
 <!-- #post-list -->

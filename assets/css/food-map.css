@@ -29,28 +29,3 @@
 @media(max-width:575px){#restaurant-map{height:370px}#map-results,#map-pending-list{grid-template-columns:1fr}.map-tools label{min-width:130px}}
 
 .map-popup .map-actions { display:flex;gap:.65rem;flex-wrap:wrap; }
-
-/* A compact editorial card between the newest posts on the first home page. */
-#post-list .home-food-map { margin-bottom:1.75rem;overflow:hidden;border-radius:.75rem;border:1px solid var(--map-edge);background:var(--card-bg,var(--main-bg)); }
-.home-map-heading { display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:1.1rem 1.25rem;background:var(--food-accent-soft); }
-.home-map-eyebrow { color:var(--food-accent);font-size:.78rem; }
-#post-list .home-map-heading h2 { font-size:1.2rem;margin:.2rem 0 0; }
-.home-map-heading > a { white-space:nowrap;font-size:.85rem;color:var(--food-accent); }
-.home-food-map #restaurant-map { height:300px;border-radius:0; }
-#home-map-detail { display:flex;gap:1rem;align-items:center;padding:1.1rem 1.25rem;min-height:130px; }
-#home-map-detail > img { width:32%;max-width:190px;height:auto;aspect-ratio:1.9;object-fit:contain;border-radius:.5rem; }
-.home-map-description { flex:1;min-width:0; }
-#post-list .home-map-description h3 { font-size:1.05rem;margin:.25rem 0; }
-.home-map-description p { font-size:.82rem;margin:.25rem 0 .5rem;overflow-wrap:anywhere; }
-.home-map-description small { display:block;margin-bottom:.35rem;color:var(--text-muted-color); }
-.home-map-description > a { font-size:.85rem; }
-.home-food-map #map-status { margin:0;padding:0 1.25rem 1rem;font-size:.75rem; }
-.map-pin-selected span { box-shadow:0 0 0 4px var(--food-accent-soft),0 2px 7px #0008; }
-@media(max-width:575px){
-  .home-map-heading { padding:1rem;gap:.5rem; }
-  #post-list .home-map-heading h2 { font-size:1.08rem; }
-  .home-food-map #restaurant-map { height:260px; }
-  #home-map-detail { padding:1rem;gap:.75rem;align-items:flex-start; }
-  #home-map-detail > img { width:34%; }
-  .home-food-map #map-status { padding:0 1rem 1rem; }
-}

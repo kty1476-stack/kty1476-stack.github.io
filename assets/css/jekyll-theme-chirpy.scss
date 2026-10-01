@@ -281,3 +281,11 @@ html[data-mode="dark"] search:focus-within {
   aspect-ratio: 40 / 21;
   object-fit: contain;
 }
+
+/* Right panel: a single link opens the full restaurant map. */
+#panel-wrapper .food-map-panel { margin-bottom: 2rem; }
+.food-map-panel-link { display:block;margin-top:.85rem;border:1px solid var(--main-border-color, #dedbd8) !important;border-radius:.65rem;overflow:hidden;background:var(--food-accent-soft);color:var(--food-accent) !important; }
+.food-map-panel-link img { display:block;width:100%;height:auto; }
+.food-map-panel-link span { display:flex;justify-content:space-between;align-items:center;gap:.5rem;padding:.7rem .65rem;font-size:.8rem; }
+.food-map-panel-link:hover { outline:1px solid var(--food-accent); }
+.food-map-attribution { display:block;margin-top:.3rem;font-size:.7rem; }
