@@ -10,6 +10,17 @@
 
 /* ===== 맛집 블로그 커스텀 스타일 ===== */
 
+.food-map-entry {
+  display: flex; align-items: center; gap: 1rem;
+  margin: 0 0 1.25rem; padding: 1rem 1.15rem;
+  border-radius: .8rem; background: var(--food-accent-soft);
+  color: var(--food-accent) !important; border-bottom: 0 !important;
+}
+.food-map-entry span { flex: 1; min-width: 0; }
+.food-map-entry strong { display: block; font-size: 1rem; }
+.food-map-entry small { display: block; margin-top: .25rem; color: var(--text-color); font-size: .8rem; }
+.food-map-entry:hover { outline: 1px solid var(--food-accent); }
+
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap');
 
 :root {

@@ -1,0 +1,26 @@
+---
+title: 맛집 지도
+icon: fas fa-map-marked-alt
+order: 0
+permalink: /food-map/
+toc: false
+---
+<link rel="stylesheet" href="{{ '/assets/map-vendor/leaflet/leaflet.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/food-map.css' | relative_url }}">
+<section id="food-map-app" data-source="{{ '/assets/data/food-map.json' | relative_url }}">
+  <p class="map-intro">방송에서 만난 맛집, 이번에는 가까운 곳부터 찾아보세요. 핀을 누르면 사진과 소개 글을 볼 수 있습니다.</p>
+  <div class="map-tools">
+    <label>맛집·지역 검색<input id="map-search" type="search" placeholder="상호 또는 주소" autocomplete="off"></label>
+    <label>프로그램<select id="map-program"><option value="">모든 프로그램</option></select></label>
+    <button id="map-reset" type="button">전체 위치 보기</button>
+  </div>
+  <p id="map-status" role="status" aria-live="polite">맛집을 불러오고 있습니다.</p>
+  <div id="restaurant-map" aria-label="맛집 위치 지도"></div>
+  <p class="map-caption">핀은 상호와 주소를 대조한 위치입니다. 사진은 AI로 만든 메뉴 예시이며, 방문 전 영업 여부를 확인해 주세요.</p>
+  <h2 id="map-results-title">지도에서 찾는 맛집</h2>
+  <div id="map-results"></div>
+  <details id="map-pending"><summary>위치 확인 중인 맛집</summary><p>정확한 좌표가 확인되기 전에는 핀을 표시하지 않습니다. 글과 지도 검색은 아래에서 이용할 수 있습니다.</p><div id="map-pending-list"></div></details>
+  <noscript><p>지도를 보려면 자바스크립트를 켜 주세요. <a href="{{ '/' | relative_url }}">기존 맛집 글 읽기</a></p></noscript>
+</section>
+<script defer src="{{ '/assets/map-vendor/leaflet/leaflet.js' | relative_url }}"></script>
+<script defer src="{{ '/assets/js/food-map.js' | relative_url }}"></script>

@@ -1,0 +1,13 @@
+---
+layout: null
+---
+[
+{%- assign first = true -%}
+{%- for post in site.posts -%}
+  {%- unless post.categories contains '정부지원금' or post.hidden -%}
+    {%- assign loc = site.data.food_locations[post.slug] -%}
+    {%- unless first -%},{%- endunless -%}{%- assign first = false -%}
+    {"slug":{{ post.slug | jsonify }},"title":{{ post.title | jsonify }},"url":{{ post.url | relative_url | jsonify }},"program":{{ post.categories[0] | remove: ' ' | replace: '전현무계획4', '전현무계획' | jsonify }},"image":{{ post.image.path | default: post.image | relative_url | jsonify }},"alt":{{ post.image.alt | default: 'AI 생성 메뉴 예시' | jsonify }},"location":{{ loc | jsonify }}}
+  {%- endunless -%}
+{%- endfor -%}
+]

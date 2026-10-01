@@ -46,6 +46,14 @@ layout: default
   {% endfor %}
 {% endif %}
 
+{% if paginator.page == 1 or paginator == nil %}
+<a class="food-map-entry" href="{{ '/food-map/' | relative_url }}">
+  <i class="fas fa-map-marked-alt" aria-hidden="true"></i>
+  <span><strong>맛집 지도에서 찾아보기</strong><small>가까운 방송 맛집을 핀으로 확인하고, 소개 글까지 한 번에</small></span>
+  <i class="fas fa-arrow-right" aria-hidden="true"></i>
+</a>
+{% endif %}
+
 <!-- 카테고리 바로가기 -->
 {% assign sort_categories = site.categories | sort %}
 {% if sort_categories.size > 0 %}

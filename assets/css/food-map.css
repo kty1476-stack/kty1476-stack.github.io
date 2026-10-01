@@ -1,0 +1,31 @@
+#food-map-app { --map-edge: var(--main-border-color, #dedbd8); }
+#food-map-app .map-intro { margin-bottom: 1.5rem; }
+.map-tools { display:flex;flex-wrap:wrap;gap:.8rem;align-items:end; }
+.map-tools label { flex:1;min-width:160px;font-size:.85rem; }
+.map-tools input,.map-tools select { display:block;width:100%;padding:.65rem .75rem;margin-top:.35rem;border:1px solid var(--map-edge);border-radius:.6rem;background:var(--main-bg);color:var(--text-color); }
+.map-tools button,.map-card button { padding:.65rem .85rem;border-radius:.6rem;border:1px solid var(--food-accent);color:var(--food-accent);background:transparent;min-height:44px; }
+.map-tools button:hover,.map-card button:hover { background:var(--food-accent-soft); }
+#restaurant-map { height:470px;width:100%;border-radius:.9rem;z-index:0;background:#e8e6e1; }
+#map-status,.map-caption { font-size:.85rem;color:var(--text-muted-color);margin:.8rem 0; }
+#map-results,#map-pending-list { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem; }
+.map-card { border:1px solid var(--map-edge);border-radius:.85rem;overflow:hidden;background:var(--card-bg,var(--main-bg)); }
+.map-card img { width:100%;height:auto;aspect-ratio:1.9;object-fit:contain;display:block; }
+.map-card-body { padding:1rem; }
+.map-card h3 { margin:0 0 .5rem;font-size:1.08rem; }
+.map-card p { font-size:.85rem;margin:.5rem 0;overflow-wrap:anywhere; }
+.map-card .map-actions { display:flex;align-items:center;gap:.8rem;flex-wrap:wrap;margin-top:.8rem; }
+.map-program { color:var(--food-accent);font-size:.8rem; }
+#map-pending { margin-top:2rem; }
+#map-pending summary { cursor:pointer;padding:1rem 0;color:var(--food-accent); }
+#restaurant-map .leaflet-popup-content { width:230px!important;margin:14px; }
+#restaurant-map .leaflet-popup-content-wrapper { background:var(--main-bg);color:var(--text-color);border-radius:.8rem; }
+#restaurant-map .leaflet-popup-tip { background:var(--main-bg); }
+.map-popup img { display:block;aspect-ratio:1.9;object-fit:contain;width:100%;height:auto;border-radius:.45rem; }
+.map-popup h3 { font-size:1rem;margin:.7rem 0; }
+.map-popup p { margin:.5rem 0; }
+.map-pin { background:transparent;border:0; }
+.map-pin span { display:block;width:26px;height:26px;background:var(--food-accent,#b0452e);border:3px solid #fff;border-radius:50% 50% 50% 0;transform:rotate(-45deg);box-shadow:0 2px 5px #0005; }
+.map-pin span::after { content:'';display:block;width:7px;height:7px;margin:6px;border-radius:50%;background:#fff; }
+@media(max-width:575px){#restaurant-map{height:370px}#map-results,#map-pending-list{grid-template-columns:1fr}.map-tools label{min-width:130px}}
+
+.map-popup .map-actions { display:flex;gap:.65rem;flex-wrap:wrap; }
