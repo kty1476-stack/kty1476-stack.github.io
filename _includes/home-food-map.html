@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="{{ '/assets/map-vendor/leaflet/leaflet.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/food-map.css' | relative_url }}">
+<section id="food-map-app" class="home-food-map card" data-mode="home" data-source="{{ '/assets/data/food-map.json' | relative_url }}" aria-labelledby="home-map-title">
+  <div class="home-map-heading">
+    <div><span class="home-map-eyebrow">방송 맛집, 어디에 있을까요?</span><h2 id="home-map-title">지도에서 만나는 맛집</h2></div>
+    <a href="{{ '/food-map/' | relative_url }}">전체 지도 <span aria-hidden="true">→</span></a>
+  </div>
+  <div id="restaurant-map" aria-label="방송 맛집 위치 지도"></div>
+  <div id="home-map-detail" aria-live="polite"><p>핀을 누르면 이곳에 맛집 소개가 나타납니다.</p></div>
+  <p id="map-status" role="status">지도를 불러오고 있습니다.</p>
+  <noscript><a href="{{ '/food-map/' | relative_url }}">맛집 지도와 목록 보기</a></noscript>
+</section>
+<script defer src="{{ '/assets/map-vendor/leaflet/leaflet.js' | relative_url }}"></script>
+<script defer src="{{ '/assets/js/food-map.js' | relative_url }}"></script>

@@ -2,6 +2,7 @@
   'use strict';
   const root = document.getElementById('food-map-app');
   if (!root) return;
+  const compact = root.dataset.mode === 'home';
   const status = document.getElementById('map-status');
   const query = document.getElementById('map-search');
   const program = document.getElementById('map-program');
@@ -39,7 +40,6 @@
     const search = [loc.name,loc.address].filter(Boolean).join(' ') || p.title;
     actions.append(link('카카오맵 검색', 'https://map.kakao.com/?q='+encodeURIComponent(search),true));
     body.append(actions);
-    if(popup && loc.source) body.append(link('위치 확인 자료',loc.source,true));
     box.append(body); return box;
   }
   function render() {
@@ -59,11 +59,47 @@
     document.querySelector('#map-pending summary').textContent=`위치 확인 중인 맛집 ${matches.length-points.length}편`;
     if(map && points.length) map.fitBounds(points,{padding:[35,35],maxZoom:15});
   }
-  fetch(root.dataset.source).then(r=>{if(!r.ok)throw Error('data');return r.json();}).then(data=>{
+  function renderHome(data) {
+    const places=data.filter(located);
+    const detail=document.getElementById('home-map-detail');
+    let activeMarker;
+    function showPlace(p, marker) {
+      detail.replaceChildren();
+      detail.append(photo(p));
+      const text=el('div','','home-map-description');
+      text.append(el('span',p.program,'map-program'),el('h3',p.location.name),el('p',p.location.address));
+      if(p.location.precision==='building') text.append(el('small','주소지 건물 위치 기준'));
+      text.append(link('이 맛집 글 읽기 →',p.url));detail.append(text);
+      if(activeMarker) { activeMarker.setZIndexOffset(0); activeMarker.getElement()?.classList.remove('map-pin-selected'); }
+      activeMarker=marker;
+      if(marker) { marker.setZIndexOffset(1000); marker.getElement()?.classList.add('map-pin-selected'); }
+    }
+    if(window.L && places.length) {
+      map=L.map('restaurant-map',{scrollWheelZoom:false}).setView([36.2,127.8],7);
+      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+      places.forEach(p=>{
+        const marker=L.marker([p.location.lat,p.location.lng],{title:p.location.name,alt:p.location.name,icon:L.divIcon({className:'map-pin',html:'<span></span>',iconSize:[30,38],iconAnchor:[15,34]})}).addTo(map);
+        marker.on('click',()=>showPlace(p,marker));markerBySlug.set(p.slug,marker);
+      });
+      const bounds=places.map(p=>[p.location.lat,p.location.lng]);
+      const fit=()=>{map.invalidateSize({pan:false});map.fitBounds(bounds,{padding:[30,30],maxZoom:12,animate:false});};
+      fit();
+      if('ResizeObserver' in window) new ResizeObserver(fit).observe(document.getElementById('restaurant-map'));
+    }
+    if(places.length) showPlace(places[0],markerBySlug.get(places[0].slug));
+    else detail.textContent='확인된 위치를 준비하고 있습니다. 전체 지도에서 기존 글을 볼 수 있습니다.';
+    status.textContent=map?`위치가 확인된 ${places.length}곳 · 핀을 눌러 글을 만나보세요 · 사진은 AI 생성 메뉴 예시`:'지도를 불러오지 못했습니다. 전체 지도 링크에서 맛집 목록을 확인해 주세요.';
+  }
+  function load() { fetch(root.dataset.source).then(r=>{if(!r.ok)throw Error('data');return r.json();}).then(data=>{
+    if(compact) { renderHome(data); return; }
     posts=data;
     if(window.L){map=L.map('restaurant-map',{scrollWheelZoom:false}).setView([36.2,127.8],7);L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);layer=L.layerGroup().addTo(map);}
     [...new Set(posts.map(p=>p.program))].sort().forEach(p=>{const o=el('option',p);o.value=p;program.append(o);});
     query.addEventListener('input',render);program.addEventListener('change',render);
     document.getElementById('map-reset').onclick=()=>{query.value='';program.value='';render();};render();
-  }).catch(()=>{status.textContent='맛집 정보를 불러오지 못했습니다. 잠시 후 새로고침해 주세요.';status.append(' ',link('기존 글 보기','/'));});
+  }).catch(()=>{status.textContent='맛집 정보를 불러오지 못했습니다. 잠시 후 새로고침해 주세요.';status.append(' ',link('맛집 지도 보기','/food-map/'));}); }
+  if(compact && 'IntersectionObserver' in window) {
+    const observer=new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting)){observer.disconnect();load();}},{rootMargin:'250px'});
+    observer.observe(root);
+  } else load();
 })();
