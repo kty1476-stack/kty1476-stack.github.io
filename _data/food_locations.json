@@ -527,5 +527,29 @@
     "lng": 126.9815887,
     "source": "https://www.openstreetmap.org/node/5008559821",
     "matched_address": "남포면옥, 24, 을지로3길, 다동, 명동, 중구, 서울특별시, 04522, 대한민국"
+  },
+  "masinneun-nyeoseokdeul-unbongsanjang": {
+    "name": "운봉산장",
+    "address": "서울 동작구 장승배기로 118-1",
+    "checked": "2026-10-02",
+    "status": "pending"
+  },
+  "saenghwalui-dalin-yukgu-bangatgan": {
+    "name": "육구방앗간",
+    "address": "강원 속초시 청학로 13 1층",
+    "checked": "2026-10-02",
+    "status": "pending"
+  },
+  "jeonhyunmoo-boyoung-bonjeom": {
+    "name": "보영식당 본점",
+    "address": "경기 의정부시 태평로133번길 26",
+    "checked": "2026-10-02",
+    "status": "pending"
+  },
+  "saenghwalui-dalin-russell-donuts": {
+    "name": "러셀도넛",
+    "address": "서울 강동구 양재대로89길 60 1층 102호",
+    "checked": "2026-10-02",
+    "status": "pending"
   }
 }
