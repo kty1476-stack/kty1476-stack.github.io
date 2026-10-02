@@ -551,5 +551,29 @@
     "address": "서울 강동구 양재대로89길 60 1층 102호",
     "checked": "2026-10-02",
     "status": "pending"
+  },
+  "tasty-guys-583-okiboru": {
+    "name": "오키보루",
+    "address": "서울 영등포구 여의나루로 77-1 1층 102호",
+    "checked": "2026-10-03",
+    "status": "pending"
+  },
+  "lifemaster-1041-niurou-mian": {
+    "name": "뉴러우멘관즈",
+    "address": "부산 수영구 수영로388번길 25-4 1층 107호",
+    "checked": "2026-10-03",
+    "status": "pending"
+  },
+  "jeon-plan4-14-upo-sugure": {
+    "name": "우포수구레국밥",
+    "address": "경남 창녕군 남지읍 남지중앙2길 55",
+    "checked": "2026-10-03",
+    "status": "pending"
+  },
+  "tasty-guys-583-moheji": {
+    "name": "모헤지 종로3가",
+    "address": "서울 종로구 돈화문로11길 42 1층 2층",
+    "checked": "2026-10-03",
+    "status": "pending"
   }
 }
