@@ -4,7 +4,7 @@ title: "[전현무계획] 부대찌개 한 냄비를 나누는 식사, 의정부
 date: "2026-10-02 08:16:36 +0900"
 categories: ["전현무계획"]
 tags: ["전현무계획"]
-image: {"path": "/assets/img/posts/thumb-jeonhyunmoo-boyoung-bonjeom-20261002.png", "alt": "[전현무계획] 부대찌개 한 냄비를 나누는 식사, 의정부 보영식당 본점 — 실제 매장 촬영 사진이 아닌 AI 생성 메뉴 예시"}
+image: {"path": "/assets/img/posts/thumb-jeonhyunmoo-boyoung-bonjeom-20261002-clean-20261002.png", "alt": "[전현무계획] 부대찌개 한 냄비를 나누는 식사, 의정부 보영식당 본점 — 실제 매장 촬영 사진이 아닌 메뉴 예시"}
 ---
 
 의정부에서 부대찌개를 고를 때는 상호와 본점 주소를 함께 확인하는 편이 좋습니다. ‘전현무계획4’ 의정부 편에 소개된 보영식당 본점은 태평로133번길에 있는 매장으로, 여러 사람이 한 냄비를 나누는 식사를 찾을 때 살펴볼 곳입니다.
@@ -37,5 +37,5 @@ MBN·채널S ‘전현무계획4’ 7회는 2026년 8월 14일 방영됐습니�
 확인한 출처: [MBN 7회 공식 영상](https://m.mbn.co.kr/tv/1032/6677/1155486), [7회 매장 정리](https://buzz.ssohanday.com/jeon-hyun-moo-plan-boyoung-restaurant/), [다이닝코드 보영식당 본점](https://www.diningcode.com/profile.php?rid=ZoDUjOdSxW13).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

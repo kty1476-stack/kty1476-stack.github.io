@@ -4,8 +4,8 @@ date: 2026-09-04 10:00:00 +0900
 categories: [정부지원금]
 tags: [정부지원금]
 image:
-  path: /assets/img/posts/thumb-bonin-budam-sanghanje-hwangeup-photo-v2.webp
-  alt: "정부지원금 · 의료비 환급 안내 · 본인부담상한액 초과금 — AI로 생성한 주제 예시 이미지입니다."
+  path: /assets/img/posts/thumb-bonin-budam-sanghanje-hwangeup-photo-v2-clean-20261002.png
+  alt: "정부지원금 · 의료비 환급 안내 · 본인부담상한액 초과금 — 주제 예시 이미지입니다."
 ---
 
 지난해 병원비를 많이 쓰셨다면 그중 일부를 돌려받을 수 있어요. 보건복지부와 국민건강보험공단이 2025년 진료분에 대한 **본인부담상한액 초과금** 지급 절차를 2026년 8월 31일부터 시작했고, 대상자는 226만 2,605명, 총 지급액은 3조 760억 원입니다. 안내문을 받고도 그냥 넘기면 못 받는 돈이라 지금 확인해두는 게 좋아요.

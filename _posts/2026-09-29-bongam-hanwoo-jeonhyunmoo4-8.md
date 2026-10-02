@@ -4,7 +4,7 @@ title: "[전현무계획] 한우모둠 한 상, 양주 봉암식당"
 date: "2026-09-29 10:20:48 +0900"
 categories: ["전현무계획"]
 tags: ["전현무계획"]
-image: {"path": "/assets/img/posts/thumb-bongam-hanwoo-jeonhyunmoo4-8-20260929.png", "alt": "[전현무계획] 한우모둠 한 상, 양주 봉암식당 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-bongam-hanwoo-jeonhyunmoo4-8-20260929-clean-20261002.png", "alt": "[전현무계획] 한우모둠 한 상, 양주 봉암식당 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 여러 한우 부위를 한자리에서 비교하는 식사를 찾는다면 양주 봉암식당이 후보가 될 수 있습니다. 전현무계획4 양주 편에서 소개된 한우모둠을 중심으로 공식 맛집기록과 공개 메뉴 정보를 정리했습니다.
@@ -40,5 +40,5 @@ image: {"path": "/assets/img/posts/thumb-bongam-hanwoo-jeonhyunmoo4-8-20260929.p
 확인한 출처: [MBN 봉암식당 공식 맛집기록](https://www.mbn.co.kr/totalCastView/346415/1), [다이닝코드 봉암식당](https://www.diningcode.com/profile.php?rid=R1a50sr0vziC).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

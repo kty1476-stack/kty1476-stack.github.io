@@ -4,7 +4,7 @@ title: "[정부지원금] 해산급여 대상과 출산예정일 4주 전 신청
 date: "2026-09-28 08:14:36 +0900"
 categories: ["정부지원금"]
 tags: ["정부지원금"]
-image: {"path": "/assets/img/posts/thumb-government-childbirth-benefit-guide-20260928.png", "alt": "[정부지원금] 해산급여 대상과 출산예정일 4주 전 신청 안내 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-government-childbirth-benefit-guide-20260928-clean-20261002.png", "alt": "[정부지원금] 해산급여 대상과 출산예정일 4주 전 신청 안내 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 출산을 앞둔 기초생활보장 수급자라면 해산급여를 확인해 보세요. 2026년 9월 28일 기준 공식 안내를 대조해 대상과 금액, 신청 시점을 정리했어요.
@@ -36,5 +36,5 @@ image: {"path": "/assets/img/posts/thumb-government-childbirth-benefit-guide-202
 공식 자료: [찾기 쉬운 생활법령정보 해산급여](https://m.easylaw.go.kr/MOB/CsmInfoRetrieve.laf?ccfNo=3&cciNo=2&cnpClsNo=3&csmSeq=735), [논산시 2026년 해산급여 안내](https://seoul.nonsan.go.kr/kor/html/sub05/051202.html).
 
 <!-- prettier-ignore -->
-> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다. 썸네일은 실제 기관 홍보물이 아닌 AI 생성 주제 예시입니다.
+> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다.
 {: .prompt-tip }

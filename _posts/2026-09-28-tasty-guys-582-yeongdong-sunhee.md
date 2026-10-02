@@ -4,7 +4,7 @@ title: "[맛있는 녀석들] 인삼어죽과 도리뱅뱅 한 상, 영동 선�
 date: "2026-09-28 08:14:36 +0900"
 categories: ["맛있는녀석들"]
 tags: ["맛있는녀석들"]
-image: {"path": "/assets/img/posts/thumb-tasty-guys-582-yeongdong-sunhee-20260928.png", "alt": "[맛있는 녀석들] 인삼어죽과 도리뱅뱅 한 상, 영동 선희식당 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-tasty-guys-582-yeongdong-sunhee-20260928-clean-20261002.png", "alt": "[맛있는 녀석들] 인삼어죽과 도리뱅뱅 한 상, 영동 선희식당 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 영동에서 국물 한 그릇과 민물고기 별미를 함께 찾는다면 인삼어죽과 도리뱅뱅 조합을 살펴볼 만합니다. 양산면의 선희식당은 어죽을 중심으로 여행 식사를 계획할 때 참고할 수 있는 곳입니다.
@@ -36,5 +36,5 @@ image: {"path": "/assets/img/posts/thumb-tasty-guys-582-yeongdong-sunhee-2026092
 확인한 자료: [톱스타뉴스 582회 리캡](https://www.topstarnews.net/news/articleView.html?idxno=16210122), [582회 선희식당 소개](https://infodemic.kr/2693), [다이닝코드 식당 정보](https://www.diningcode.com/profile.php?rid=ZdZL3Q39b13h).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

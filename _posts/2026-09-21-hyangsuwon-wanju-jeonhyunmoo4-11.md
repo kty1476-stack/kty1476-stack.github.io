@@ -4,7 +4,7 @@ title: "[전현무계획4] 생강 향을 더한 오리주물럭, 완주 봉동 �
 date: "2026-09-21 08:54:24 +0900"
 categories: ["전현무계획"]
 tags: ["전현무계획"]
-image: {"path": "/assets/img/posts/thumb-hyangsuwon-wanju-jeonhyunmoo4-11-20260921.png", "alt": "AI 생성 메뉴 예시이며 실제 매장 촬영 사진이 아닙니다. [전현무계획4] 생강 향을 더한 오리주물럭, 완주 봉동 향수원"}
+image: {"path": "/assets/img/posts/thumb-hyangsuwon-wanju-jeonhyunmoo4-11-20260921-clean-20261002.png", "alt": "메뉴 예시이며 실제 매장 촬영 사진이 아닙니다. [전현무계획4] 생강 향을 더한 오리주물럭, 완주 봉동 향수원"}
 description: "전현무계획4가 소개한 완주 향수원 오리주물럭의 생강·들깨가루 특징과 방문 정보를 정리합니다."
 summary: "전현무계획4가 소개한 완주 향수원 오리주물럭의 생강·들깨가루 특징과 방문 정보를 정리합니다."
 ---
@@ -40,5 +40,5 @@ summary: "전현무계획4가 소개한 완주 향수원 오리주물럭의 생�
 확인한 자료: [MBN 공식 향수원 소개](https://www.mbn.co.kr/totalCastView/346865/1), [MBN 11회 오리주물럭 영상](https://m.mbn.co.kr/tv/1032/6677/1156126), [방영일 교차 확인](https://gastronomic2022.tistory.com/4383), [다이닝코드 메뉴·위치](https://www.diningcode.com/profile.php?rid=Gcgm4u6GyHlY)
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

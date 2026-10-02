@@ -4,7 +4,7 @@ title: "[정부지원금] 고용보험 미적용자 출산급여, 150만 원과 
 date: "2026-09-25 08:16:54 +0900"
 categories: ["정부지원금"]
 tags: ["정부지원금"]
-image: {"path": "/assets/img/posts/thumb-employment-uninsured-childbirth-benefit-20260925.png", "alt": "[정부지원금] 고용보험 미적용자 출산급여, 150만 원과 신청 기한 확인 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-employment-uninsured-childbirth-benefit-20260925-clean-20261002.png", "alt": "[정부지원금] 고용보험 미적용자 출산급여, 150만 원과 신청 기한 확인 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 일하면서 소득을 얻었지만 고용보험의 출산휴가급여를 받지 못하는 경우에도 확인할 제도가 있어요. 고용보험 미적용자 출산급여의 금액과 신청 기한을 2026년 9월 25일 확인한 고용24 및 고용노동부 공식 안내로 정리해요.
@@ -37,5 +37,5 @@ image: {"path": "/assets/img/posts/thumb-employment-uninsured-childbirth-benefit
 - [고용노동부 출산급여 대상·금액·신청 방법](https://www.moel.go.kr/news/cardinfo/view.do?bbs_seq=20240500849)
 
 <!-- prettier-ignore -->
-> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다. 썸네일은 실제 기관 홍보물이 아닌 AI 생성 주제 예시입니다.
+> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다.
 {: .prompt-tip }

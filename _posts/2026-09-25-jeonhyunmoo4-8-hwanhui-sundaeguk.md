@@ -4,7 +4,7 @@ title: "[전현무계획] 순댓국과 머릿고기로 채우는 한 끼, 양주
 date: "2026-09-25 08:16:54 +0900"
 categories: ["전현무계획"]
 tags: ["전현무계획"]
-image: {"path": "/assets/img/posts/thumb-jeonhyunmoo4-8-hwanhui-sundaeguk-20260925.png", "alt": "[전현무계획] 순댓국과 머릿고기로 채우는 한 끼, 양주 환희식당 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-jeonhyunmoo4-8-hwanhui-sundaeguk-20260925-clean-20261002.png", "alt": "[전현무계획] 순댓국과 머릿고기로 채우는 한 끼, 양주 환희식당 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 양주에서 뜨끈한 국밥 한 그릇을 찾는다면 은현면의 환희식당을 살펴보실 만합니다. 전현무계획 공식 식당 소개에는 순댓국과 머릿고기를 함께 맛보는 곳으로 안내돼 있습니다.
@@ -41,5 +41,5 @@ image: {"path": "/assets/img/posts/thumb-jeonhyunmoo4-8-hwanhui-sundaeguk-202609
 - [MBN 8회 방송 페이지](https://m.mbn.co.kr/tv/1032/6677/1155643)
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

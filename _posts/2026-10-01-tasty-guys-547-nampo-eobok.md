@@ -4,7 +4,7 @@ title: "[맛있는녀석들] 어복쟁반을 함께 나누는 식탁, 서울 중
 date: "2026-10-01 08:15:23 +0900"
 categories: ["맛있는녀석들"]
 tags: ["맛있는녀석들"]
-image: {"path": "/assets/img/posts/thumb-tasty-guys-547-nampo-eobok-20261001.png", "alt": "[맛있는녀석들] 어복쟁반을 함께 나누는 식탁, 서울 중구 남포면옥 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-tasty-guys-547-nampo-eobok-20261001-clean-20261002.png", "alt": "[맛있는녀석들] 어복쟁반을 함께 나누는 식탁, 서울 중구 남포면옥 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 냉면집에서 따뜻한 음식을 고른다면 어복쟁반은 어떨까요. 서울 중구 남포면옥은 냉면과 함께 어복쟁반을 살펴볼 수 있는 이북 음식점입니다. 여러 사람이 한 상을 나누는 식사 후보로 방송에 나온 메뉴와 위치를 정리했습니다.
@@ -34,5 +34,5 @@ image: {"path": "/assets/img/posts/thumb-tasty-guys-547-nampo-eobok-20261001.png
 - [미쉐린 가이드 남포면옥](https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/nampo-myeonok)
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

@@ -4,7 +4,7 @@ title: "[전현무계획] 가례불고기와 청국장의 한 끼, 경남 의령
 date: "2026-09-27 08:14:15 +0900"
 categories: ["전현무계획"]
 tags: ["전현무계획"]
-image: {"path": "/assets/img/posts/thumb-jeonhyunmoo-4-13-uiryeong-nongga-20260927.png", "alt": "[전현무계획] 가례불고기와 청국장의 한 끼, 경남 의령농가밥상 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-jeonhyunmoo-4-13-uiryeong-nongga-20260927-clean-20261002.png", "alt": "[전현무계획] 가례불고기와 청국장의 한 끼, 경남 의령농가밥상 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 고기 한 접시만큼 함께 차려지는 밥과 찌개가 중요하다면 의령농가밥상을 살펴볼 만합니다. 전현무계획4 의령 편에서 소개한 가례불고기와 우렁이청국장을 중심으로 방문 정보를 정리했습니다.
@@ -40,5 +40,5 @@ image: {"path": "/assets/img/posts/thumb-jeonhyunmoo-4-13-uiryeong-nongga-202609
 - [전현무계획4 13회 가례불고기 식당 안내](https://www.make2t.kr/2026/09/jeonhyunmoo-uiryeong-garye-bulgogi.html)
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

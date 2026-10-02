@@ -4,7 +4,7 @@ title: "[맛있는 녀석들] 올뱅이국밥과 전으로 만나는 영동, 황
 date: "2026-09-27 08:14:15 +0900"
 categories: ["맛있는녀석들"]
 tags: ["맛있는녀석들"]
-image: {"path": "/assets/img/posts/thumb-tasty-guys-582-yeongdong-inter-20260927.png", "alt": "[맛있는 녀석들] 올뱅이국밥과 전으로 만나는 영동, 황간면 인터식당 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-tasty-guys-582-yeongdong-inter-20260927-clean-20261002.png", "alt": "[맛있는 녀석들] 올뱅이국밥과 전으로 만나는 영동, 황간면 인터식당 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 영동 황간면의 인터식당은 국밥 한 그릇부터 전과 무침까지 올뱅이를 여러 방식으로 만나는 곳입니다. 2026년 9월 25일 방송된 맛있는 녀석들 582회 영동 편을 따라, 식사 메뉴를 고를 때 필요한 정보를 정리했습니다.
@@ -41,5 +41,5 @@ image: {"path": "/assets/img/posts/thumb-tasty-guys-582-yeongdong-inter-20260927
 - [다이닝코드 인터식당 주소·메뉴](https://www.diningcode.com/profile.php?rid=it5WtpcH1PTl)
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

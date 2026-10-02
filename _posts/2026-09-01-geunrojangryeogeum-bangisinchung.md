@@ -4,8 +4,8 @@ date: 2026-09-01 20:00:00 +0900
 categories: [정부지원금]
 tags: [정부지원금]
 image:
-  path: /assets/img/posts/thumb-geunrojangryeogeum-photo-v2.webp
-  alt: "정부지원금 · 근로장려금 · 반기신청 안내 — AI로 생성한 주제 예시 이미지입니다."
+  path: /assets/img/posts/thumb-geunrojangryeogeum-photo-v2-clean-20261002.png
+  alt: "정부지원금 · 근로장려금 · 반기신청 안내 — 주제 예시 이미지입니다."
 ---
 
 근로소득자라면 놓치기 쉬운 **근로장려금 반기신청** 기간이 돌아왔어요. 2026년 상반기분 근로장려금 반기신청이 9월 1일부터 9월 15일까지 진행되는데, 신청 대상과 지급 시기를 미리 정리해봤어요.

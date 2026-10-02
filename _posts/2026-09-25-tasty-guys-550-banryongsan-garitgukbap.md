@@ -4,7 +4,7 @@ title: "[맛있는 녀석들] 함흥식 가릿국밥 한 그릇, 서울 대치�
 date: "2026-09-25 08:16:54 +0900"
 categories: ["맛있는녀석들"]
 tags: ["맛있는녀석들"]
-image: {"path": "/assets/img/posts/thumb-tasty-guys-550-banryongsan-garitgukbap-20260925.png", "alt": "[맛있는 녀석들] 함흥식 가릿국밥 한 그릇, 서울 대치동 반룡산 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-tasty-guys-550-banryongsan-garitgukbap-20260925-clean-20261002.png", "alt": "[맛있는 녀석들] 함흥식 가릿국밥 한 그릇, 서울 대치동 반룡산 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 가릿국밥이라는 이름이 낯설다면 함흥 음식을 다룬 방송부터 살펴보셔도 좋겠습니다. 대치동 반룡산은 국밥과 국수, 왕만두를 함께 소개한 맛있는 녀석들 550회에서 확인할 수 있는 식당입니다.
@@ -41,5 +41,5 @@ image: {"path": "/assets/img/posts/thumb-tasty-guys-550-banryongsan-garitgukbap-
 - [다이닝코드 반룡산 정보](https://www.diningcode.com/profile.php?rid=S3xWF4cDCXZ3)
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

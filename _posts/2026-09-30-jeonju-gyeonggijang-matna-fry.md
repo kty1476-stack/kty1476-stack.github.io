@@ -4,7 +4,7 @@ title: "[전현무계획4] 식빵튀김으로 떠나는 간식 산책, 전주 �
 date: "2026-09-30 08:14:09 +0900"
 categories: ["전현무계획"]
 tags: ["전현무계획"]
-image: {"path": "/assets/img/posts/thumb-jeonju-gyeonggijang-matna-fry-20260930.png", "alt": "[전현무계획4] 식빵튀김으로 떠나는 간식 산책, 전주 경기장맛나튀김 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-jeonju-gyeonggijang-matna-fry-20260930-clean-20261002.png", "alt": "[전현무계획4] 식빵튀김으로 떠나는 간식 산책, 전주 경기장맛나튀김 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 전주 여행에서 식사 사이에 잠깐 들를 간식집을 찾는다면 식빵튀김도 선택지가 됩니다. 경기장맛나튀김은 물갈비와 우족탕이 등장한 전주 편에서 함께 소개된 분식집입니다.
@@ -31,5 +31,5 @@ MBN·채널S 전현무계획4 12회는 2026년 9월 18일 전주 먹거리 탐�
 확인 자료: [전현무계획4 12회 리캡](https://kstarn.com/ko-kr/articles/4051), [주소·메뉴 소개](https://buzz.ssohanday.com/jeonju-gyeonggijang-matna-twigim/), [기존 방문 기록의 메뉴 확인](https://jackti.tistory.com/42).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

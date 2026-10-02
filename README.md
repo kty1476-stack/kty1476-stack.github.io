@@ -52,3 +52,10 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+
+### 게시글과 썸네일 안내 문구 (2026-10-02)
+
+- 글 본문·요약·이미지 설명·캡션과 썸네일 이미지 안에 AI 제작 안내 문구를 넣지 않습니다.
+- 이미지의 음식·주제·프로그램·매장명은 정확히 표시합니다. 실제 방문 후기나 매장 촬영 사진, 공식 기관 홍보물이라고 허위로 소개하지 않습니다.
+- 방송·공식 자료 기반 안내와 가격·운영 정보 변동 가능성 안내는 본문 마지막에 유지합니다.

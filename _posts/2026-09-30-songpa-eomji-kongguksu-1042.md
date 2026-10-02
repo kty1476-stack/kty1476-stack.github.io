@@ -4,7 +4,7 @@ title: "[생활의 달인] 콩국수 한 그릇을 찾아서, 송파 엄지손�
 date: "2026-09-30 08:14:09 +0900"
 categories: ["생활의달인"]
 tags: ["생활의달인"]
-image: {"path": "/assets/img/posts/thumb-songpa-eomji-kongguksu-1042-20260930.png", "alt": "[생활의 달인] 콩국수 한 그릇을 찾아서, 송파 엄지손칼국수 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-songpa-eomji-kongguksu-1042-20260930-clean-20261002.png", "alt": "[생활의 달인] 콩국수 한 그릇을 찾아서, 송파 엄지손칼국수 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 상호에 칼국수가 들어가 있어도 방송에서 주목한 메뉴는 콩국수일 수 있습니다. 송파동 엄지손칼국수는 생활의 달인의 콩국수 코너를 보고 위치를 찾는 분께 정리해둘 만한 식당입니다.
@@ -32,5 +32,5 @@ SBS 생활의 달인 1042회는 2026년 8월 3일 ‘은둔식달 – 서울 3�
 확인 자료: [SBS 1042회 공식 방송정보](https://programs.sbs.co.kr/culture/lifemaster/board/55736?cmd=view&page=1&board_no=7561), [다이닝코드 송파동 매장 정보](https://www.diningcode.com/profile.php?rid=gFsDENK1R5q4).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

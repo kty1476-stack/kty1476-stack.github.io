@@ -4,7 +4,7 @@ title: "[정부지원금] 여성장애인 출산비용 지원, 태아 1명 기�
 date: "2026-09-23 08:18:10 +0900"
 categories: ["정부지원금"]
 tags: ["정부지원금"]
-image: {"path": "/assets/img/posts/thumb-disabled-women-childbirth-support-2026-20260923.png", "alt": "[정부지원금] 여성장애인 출산비용 지원, 태아 1명 기준 120만원 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-disabled-women-childbirth-support-2026-20260923-clean-20261002.png", "alt": "[정부지원금] 여성장애인 출산비용 지원, 태아 1명 기준 120만원 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 출산 준비나 회복 과정에서 추가 비용이 부담된다면 여성장애인 출산비용 지원을 확인해 보세요. 등록 여성장애인을 위한 제도로, 신청 대상과 증빙서류를 먼저 확인하면 접수 준비에 도움이 돼요.
@@ -42,5 +42,5 @@ image: {"path": "/assets/img/posts/thumb-disabled-women-childbirth-support-2026-
 공식 자료: [홍천군 2026년 신청 공고](https://www.hongcheon.go.kr/www/selectEminwonView.do?key=278&not_ancmt_mgt_no=53521&ofr_pageSize=10&pageIndex=1&pageUnit=10&searchCnd=all), [인천광역시 보조금24 연계 안내](https://www.incheon.go.kr/icbenefit/ICB020201/view?srvcId=352000000123).
 
 <!-- prettier-ignore -->
-> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다. 썸네일은 실제 기관 홍보물이 아닌 AI 생성 주제 예시입니다.
+> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다.
 {: .prompt-tip }

@@ -4,7 +4,7 @@ date: "2026-09-17 09:25:00 +0900"
 categories: ["정부지원금"]
 tags: ["정부지원금"]
 description: "0~23개월 아동의 부모급여 대상과 지급 방식, 출생 후 60일 이내 신청 원칙을 공식 자료로 확인했습니다."
-image: {"path": "/assets/img/posts/thumb-parent-benefit-2026-application.png", "alt": "[정부지원금] 부모급여 신청, 0세 월 100만 원·1세 월 50만 원 — AI 생성 안내 이미지"}
+image: {"path": "/assets/img/posts/thumb-parent-benefit-2026-application-clean-20261002.png", "alt": "[정부지원금] 부모급여 신청, 0세 월 100만 원·1세 월 50만 원 — 안내 이미지"}
 ---
 
 아기가 태어난 뒤 챙겨야 할 지원 중 하나가 **부모급여**입니다. 보건복지부의 현재 안내에 따르면 0세는 월 100만 원, 1세는 월 50만 원을 지원합니다. 어린이집 이용 여부에 따라 지급 방식이 달라지므로 ‘매달 현금으로 전액 받는다’고만 이해하지 않는 것이 중요합니다.
@@ -44,4 +44,4 @@ image: {"path": "/assets/img/posts/thumb-parent-benefit-2026-application.png", "
 - [정부민원안내콜센터 부모급여 상담 안내](https://www.110.go.kr/data/counselView.do?curPage=7&num=A01_720893&scCate1=&scCate2=&scIntt=&scText=&scType=)
 - [정책브리핑 부모급여·출생 후 60일 신청 안내](https://www.korea.kr/news/policyNewsView.do?newsId=148924684)
 
-이 글은 정부가 공개한 자료를 바탕으로 정리한 일반 안내입니다. 개인별 자격·지급액·신청 절차는 달라질 수 있으니 신청 전 공식 기관의 최신 안내를 확인해 주세요. 썸네일은 AI로 생성한 안내 이미지입니다.
+이 글은 정부가 공개한 자료를 바탕으로 정리한 일반 안내입니다. 개인별 자격·지급액·신청 절차는 달라질 수 있으니 신청 전 공식 기관의 최신 안내를 확인해 주세요.

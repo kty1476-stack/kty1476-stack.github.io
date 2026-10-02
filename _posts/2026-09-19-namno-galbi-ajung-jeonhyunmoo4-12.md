@@ -4,7 +4,7 @@ title: "[전현무계획4] 콩나물과 당면을 곁들인 물갈비, 전주 �
 date: "2026-09-19 08:11:56 +0900"
 categories: ["전현무계획"]
 tags: ["전현무계획"]
-image: {"path": "/assets/img/posts/thumb-namno-galbi-ajung-jeonhyunmoo4-12-20260919.png", "alt": "[전현무계획4] 콩나물과 당면을 곁들인 물갈비, 전주 남노갈비 아중점 — 실제 촬영 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-namno-galbi-ajung-jeonhyunmoo4-12-20260919-clean-20261002.png", "alt": "[전현무계획4] 콩나물과 당면을 곁들인 물갈비, 전주 남노갈비 아중점 — 실제 촬영 사진이 아닌 메뉴·주제 예시"}
 summary: "12회 공식 맛집 기록의 주소로 남노갈비 아중점을 확인했어요."
 ---
 
@@ -44,5 +44,5 @@ summary: "12회 공식 맛집 기록의 주소로 남노갈비 아중점을 확�
 - [다이닝코드 남노갈비 아중점](https://www.diningcode.com/profile.php?rid=mw05sULZ6Tnc)
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 실제 매장 사진이 아닌 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

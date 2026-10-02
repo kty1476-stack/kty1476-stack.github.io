@@ -4,7 +4,7 @@ title: "[생활의 달인] 타코야키를 완성하는 손길, 서울 신림 �
 date: "2026-09-24 08:16:55 +0900"
 categories: ["생활의달인"]
 tags: ["생활의달인"]
-image: {"path": "/assets/img/posts/thumb-lifemaster-1043-nunu-takoyaki-20260924.png", "alt": "[생활의 달인] 타코야키를 완성하는 손길, 서울 신림 누누타코야끼 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-lifemaster-1043-nunu-takoyaki-20260924-clean-20261002.png", "alt": "[생활의 달인] 타코야키를 완성하는 손길, 서울 신림 누누타코야끼 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 타코야키는 작은 한 입 음식이지만 반죽을 채우고 모양을 잡는 과정에는 많은 손동작이 들어갑니다. 신림 누누타코야끼는 그 작업 방식을 ‘생활의 달인’에서 소개한 매장입니다.
@@ -39,5 +39,5 @@ SBS가 공개한 클립은 직접 개발한 재료 틀을 활용해 타코야키
 출처: [SBS 1043회 방송정보](https://programs.sbs.co.kr/culture/lifemaster/board/55736?cmd=view&page=1&board_no=7562), [SBS 조리 과정 클립](https://programs.sbs.co.kr/programTemplate/amp/clip/pc/OC481034514), [다이닝코드 누누타코야끼](https://www.diningcode.com/profile.php?rid=itYs3AU85rxc).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

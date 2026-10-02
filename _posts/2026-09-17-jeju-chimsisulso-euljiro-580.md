@@ -4,7 +4,7 @@ date: "2026-09-17 09:25:00 +0900"
 categories: ["맛있는녀석들"]
 tags: ["맛있는녀석들"]
 description: "맛있는 녀석들 580회에 소개된 제주침시술소 을지로점. 은갈치튀김 냉메밀과 방문 전 확인할 정보를 정리했습니다."
-image: {"path": "/assets/img/posts/thumb-jeju-chimsisulso-euljiro-580.png", "alt": "[맛있는 녀석들] 은갈치튀김과 냉메밀, 을지로 제주침시술소 — AI 생성 메뉴 예시, 실제 매장 사진이 아닙니다."}
+image: {"path": "/assets/img/posts/thumb-jeju-chimsisulso-euljiro-580-clean-20261002.png", "alt": "[맛있는 녀석들] 은갈치튀김과 냉메밀, 을지로 제주침시술소 — 메뉴 예시, 실제 매장 사진이 아닙니다."}
 ---
 
 메밀국수 위에 길게 올린 은갈치튀김이 눈길을 끄는 **제주침시술소 을지로점**. 익숙한 냉메밀에 생선튀김을 곁들이는 조합을 찾고 있다면 살펴볼 만한 곳입니다. 이름에 ‘제주’가 들어가지만 이번 방송의 방문지는 서울 을지로에 있습니다.
@@ -41,4 +41,4 @@ image: {"path": "/assets/img/posts/thumb-jeju-chimsisulso-euljiro-580.png", "alt
 - [580회 제주침시술소 방송 장소 정리](https://aridong.tistory.com/5575)
 - [다이닝코드 매장·메뉴 정보](https://www.diningcode.com/profile.php?rid=8wlsnPzbwN97)
 
-이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 실제 매장 사진이 아닌 AI로 생성한 메뉴 예시입니다.
+이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.

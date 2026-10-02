@@ -4,7 +4,7 @@ title: "[생활의 달인] 콩국수 한 그릇, 면목동 서천칼국수"
 date: "2026-09-29 10:20:48 +0900"
 categories: ["생활의달인"]
 tags: ["생활의달인"]
-image: {"path": "/assets/img/posts/thumb-seocheon-kalguksu-dalin-1042-20260929.png", "alt": "[생활의 달인] 콩국수 한 그릇, 면목동 서천칼국수 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-seocheon-kalguksu-dalin-1042-20260929-clean-20261002.png", "alt": "[생활의 달인] 콩국수 한 그릇, 면목동 서천칼국수 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 콩국수는 면보다 콩국물의 취향이 먼저 갈리는 음식입니다. 면목동 서천칼국수는 생활의 달인에서 콩국수로 소개된 곳으로, 서리태콩국수를 찾는 분들이 확인해 볼 만한 식당입니다.
@@ -39,5 +39,5 @@ SBS의 지번 주소와 다이닝코드의 도로명·지번 표기를 대조했
 확인한 출처: [SBS 1042회 방송정보](https://programs.sbs.co.kr/culture/lifemaster/board/55736?cmd=view&page=1&board_no=7561), [다이닝코드 서천칼국수](https://www.diningcode.com/profile.php?rid=dZP8nyVV6J1O).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

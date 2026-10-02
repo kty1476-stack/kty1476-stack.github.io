@@ -4,7 +4,7 @@ title: "[생활의 달인] 밥알을 살린 찹쌀떡, 속초 육구방앗간"
 date: "2026-10-02 08:16:36 +0900"
 categories: ["생활의달인"]
 tags: ["생활의달인"]
-image: {"path": "/assets/img/posts/thumb-saenghwalui-dalin-yukgu-bangatgan-20261002.png", "alt": "[생활의 달인] 밥알을 살린 찹쌀떡, 속초 육구방앗간 — 실제 매장 촬영 사진이 아닌 AI 생성 메뉴 예시"}
+image: {"path": "/assets/img/posts/thumb-saenghwalui-dalin-yukgu-bangatgan-20261002-clean-20261002.png", "alt": "[생활의 달인] 밥알을 살린 찹쌀떡, 속초 육구방앗간 — 실제 매장 촬영 사진이 아닌 메뉴 예시"}
 ---
 
 매끈한 떡피 대신 밥알의 흔적을 살린 찹쌀떡에 시선이 갑니다. 속초 육구방앗간은 ‘생활의 달인’이 손작업으로 만드는 찹쌀떡을 소개한 곳으로, 속초에서 포장 간식을 찾는 분께 참고할 만합니다.
@@ -36,5 +36,5 @@ SBS ‘생활의 달인’ 1041회, 2026년 7월 27일 방송의 ‘은둔식달
 확인한 출처: [SBS 1041회 방송협조 명단](https://programs.sbs.co.kr/culture/lifemaster/board/55736?cmd=view&page=1&board_no=7560), [SBS 제공 찹쌀떡 영상 소개](https://voda.donga.com/DongaMain/3/all/39/6323854/1), [다이닝코드 육구방앗간](https://www.diningcode.com/profile.php?rid=vSoky2iBn67b). 정보 확인일은 2026년 10월 2일입니다.
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

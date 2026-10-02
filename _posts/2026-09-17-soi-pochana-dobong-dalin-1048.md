@@ -4,7 +4,7 @@ date: "2026-09-17 09:25:00 +0900"
 categories: ["생활의달인"]
 tags: ["생활의달인"]
 description: "생활의 달인 1048회의 태국 쌀국수·미고렝 달인. 도봉 써이포차나의 위치와 공개 메뉴를 정리했습니다."
-image: {"path": "/assets/img/posts/thumb-soi-pochana-dobong-dalin-1048.png", "alt": "[생활의 달인] 쌀국수와 미고렝, 도봉 써이포차나 — AI 생성 메뉴 예시, 실제 매장 사진이 아닙니다."}
+image: {"path": "/assets/img/posts/thumb-soi-pochana-dobong-dalin-1048-clean-20261002.png", "alt": "[생활의 달인] 쌀국수와 미고렝, 도봉 써이포차나 — 메뉴 예시, 실제 매장 사진이 아닙니다."}
 ---
 
 국물 있는 쌀국수와 볶음면 사이에서 고민하는 날에는 **도봉 써이포차나**의 메뉴를 살펴보세요. SBS ‘생활의 달인’에서 태국 쌀국수와 미고렝을 함께 소개한 식당입니다. 이번에는 서로 다른 두 면 요리를 고를 수 있다는 점에 초점을 맞췄습니다.
@@ -41,4 +41,4 @@ image: {"path": "/assets/img/posts/thumb-soi-pochana-dobong-dalin-1048.png", "al
 - [SBS 생활의 달인 1048회 방송정보](https://programs.sbs.co.kr/culture/lifemaster/board/55736?cmd=view&page=1&board_no=7567)
 - [다이닝코드 써이포차나 매장·메뉴 정보](https://www.diningcode.com/profile.php?rid=ogdLFWxErqEV)
 
-이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 실제 매장 사진이 아닌 AI로 생성한 메뉴 예시입니다.
+이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.

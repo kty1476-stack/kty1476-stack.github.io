@@ -4,7 +4,7 @@ title: "[전현무계획] 따뜻한 국물로 만나는 의령 소바, 가례면
 date: "2026-09-27 08:14:15 +0900"
 categories: ["전현무계획"]
 tags: ["전현무계획"]
-image: {"path": "/assets/img/posts/thumb-jeonhyunmoo-4-13-uiryeong-pulnaeum-20260927.png", "alt": "[전현무계획] 따뜻한 국물로 만나는 의령 소바, 가례면 풀내음 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-jeonhyunmoo-4-13-uiryeong-pulnaeum-20260927-clean-20261002.png", "alt": "[전현무계획] 따뜻한 국물로 만나는 의령 소바, 가례면 풀내음 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 의령 소바를 차가운 면 요리로만 떠올렸다면 따뜻한 국물에 담긴 한 그릇도 살펴보세요. 풀내음은 전현무계획4 의령 편에서 소개된 가례면의 소바 식당입니다.
@@ -40,5 +40,5 @@ image: {"path": "/assets/img/posts/thumb-jeonhyunmoo-4-13-uiryeong-pulnaeum-2026
 - [전현무계획4 13회 풀내음 안내](https://www.make2t.kr/2026/09/jeonhyunmoo-uiryeong-soba-pulnaeum.html)
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

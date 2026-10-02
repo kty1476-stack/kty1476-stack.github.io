@@ -4,8 +4,8 @@ date: 2026-09-04 13:45:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
 image:
-  path: /assets/img/posts/thumb-hwanggeumbit-godeungeo-photo-v2.webp
-  alt: "맛있는 녀석들 · 노릇한 화덕 생선구이 · 인천 · 황금빛고등어 — AI로 생성한 메뉴 예시 이미지이며 실제 매장 촬영 사진이 아닙니다."
+  path: /assets/img/posts/thumb-hwanggeumbit-godeungeo-photo-v2-clean-20261002.png
+  alt: "맛있는 녀석들 · 노릇한 화덕 생선구이 · 인천 · 황금빛고등어 — 메뉴 예시 이미지이며 실제 매장 촬영 사진이 아닙니다."
 ---
 
 코미디TV '맛있는 녀석들' 562회 '장비빨 특집'(2026년 5월 8일 방영)에서 김준현·문세윤·황제성·김해준 네 사람이 찾은 곳 가운데 하나가 인천 서구 가정동의 화덕 생선구이 전문점입니다. 특허받은 돔형 화덕으로 생선을 구워내는 황금빛고등어입니다.

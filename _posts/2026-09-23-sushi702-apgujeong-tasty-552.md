@@ -4,7 +4,7 @@ title: "[맛있는 녀석들] 캘리포니아롤을 골라 먹는 재미, 서울
 date: "2026-09-23 08:18:10 +0900"
 categories: ["맛있는녀석들"]
 tags: ["맛있는녀석들"]
-image: {"path": "/assets/img/posts/thumb-sushi702-apgujeong-tasty-552-20260923.png", "alt": "[맛있는 녀석들] 캘리포니아롤을 골라 먹는 재미, 서울 압구정 스시702 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-sushi702-apgujeong-tasty-552-20260923-clean-20261002.png", "alt": "[맛있는 녀석들] 캘리포니아롤을 골라 먹는 재미, 서울 압구정 스시702 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 롤 초밥을 고를 때는 이름보다 안에 들어가는 재료를 먼저 보게 돼요. 압구정 스시702는 해산물과 여러 토핑을 조합한 롤을 찾는 분께 소개할 만한 곳이에요. 방송에 나온 메뉴와 현재 판매 메뉴를 구분해 주문하면 더 알맞은 한 접시를 고를 수 있어요.
@@ -39,5 +39,5 @@ image: {"path": "/assets/img/posts/thumb-sushi702-apgujeong-tasty-552-20260923.p
 확인 자료: [552회 식당 안내](https://gastronomic2022.tistory.com/3838), [매장 주소와 메뉴](https://www.diningcode.com/profile.php?rid=BFKq5HT6GciV), [공식 회차 소개](https://tv.apple.com/kr/episode/뚱-만나면-특집-2부/umc.cmc.vht6i75in13eo4aoa1e69ss1?showId=umc.cmc.6in6j9pfxdjn0i6fn0015easw).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

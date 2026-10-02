@@ -4,7 +4,7 @@ title: "[생활의 달인] 치즈케이크 세 가지, 연남동 정과자점"
 date: "2026-09-29 10:20:48 +0900"
 categories: ["생활의달인"]
 tags: ["생활의달인"]
-image: {"path": "/assets/img/posts/thumb-jeong-cheesecake-dalin-1042-20260929.png", "alt": "[생활의 달인] 치즈케이크 세 가지, 연남동 정과자점 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-jeong-cheesecake-dalin-1042-20260929-clean-20261002.png", "alt": "[생활의 달인] 치즈케이크 세 가지, 연남동 정과자점 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 큰 케이크 한 판보다 작은 디저트 여러 맛을 고르고 싶은 날이 있습니다. 연남동 정과자점은 생활의 달인 치즈케이크 편에 등장한 곳으로, 시로·모리·쿠로라는 세 가지 치즈케이크 메뉴를 확인할 수 있습니다.
@@ -41,5 +41,5 @@ SBS 방송정보의 전화번호와 지역 업체 정보의 전화번호를 대�
 확인한 출처: [SBS 1042회 방송정보](https://programs.sbs.co.kr/culture/lifemaster/board/55736?cmd=view&page=1&board_no=7561), [다이닝코드 정 과자점](https://www.diningcode.com/profile.php?rid=cEGRs9Imk8yc), [당근 정과자점 업체 정보](https://www.daangn.com/kr/local-profile/정과자점-m8acgra5zjcw/).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

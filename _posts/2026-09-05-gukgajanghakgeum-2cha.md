@@ -4,8 +4,8 @@ date: 2026-09-05 10:05:00 +0900
 categories: [정부지원금]
 tags: [정부지원금]
 image:
-  path: /assets/img/posts/thumb-gukgajanghakgeum-2cha-photo-v2.webp
-  alt: "정부지원금 · 국가장학금 2차 신청 · 2026학년도 2학기 — AI로 생성한 주제 예시 이미지입니다."
+  path: /assets/img/posts/thumb-gukgajanghakgeum-2cha-photo-v2-clean-20261002.png
+  alt: "정부지원금 · 국가장학금 2차 신청 · 2026학년도 2학기 — 주제 예시 이미지입니다."
 ---
 
 교육부와 한국장학재단이 받고 있는 2026학년도 2학기 국가장학금 2차 신청이 **2026년 9월 9일 오후 6시**에 마감돼요. 2026년 2학기 국가장학금 신청은 이번 2차로 마무리되기 때문에, 1차 때 신청하지 못한 신입생과 재학생에게는 사실상 마지막 기회예요.

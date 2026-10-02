@@ -4,7 +4,7 @@ title: "[생활의 달인] 메밀 냉면 한 그릇의 기본, 파주 문산 모
 date: "2026-09-24 08:16:55 +0900"
 categories: ["생활의달인"]
 tags: ["생활의달인"]
-image: {"path": "/assets/img/posts/thumb-lifemaster-1043-moa-naengmyeon-20260924.png", "alt": "[생활의 달인] 메밀 냉면 한 그릇의 기본, 파주 문산 모아냉면 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-lifemaster-1043-moa-naengmyeon-20260924-clean-20261002.png", "alt": "[생활의 달인] 메밀 냉면 한 그릇의 기본, 파주 문산 모아냉면 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 파주 문산에서 냉면 한 끼를 계획한다면 모아냉면이 방송에 어떻게 소개됐는지부터 살펴보세요. 면과 육수에 초점을 맞춘 ‘생활의 달인’ 은둔식달 소재로, 공식 방송협조 명단에서 매장을 확인할 수 있습니다.
@@ -37,5 +37,5 @@ SBS ‘생활의 달인’ 1043회는 2026년 8월 10일 방영됐습니다. 공
 출처: [SBS 1043회 방송정보](https://programs.sbs.co.kr/culture/lifemaster/board/55736?cmd=view&page=1&board_no=7562), [다이닝코드 모아냉면](https://www.diningcode.com/profile.php?rid=c0u4snRyjIyo), [1043회 방송 리캡](https://newsmeter.co.kr/생활의-달인-1043회-파주냉면·타코야키·계란찜·치즈/).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

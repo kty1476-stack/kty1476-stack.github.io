@@ -4,7 +4,7 @@ title: "[맛있는 녀석들] 백련시장에서 고르는 순댓국 한 그릇,
 date: "2026-09-22 08:15:53 +0900"
 categories: ["맛있는녀석들"]
 tags: ["맛있는녀석들"]
-image: {"path": "/assets/img/posts/thumb-gippeumine-baengnyeon-market-555-20260922.png", "alt": "[맛있는 녀석들] 백련시장에서 고르는 순댓국 한 그릇, 서울 남가좌동 기쁨이네 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-gippeumine-baengnyeon-market-555-20260922-clean-20261002.png", "alt": "[맛있는 녀석들] 백련시장에서 고르는 순댓국 한 그릇, 서울 남가좌동 기쁨이네 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 시장 안 순댓국집을 찾을 때는 음식 이름보다 상호를 먼저 확인하는 편이 좋아요. 서울 남가좌동 백련시장에는 여러 국밥집이 모여 있는데, 이번에 정리한 곳은 ‘기쁨이네’예요. 동네를 걸으며 한 끼를 해결하고 싶은 분께 소개해 드려요.
@@ -37,5 +37,5 @@ image: {"path": "/assets/img/posts/thumb-gippeumine-baengnyeon-market-555-202609
 확인 자료: [방송 소개 기사](https://news.nate.com/view/20260306n14093), [555회 식당 정리](https://fire888.tistory.com/6740), [다이닝코드 매장·메뉴 정보](https://www.diningcode.com/profile.php?rid=ftrFiOlWXmw1).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

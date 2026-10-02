@@ -4,7 +4,7 @@ title: "[맛있는 녀석들] 피순대국밥 한 그릇, 창동 번동피순대
 date: "2026-09-29 10:20:48 +0900"
 categories: ["맛있는녀석들"]
 tags: ["맛있는녀석들"]
-image: {"path": "/assets/img/posts/thumb-beondong-pisundae-tastyguys-549-20260929.png", "alt": "[맛있는 녀석들] 피순대국밥 한 그릇, 창동 번동피순대 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-beondong-pisundae-tastyguys-549-20260929-clean-20261002.png", "alt": "[맛있는 녀석들] 피순대국밥 한 그릇, 창동 번동피순대 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 국밥 속 순대와 접시에 따로 낸 순대를 비교해 보고 싶다면 창동의 번동피순대를 살펴보세요. 맛있는 녀석들 549회에서 소개된 피순대국밥과 모둠순대가 이번 글의 주인공입니다.
@@ -37,5 +37,5 @@ image: {"path": "/assets/img/posts/thumb-beondong-pisundae-tastyguys-549-2026092
 확인한 출처: [549회 메뉴·상호 정리](https://keriai.com/1373), [여행의기술 번동피순대 주소·메뉴](https://www.tel-co.net/food/spot/12603).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

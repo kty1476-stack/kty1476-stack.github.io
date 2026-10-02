@@ -4,8 +4,8 @@ date: 2026-09-05 12:20:00 +0900
 categories: [맛있는녀석들]
 tags: [맛있는녀석들]
 image:
-  path: /assets/img/posts/thumb-andongguksi-apgujeong-photo-v2.webp
-  alt: "맛있는 녀석들 · 손으로 빚은 국시 · 압구정 · 안동국시 — AI로 생성한 메뉴 예시 이미지이며 실제 매장 촬영 사진이 아닙니다."
+  path: /assets/img/posts/thumb-andongguksi-apgujeong-photo-v2-clean-20261002.png
+  alt: "맛있는 녀석들 · 손으로 빚은 국시 · 압구정 · 안동국시 — 메뉴 예시 이미지이며 실제 매장 촬영 사진이 아닙니다."
 ---
 
 코미디TV **맛있는 녀석들** 559회(2026년 4월 17일 방송) '맛둥이 홍이수 특집' 편에 등장한 서울 신사동의 국수 전문점 **안동국시**를 정리했습니다. 면치기를 좋아하는 팬을 위해 면 요리를 모아 소개한 회차였고, 이곳은 1983년 문을 열어 43년째 같은 자리를 지켜 온 노포로 소개됐어요.

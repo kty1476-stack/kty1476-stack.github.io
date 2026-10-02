@@ -4,7 +4,7 @@ title: "[정부지원금] 장애아동수당, 대상별 월 지급액과 상시 
 date: "2026-09-24 08:16:55 +0900"
 categories: ["정부지원금"]
 tags: ["정부지원금"]
-image: {"path": "/assets/img/posts/thumb-disabled-child-allowance-guide-20260924.png", "alt": "[정부지원금] 장애아동수당, 대상별 월 지급액과 상시 신청 방법 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-disabled-child-allowance-guide-20260924-clean-20261002.png", "alt": "[정부지원금] 장애아동수당, 대상별 월 지급액과 상시 신청 방법 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 장애아동수당은 등록 장애아동을 둔 저소득 가구가 확인할 수 있는 보건복지부 지원 제도예요. 성인 대상 장애수당과 구분해, 2026년 9월 24일 공식 안내에서 확인한 대상과 지급액을 정리해요.
@@ -41,5 +41,5 @@ image: {"path": "/assets/img/posts/thumb-disabled-child-allowance-guide-20260924
 공식 자료: [부평복지ON 장애아동수당](https://www.icbp.go.kr/bokjion/program/programInfoDetail.do?pgno=61&prgm_seq=51), [인천시 연중 신청·대상 안내](https://www.incheon.go.kr/icbenefit/ICB010201/view?curPage=17&srvcId=66). 지급액 대조: [괴산군 장애아동수당](https://www.goesan.go.kr/welfare/contents.do?key=2298).
 
 <!-- prettier-ignore -->
-> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다. 썸네일은 실제 기관 홍보물이 아닌 AI 생성 주제 예시입니다.
+> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다.
 {: .prompt-tip }

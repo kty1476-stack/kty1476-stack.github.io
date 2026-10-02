@@ -4,7 +4,7 @@ title: "[전현무계획] 청국장과 버섯볶음이 놓인 밥상, 양주 유
 date: "2026-09-25 08:16:54 +0900"
 categories: ["전현무계획"]
 tags: ["전현무계획"]
-image: {"path": "/assets/img/posts/thumb-jeonhyunmoo4-8-yumyeong-cheonggukjang-20260925.png", "alt": "[전현무계획] 청국장과 버섯볶음이 놓인 밥상, 양주 유명식당 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-jeonhyunmoo4-8-yumyeong-cheonggukjang-20260925-clean-20261002.png", "alt": "[전현무계획] 청국장과 버섯볶음이 놓인 밥상, 양주 유명식당 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 찌개 한 숟갈과 여러 반찬을 번갈아 먹는 밥상이 생각날 때가 있습니다. 양주 광적면 유명식당은 전현무계획의 양주 편에서 청국장 정식과 자연산 버섯볶음을 소개한 곳입니다.
@@ -41,5 +41,5 @@ image: {"path": "/assets/img/posts/thumb-jeonhyunmoo4-8-yumyeong-cheonggukjang-2
 - [MBN 전현무계획4 8회](https://m.mbn.co.kr/tv/1032/6677/1155643)
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

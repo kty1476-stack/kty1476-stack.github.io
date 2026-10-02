@@ -4,7 +4,7 @@ title: "[맛있는 녀석들] 닭볶음탕과 볶음밥 한 상, 대전 대흥�
 date: "2026-09-19 08:11:56 +0900"
 categories: ["맛있는녀석들"]
 tags: ["맛있는녀석들"]
-image: {"path": "/assets/img/posts/thumb-jeongsikdang-daejeon-581-20260919.png", "alt": "[맛있는 녀석들] 닭볶음탕과 볶음밥 한 상, 대전 대흥동 정식당 — 실제 촬영 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-jeongsikdang-daejeon-581-20260919-clean-20261002.png", "alt": "[맛있는 녀석들] 닭볶음탕과 볶음밥 한 상, 대전 대흥동 정식당 — 실제 촬영 사진이 아닌 메뉴·주제 예시"}
 summary: "581회 대전의 아들 특집에 소개된 정식당의 위치와 공개 메뉴를 정리했어요."
 ---
 
@@ -42,5 +42,5 @@ summary: "581회 대전의 아들 특집에 소개된 정식당의 위치와 공
 - [대전광역시 대전의 맛](https://www.daejeon.go.kr/fod/fodTraditionList.do?menuSeq=161&pt=tradition&searchAdG=ADG05)
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 실제 매장 사진이 아닌 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

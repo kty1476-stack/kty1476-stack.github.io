@@ -4,7 +4,7 @@ title: "[생활의 달인] 바게트를 고르는 즐거움, 부산 꽁띠꽁띠
 date: "2026-09-28 08:14:36 +0900"
 categories: ["생활의달인"]
 tags: ["생활의달인"]
-image: {"path": "/assets/img/posts/thumb-lifemaster-1045-busan-conte-20260928.png", "alt": "[생활의 달인] 바게트를 고르는 즐거움, 부산 꽁띠꽁띠뉴 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-lifemaster-1045-busan-conte-20260928-clean-20261002.png", "alt": "[생활의 달인] 바게트를 고르는 즐거움, 부산 꽁띠꽁띠뉴 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 부산 센텀에서 빵집을 찾을 때 바게트를 중심에 두고 고르고 싶다면 꽁띠꽁띠뉴를 살펴보세요. 화려한 장식보다 빵 자체에 관심이 있는 분에게 방송의 바게트 소개가 좋은 출발점이 됩니다.
@@ -37,5 +37,5 @@ image: {"path": "/assets/img/posts/thumb-lifemaster-1045-busan-conte-20260928.pn
 확인한 자료: [SBS 1045회 방송정보](https://programs.sbs.co.kr/culture/lifemaster/board/55736?cmd=view&page=1&board_no=7564), [다이닝코드 꽁띠꽁띠뉴](https://www.diningcode.com/profile.php?rid=pn3JmkCsLZys).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

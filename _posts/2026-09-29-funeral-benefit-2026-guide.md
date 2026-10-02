@@ -4,7 +4,7 @@ title: "[정부지원금] 장제급여 80만원, 신청 대상과 절차 확인"
 date: "2026-09-29 10:20:48 +0900"
 categories: ["정부지원금"]
 tags: ["정부지원금"]
-image: {"path": "/assets/img/posts/thumb-funeral-benefit-2026-guide-20260929.png", "alt": "[정부지원금] 장제급여 80만원, 신청 대상과 절차 확인 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-funeral-benefit-2026-guide-20260929-clean-20261002.png", "alt": "[정부지원금] 장제급여 80만원, 신청 대상과 절차 확인 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 장례를 치른 뒤 비용 지원을 알아보고 있다면 장제급여의 대상부터 확인해 보세요. 생계·의료·주거급여 수급자의 사망 등에 대해 실제 장례를 진행한 사람에게 필요한 비용을 지원하는 제도예요.
@@ -40,5 +40,5 @@ image: {"path": "/assets/img/posts/thumb-funeral-benefit-2026-guide-20260929.png
 공식 자료: [정부24 장제급여](https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SBA000000050), [KDI 장제급여 지원 안내](https://eiec.kdi.re.kr/policy/customView.do?polc_seq=398).
 
 <!-- prettier-ignore -->
-> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다. 썸네일은 실제 기관 홍보물이 아닌 AI 생성 주제 예시입니다.
+> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다.
 {: .prompt-tip }

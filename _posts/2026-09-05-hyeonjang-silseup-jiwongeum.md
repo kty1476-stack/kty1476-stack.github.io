@@ -4,8 +4,8 @@ date: 2026-09-05 18:42:00 +0900
 categories: [정부지원금]
 tags: [정부지원금]
 image:
-  path: /assets/img/posts/thumb-hyeonjang-silseup-jiwongeum.png
-  alt: "현장실습 지원금 · 2026학년도 본신청 — 노트북과 안전모, 실습 도구를 표현한 AI 생성 이미지입니다."
+  path: /assets/img/posts/thumb-hyeonjang-silseup-jiwongeum-clean-20261002.png
+  alt: "현장실습 지원금 · 2026학년도 본신청 — 노트북과 안전모, 실습 도구를 표현한 이미지입니다."
 ---
 
 직업계고에서 산업체 채용형 현장실습에 참여한다면, 실습일수에 따라 지급하는 **현장실습 지원금**을 확인해 보세요. 2026학년도 본신청이 **9월 1일** 시작됐으며, 실습 전 최초신청과 실습 후 최종신청을 구분해서 챙겨야 해요.

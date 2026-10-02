@@ -4,7 +4,7 @@ title: "[생활의 달인] 크림을 품은 이탈리아식 도넛, 서울 강�
 date: "2026-10-02 08:16:36 +0900"
 categories: ["생활의달인"]
 tags: ["생활의달인"]
-image: {"path": "/assets/img/posts/thumb-saenghwalui-dalin-russell-donuts-20261002.png", "alt": "[생활의 달인] 크림을 품은 이탈리아식 도넛, 서울 강동 러셀도넛 — 실제 매장 촬영 사진이 아닌 AI 생성 메뉴 예시"}
+image: {"path": "/assets/img/posts/thumb-saenghwalui-dalin-russell-donuts-20261002-clean-20261002.png", "alt": "[생활의 달인] 크림을 품은 이탈리아식 도넛, 서울 강동 러셀도넛 — 실제 매장 촬영 사진이 아닌 메뉴 예시"}
 ---
 
 가운데가 뚫린 도넛 대신 속을 채운 도넛을 찾는다면 강동구 러셀도넛을 살펴보세요. ‘생활의 달인’의 이탈리아식 도넛 편에 등장한 곳으로, 반죽과 크림의 조합을 고르는 재미에 관심 있는 분께 맞는 소재입니다.
@@ -38,5 +38,5 @@ SBS ‘생활의 달인’ 1041회, 2026년 7월 27일 방송의 ‘이탈리아
 확인한 출처: [SBS 1041회 방송협조 명단](https://programs.sbs.co.kr/culture/lifemaster/board/55736?cmd=view&page=1&board_no=7560), [러셀도넛 매장 운영 프로필](https://www.daangn.com/kr/local-profile/러셀도넛-fd2bh8v17dqo/). 정보 확인일은 2026년 10월 2일입니다.
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

@@ -4,7 +4,7 @@ title: "[정부지원금] 청소년산모 임신·출산 의료비, 120만원 �
 date: "2026-10-02 08:16:36 +0900"
 categories: ["정부지원금"]
 tags: ["정부지원금"]
-image: {"path": "/assets/img/posts/thumb-young-mother-pregnancy-medical-support-20261002.png", "alt": "[정부지원금] 청소년산모 임신·출산 의료비, 120만원 한도와 사용기한 — AI 생성 주제 예시, 실제 기관 홍보물 아님"}
+image: {"path": "/assets/img/posts/thumb-young-mother-pregnancy-medical-support-20261002-clean-20261002.png", "alt": "[정부지원금] 청소년산모 임신·출산 의료비, 120만원 한도와 사용기한 — 주제 예시, 실제 기관 홍보물 아님"}
 ---
 
 청소년산모 의료비 지원은 산모와 어린 아기의 진료비 부담을 덜기 위한 제도예요. 현금이 일괄 지급된다고 생각하기보다 의료비 이용 한도와 사용기한을 함께 확인하는 것이 중요해요.
@@ -38,5 +38,5 @@ image: {"path": "/assets/img/posts/thumb-young-mother-pregnancy-medical-support-
 공식 자료: [성평등가족부 청소년산모 의료비 안내](https://www.mogef.go.kr/cs/opf/cs_opf_f912.do), [강남구 복지플랫폼 안내 — 2026년 8월 11일](https://bokji.gangnam.go.kr/board/BBS_QNA/812/view.do?mid=ID03_02&pgno=1).
 
 <!-- prettier-ignore -->
-> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다. 썸네일은 AI로 생성한 주제 예시입니다.
+> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다.
 {: .prompt-tip }

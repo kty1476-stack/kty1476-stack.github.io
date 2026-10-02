@@ -4,7 +4,7 @@ title: "[정부지원금] 장애수당 월 6만 원, 신청 대상과 시설 수
 date: "2026-09-22 08:15:53 +0900"
 categories: ["정부지원금"]
 tags: ["정부지원금"]
-image: {"path": "/assets/img/posts/thumb-disability-allowance-2026-application-20260922.png", "alt": "[정부지원금] 장애수당 월 6만 원, 신청 대상과 시설 수급자 기준 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-disability-allowance-2026-application-20260922-clean-20261002.png", "alt": "[정부지원금] 장애수당 월 6만 원, 신청 대상과 시설 수급자 기준 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 장애수당은 장애인연금과 이름이 비슷하지만 대상과 금액이 다른 제도예요. 등록장애인이면서 기초생활보장 수급자 또는 차상위계층이라면 자신의 장애 정도와 생활 형태에 맞는 지원인지 확인해 볼 수 있어요.
@@ -44,5 +44,5 @@ image: {"path": "/assets/img/posts/thumb-disability-allowance-2026-application-2
 공식 자료: [보건복지부 장애수당 안내](https://www.mohw.go.kr/menu.es?mid=a10710030200), [찾기 쉬운 생활법령정보 장애수당 안내](https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?ccfNo=2&cciNo=1&cnpClsNo=1&csmSeq=916&menuType=cnpcls&popMenu=ov).
 
 <!-- prettier-ignore -->
-> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다. 썸네일은 AI로 생성한 주제 예시입니다.
+> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다.
 {: .prompt-tip }

@@ -4,7 +4,7 @@ title: "[맛있는 녀석들] 묵은지와 등뼈가 만나는 한 냄비, 서�
 date: "2026-09-24 08:16:55 +0900"
 categories: ["맛있는녀석들"]
 tags: ["맛있는녀석들"]
-image: {"path": "/assets/img/posts/thumb-tasty-guys-551-geumgangsan-gamjatang-20260924.png", "alt": "[맛있는 녀석들] 묵은지와 등뼈가 만나는 한 냄비, 서울 청파동 금강산식당 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-tasty-guys-551-geumgangsan-gamjatang-20260924-clean-20261002.png", "alt": "[맛있는 녀석들] 묵은지와 등뼈가 만나는 한 냄비, 서울 청파동 금강산식당 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 묵은지를 넉넉히 넣은 감자탕을 찾는다면 청파동 금강산식당을 살펴볼 만합니다. ‘맛있는 녀석들’의 최자 출연 회차에서 소개된 메뉴를 중심으로, 방송 정보와 공개된 매장 정보를 정리했습니다.
@@ -35,5 +35,5 @@ image: {"path": "/assets/img/posts/thumb-tasty-guys-551-geumgangsan-gamjatang-20
 확인한 자료: [Apple TV 551회 정보](https://tv.apple.com/kr/episode/뚱-만나면-특집/umc.cmc.5sxltgecgaxghrcv370c6s3ar?showId=umc.cmc.6in6j9pfxdjn0i6fn0015easw), [551회 매장 정리](https://keriai.com/1396?category=1067746), [다이닝코드 금강산식당](https://www.diningcode.com/profile.php?rid=VwBkYhBvwHHM).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

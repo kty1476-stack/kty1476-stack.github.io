@@ -4,7 +4,7 @@ title: "[정부지원금] 국민취업지원제도 Ⅰ유형, 구직촉진수당
 date: "2026-09-21 08:54:24 +0900"
 categories: ["정부지원금"]
 tags: ["정부지원금"]
-image: {"path": "/assets/img/posts/thumb-employment-support-2026-jobseeking-allowance-20260921.png", "alt": "국민취업지원제도 구직촉진수당을 설명하는 AI 생성 주제 예시. 실제 기관 홍보물이 아닙니다."}
+image: {"path": "/assets/img/posts/thumb-employment-support-2026-jobseeking-allowance-20260921-clean-20261002.png", "alt": "국민취업지원제도 구직촉진수당을 설명하는 주제 예시. 실제 기관 홍보물이 아닙니다."}
 description: "국민취업지원제도 Ⅰ유형의 2026년 구직촉진수당과 신청·심사 시 확인할 조건을 정리해요."
 summary: "국민취업지원제도 Ⅰ유형의 2026년 구직촉진수당과 신청·심사 시 확인할 조건을 정리해요."
 ---
@@ -36,5 +36,5 @@ summary: "국민취업지원제도 Ⅰ유형의 2026년 구직촉진수당과 �
 공식 확인 자료: [고용24 제도·지원 대상 안내](https://www.work24.go.kr/ua/z/z/1300/selectEmssRqutIntro.do), [고용노동부 2026년 지원액 안내](https://www.moel.go.kr/local/iksan/news/notice/noticeView.do?bbs_seq=20260401442). 신청 기간은 [1350 공식 FAQ](https://1350.moel.go.kr/home/hp/data/faqView.do?faq_idx=1000000702)와 [2026 청년뉴딜 안내](https://moelyouth.work24.go.kr/)를 함께 확인했어요.
 
 <!-- prettier-ignore -->
-> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다. 썸네일은 AI 생성 주제 예시이며 실제 기관 홍보물이 아닙니다.
+> 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다.
 {: .prompt-tip }

@@ -4,8 +4,8 @@ date: 2026-09-03 10:00:00 +0900
 categories: [정부지원금]
 tags: [정부지원금]
 image:
-  path: /assets/img/posts/thumb-eneoji-baucheo-photo-v2.webp
-  alt: "정부지원금 · 에너지바우처 · 신청과 사용기간 안내 — AI로 생성한 주제 예시 이미지입니다."
+  path: /assets/img/posts/thumb-eneoji-baucheo-photo-v2-clean-20261002.png
+  alt: "정부지원금 · 에너지바우처 · 신청과 사용기간 안내 — 주제 예시 이미지입니다."
 ---
 
 여름 냉방비와 겨울 난방비를 함께 지원하는 **에너지바우처**는 2026년 6월 15일부터 신청을 받고 있어요. 하절기 사용기간이 2026년 9월 30일로 끝나고 10월 1일부터 동절기 사용이 시작되는 시점이라, 아직 신청하지 않았다면 지금 확인해두는 게 좋아요.

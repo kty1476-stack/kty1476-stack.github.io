@@ -4,7 +4,7 @@ date: "2026-09-17 09:25:00 +0900"
 categories: ["생활의달인"]
 tags: ["생활의달인"]
 description: "생활의 달인 1048회 간짜장 달인으로 소개된 대관원. SBS 공식 방송협조 정보와 공개 메뉴를 확인했습니다."
-image: {"path": "/assets/img/posts/thumb-daegwanwon-dangsan-dalin-1048.png", "alt": "[생활의 달인] 간짜장이 궁금할 때, 서울 당산 대관원 — AI 생성 메뉴 예시, 실제 매장 사진이 아닙니다."}
+image: {"path": "/assets/img/posts/thumb-daegwanwon-dangsan-dalin-1048-clean-20261002.png", "alt": "[생활의 달인] 간짜장이 궁금할 때, 서울 당산 대관원 — 메뉴 예시, 실제 매장 사진이 아닙니다."}
 ---
 
 오늘 점심을 간짜장으로 정했다면 **당산 대관원**을 후보에 올려보세요. SBS ‘생활의 달인’이 간짜장 달인으로 소개한 중식당으로, 방송협조 명단에 상호와 주소가 공개돼 있어 찾아갈 곳을 분명하게 확인할 수 있습니다.
@@ -40,4 +40,4 @@ image: {"path": "/assets/img/posts/thumb-daegwanwon-dangsan-dalin-1048.png", "al
 - [SBS 생활의 달인 1048회 방송정보](https://programs.sbs.co.kr/culture/lifemaster/board/55736?cmd=view&page=1&board_no=7567)
 - [뽈레 대관원 매장·메뉴 정보](https://polle.com/place/2aLnaJ/대관원)
 
-이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 실제 매장 사진이 아닌 AI로 생성한 메뉴 예시입니다.
+이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.

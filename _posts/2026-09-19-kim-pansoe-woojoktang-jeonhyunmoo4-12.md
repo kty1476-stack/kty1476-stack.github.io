@@ -4,7 +4,7 @@ title: "[전현무계획4] 우족탕과 수육을 고르는 한 끼, 전주 김�
 date: "2026-09-19 08:11:56 +0900"
 categories: ["전현무계획"]
 tags: ["전현무계획"]
-image: {"path": "/assets/img/posts/thumb-kim-pansoe-woojoktang-jeonhyunmoo4-12-20260919.png", "alt": "[전현무계획4] 우족탕과 수육을 고르는 한 끼, 전주 김판쇠전주우족탕본점 — 실제 촬영 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-kim-pansoe-woojoktang-jeonhyunmoo4-12-20260919-clean-20261002.png", "alt": "[전현무계획4] 우족탕과 수육을 고르는 한 끼, 전주 김판쇠전주우족탕본점 — 실제 촬영 사진이 아닌 메뉴·주제 예시"}
 summary: "전주 편 공식 기록에서 확인한 우족탕 전문점의 위치와 메뉴를 정리했어요."
 ---
 
@@ -43,5 +43,5 @@ summary: "전주 편 공식 기록에서 확인한 우족탕 전문점의 위치
 - [다이닝코드 김판쇠전주우족탕 메뉴](https://www.diningcode.com/profile.php?rid=ZVZnlELEfTR3)
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 실제 매장 사진이 아닌 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }

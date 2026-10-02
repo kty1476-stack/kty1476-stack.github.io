@@ -4,7 +4,7 @@ title: "[맛있는 녀석들] 숯불로 만나는 참복, 명동 서울복집"
 date: "2026-09-30 08:14:09 +0900"
 categories: ["맛있는녀석들"]
 tags: ["맛있는녀석들"]
-image: {"path": "/assets/img/posts/thumb-myeongdong-seoul-bokjip-548-20260930.png", "alt": "[맛있는 녀석들] 숯불로 만나는 참복, 명동 서울복집 — 실제 매장·기관 사진이 아닌 AI 생성 메뉴·주제 예시"}
+image: {"path": "/assets/img/posts/thumb-myeongdong-seoul-bokjip-548-20260930-clean-20261002.png", "alt": "[맛있는 녀석들] 숯불로 만나는 참복, 명동 서울복집 — 실제 매장·기관 사진이 아닌 메뉴·주제 예시"}
 ---
 
 명동에서 복어 요리를 고를 때 국물 외의 메뉴도 궁금하다면 서울복집을 살펴볼 만합니다. 구이와 찜, 튀김까지 한 재료를 여러 방식으로 다룬 방송 속 식당입니다.
@@ -28,5 +28,5 @@ image: {"path": "/assets/img/posts/thumb-myeongdong-seoul-bokjip-548-20260930.pn
 확인 자료: [548회 방송 메뉴 정리](https://fire888.tistory.com/6628), [해당 회차 서울복집 소개](https://keriai.com/1365), [다이닝코드 매장 정보](https://www.diningcode.com/profile.php?rid=UfFoavakIHPm).
 
 <!-- prettier-ignore -->
-> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요. 썸네일은 AI로 생성한 메뉴 예시입니다.
+> 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기는 아니며, 메뉴 구성·가격·영업시간은 달라질 수 있으니 방문 전 확인해 주세요.
 {: .prompt-tip }
