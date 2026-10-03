@@ -575,5 +575,29 @@
     "address": "서울 종로구 돈화문로11길 42 1층 2층",
     "checked": "2026-10-03",
     "status": "pending"
+  },
+  "tasty-guys-543-seongsu-ganpan": {
+    "name": "성수동간판없는집",
+    "address": "서울 성동구 성수일로 59-1",
+    "checked": "2026-10-04",
+    "status": "pending"
+  },
+  "lifemaster-1043-ferien-cheesecake": {
+    "name": "페리엔서울치즈케이크",
+    "address": "서울 성동구 왕십리로2길 30 1층",
+    "checked": "2026-10-04",
+    "status": "pending"
+  },
+  "jeon-plan4-14-chuwon": {
+    "name": "추원식당",
+    "address": "경남 밀양시 미리벌중앙로8길 5-11",
+    "checked": "2026-10-04",
+    "status": "pending"
+  },
+  "jeon-plan4-14-dongbu": {
+    "name": "동부식육식당",
+    "address": "경남 밀양시 무안면 서부1길 3",
+    "checked": "2026-10-04",
+    "status": "pending"
   }
 }
