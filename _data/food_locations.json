@@ -599,5 +599,29 @@
     "address": "경남 밀양시 무안면 서부1길 3",
     "checked": "2026-10-04",
     "status": "pending"
+  },
+  "tasty-guys-542-wolfgang-gwanghwamun": {
+    "name": "울프강스테이크하우스 광화문점",
+    "address": "서울 중구 세종대로21길 40 2층",
+    "checked": "2026-10-05",
+    "status": "pending"
+  },
+  "lifemaster-1043-kkonae-cheesecake": {
+    "name": "꼬내과자점",
+    "address": "서울 마포구 동교로46길 23 1.5층",
+    "checked": "2026-10-05",
+    "status": "pending"
+  },
+  "jeon-plan4-7-ujeong-dongtae": {
+    "name": "우정집",
+    "address": "경기 의정부시 시민로121번길 43-2",
+    "checked": "2026-10-05",
+    "status": "pending"
+  },
+  "tasty-guys-542-baeknyeon-gyodong": {
+    "name": "백년교동짬뽕 본점",
+    "address": "경기 고양시 덕양구 중앙로 245",
+    "checked": "2026-10-05",
+    "status": "pending"
   }
 }
