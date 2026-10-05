@@ -623,5 +623,29 @@
     "address": "경기 고양시 덕양구 중앙로 245",
     "checked": "2026-10-05",
     "status": "pending"
+  },
+  "tasty-guys-541-deungnamu-oxtail": {
+    "name": "등나무집",
+    "address": "서울 동작구 대림로 52",
+    "checked": "2026-10-06",
+    "status": "pending"
+  },
+  "lifemaster-1043-dosan-snow-cheesecake": {
+    "name": "도산제과",
+    "address": "서울 금천구 범안로 1212 상가동 로비층 02호",
+    "checked": "2026-10-06",
+    "status": "pending"
+  },
+  "jeon-plan4-6-bupyeong-buckwheat": {
+    "name": "부평막국수",
+    "address": "인천 부평구 부평대로63번길 10-8",
+    "checked": "2026-10-06",
+    "status": "pending"
+  },
+  "jeon-plan4-6-seomun-chicken": {
+    "name": "서문통닭삼계탕",
+    "address": "인천 미추홀구 미추홀대로 690",
+    "checked": "2026-10-06",
+    "status": "pending"
   }
 }
