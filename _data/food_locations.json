@@ -671,5 +671,29 @@
     "address": "인천 계양구 계산로 128 1층",
     "checked": "2026-10-07",
     "status": "pending"
+  },
+  "delicious-538-manbae-arirang-bossam": {
+    "name": "만배아리랑 본점",
+    "address": "서울 강서구 화곡로 131 1층",
+    "checked": "2026-10-08",
+    "status": "pending"
+  },
+  "lifemaster-1049-badam-bread": {
+    "name": "바담브레드",
+    "address": "경기 의정부시 용현로159번길 18",
+    "checked": "2026-10-08",
+    "status": "pending"
+  },
+  "jeonplan4-5-gyeongnam-mineo": {
+    "name": "경남횟집",
+    "address": "인천 제물포구 우현로45번길 24-1",
+    "checked": "2026-10-08",
+    "status": "pending"
+  },
+  "lifemaster-1049-backkunst-milk-bread": {
+    "name": "박쿤스트",
+    "address": "서울 관악구 관악로24길 63 1층",
+    "checked": "2026-10-08",
+    "status": "pending"
   }
 }
