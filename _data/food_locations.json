@@ -695,5 +695,34 @@
     "address": "서울 관악구 관악로24길 63 1층",
     "checked": "2026-10-08",
     "status": "pending"
+  },
+  "delicious-537-dwipuri-cod-soup": {
+    "name": "뒤푸리",
+    "address": "서울 영등포구 은행로 29 정우빌딩",
+    "checked": "2026-10-09",
+    "status": "pending"
+  },
+  "lifemaster-1049-bread-for-you": {
+    "name": "그대를 위한 식빵",
+    "address": "서울 구로구 고척로27길 54 1층 101호",
+    "checked": "2026-10-09",
+    "status": "verified",
+    "precision": "place",
+    "lat": 37.504303214093,
+    "lng": 126.846594332831,
+    "source": "https://www.daangn.com/kr/local-profile/%EA%B7%B8%EB%8C%80%EB%A5%BC%EC%9C%84%ED%95%9C%EC%8B%9D%EB%B9%B5-2owr6odn8hr9/",
+    "matched_address": "서울특별시 구로구 고척로27길 54(개봉동)"
+  },
+  "jeonplan4-5-manbok-jjolmyeon": {
+    "name": "만복분식",
+    "address": "인천 제물포구 샛골로162번길 16",
+    "checked": "2026-10-09",
+    "status": "pending"
+  },
+  "lifemaster-1049-choogye-bread": {
+    "name": "추계제빵소",
+    "address": "서울 영등포구 도신로60길 18 1층",
+    "checked": "2026-10-09",
+    "status": "pending"
   }
 }
