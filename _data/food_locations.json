@@ -724,5 +724,29 @@
     "address": "서울 영등포구 도신로60길 18 1층",
     "checked": "2026-10-09",
     "status": "pending"
+  },
+  "delicious-guys-584-egg-flour": {
+    "name": "에그앤플라워",
+    "address": "서울특별시 용산구 신흥로26길 35 2층",
+    "checked": "2026-10-10",
+    "status": "pending"
+  },
+  "lifemaster-1040-gunsan-burgerlab": {
+    "name": "군산버거랩",
+    "address": "전북특별자치도 군산시 양안로 32",
+    "checked": "2026-10-10",
+    "status": "pending"
+  },
+  "jeon-plan4-15-ulsan-hadong": {
+    "name": "하동식당",
+    "address": "울산광역시 동구 동해안로 30-7",
+    "checked": "2026-10-10",
+    "status": "pending"
+  },
+  "jeon-plan4-15-ulsan-jinmi": {
+    "name": "진미만두",
+    "address": "울산광역시 동구 녹수7길 57",
+    "checked": "2026-10-10",
+    "status": "pending"
   }
 }
