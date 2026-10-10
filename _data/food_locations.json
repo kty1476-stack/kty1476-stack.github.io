@@ -748,5 +748,23 @@
     "address": "울산광역시 동구 녹수7길 57",
     "checked": "2026-10-10",
     "status": "pending"
+  },
+  "tasty-guys-584-soul-dining": {
+    "name": "소울 다이닝",
+    "address": "서울특별시 용산구 신흥로26길 35 지하 1층",
+    "checked": "2026-10-11",
+    "status": "pending"
+  },
+  "lifemaster-1040-three-oclock": {
+    "name": "쓰리어클락 연희점",
+    "address": "서울특별시 서대문구 연희로25길 66 지층",
+    "checked": "2026-10-11",
+    "status": "pending"
+  },
+  "jeon-plan4-15-mangyeom-pollock": {
+    "name": "만겸명태찜",
+    "address": "울산광역시 남구 왕생로144번길 15",
+    "checked": "2026-10-11",
+    "status": "pending"
   }
 }
