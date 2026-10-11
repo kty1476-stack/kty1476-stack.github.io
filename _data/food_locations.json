@@ -766,5 +766,28 @@
     "address": "울산광역시 남구 왕생로144번길 15",
     "checked": "2026-10-11",
     "status": "pending"
+  },
+  "tasty-guys-536-gyeongsan-goditang": {
+    "name": "경산식당",
+    "address": "대구광역시 군위군 군위읍 중앙5길 8-19",
+    "checked": "2026-10-12",
+    "status": "pending"
+  },
+  "lifemaster-1040-on-puff-pastry": {
+    "name": "온앤퍼프 페스츄리",
+    "address": "서울특별시 마포구 노고산동 31-176",
+    "checked": "2026-10-12",
+    "status": "pending"
+  },
+  "jeon-plan4-5-buyeong-seonji": {
+    "name": "부영선지국",
+    "address": "인천광역시 미추홀구 장천로14번길 20",
+    "checked": "2026-10-12",
+    "status": "verified",
+    "precision": "place",
+    "lat": 37.4585699553006,
+    "lng": 126.647317282461,
+    "source": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21120616415301637",
+    "matched_address": "인천광역시 미추홀구 장천로14번길 20"
   }
 }
