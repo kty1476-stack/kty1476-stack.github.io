@@ -789,5 +789,44 @@
     "lng": 126.647317282461,
     "source": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21120616415301637",
     "matched_address": "인천광역시 미추홀구 장천로14번길 20"
+  },
+  "tasty-guys-535-baeksan-black-pork": {
+    "name": "백산가든",
+    "address": "경상북도 김천시 지례면 장터길 82",
+    "checked": "2026-10-13",
+    "status": "verified",
+    "precision": "place",
+    "lat": 35.9884296,
+    "lng": 128.0301182,
+    "source": "https://www.diningcode.com/profile.php?rid=h0bffMvtQFgK",
+    "matched_address": "경상북도 김천시 지례면 장터길 82"
+  },
+  "lifemaster-1050-yetjinmi-kalguksu": {
+    "name": "옛진미칼국수",
+    "address": "경기도 광명시 오리로 932",
+    "checked": "2026-10-13",
+    "status": "pending"
+  },
+  "jeon-plan4-4-samil-mountain-greens": {
+    "name": "삼일식당",
+    "address": "경상남도 합천군 가야면 치인1길 19-1",
+    "checked": "2026-10-13",
+    "status": "verified",
+    "precision": "place",
+    "lat": 35.7915072,
+    "lng": 128.0871008,
+    "source": "https://seemap.co.kr/place/1137",
+    "matched_address": "경상남도 합천군 가야면 치인1길 19-1"
+  },
+  "lifemaster-1050-pungnyeon-pizza-rice-cake": {
+    "name": "풍년떡집",
+    "address": "인천광역시 부평구 부평동 222-20",
+    "checked": "2026-10-13",
+    "status": "verified",
+    "precision": "place",
+    "lat": 37.4954035,
+    "lng": 126.7271166,
+    "source": "https://www.diningcode.com/profile.php?rid=zsBxf6adrFcF",
+    "matched_address": "인천광역시 부평구 부평동 222-20"
   }
 }
