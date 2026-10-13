@@ -828,5 +828,49 @@
     "lng": 126.7271166,
     "source": "https://www.diningcode.com/profile.php?rid=zsBxf6adrFcF",
     "matched_address": "인천광역시 부평구 부평동 222-20"
+  },
+  "tasty-guys-533-wangjajeong-mukbap": {
+    "name": "왕자정묵밥",
+    "address": "인천광역시 강화군 강화읍 북문길 55",
+    "checked": "2026-10-14",
+    "status": "verified",
+    "precision": "place",
+    "lat": 37.7516842,
+    "lng": 126.4841017,
+    "source": "https://www.diningcode.com/profile.php?rid=DJVmKUtoBici",
+    "matched_address": "인천광역시 강화군 강화읍 북문길 55"
+  },
+  "lifemaster-1050-yeongdodari-pizza-seolgi": {
+    "name": "영도다리떡방",
+    "address": "부산광역시 영도구 남항로41번길 21",
+    "checked": "2026-10-14",
+    "status": "verified",
+    "precision": "place",
+    "lat": 35.0895592,
+    "lng": 129.0414326,
+    "source": "https://www.diningcode.com/profile.php?rid=GR9UY7BOMgDG",
+    "matched_address": "부산광역시 영도구 남항로41번길 21"
+  },
+  "jeon-plan4-4-boseong-black-pork": {
+    "name": "보성식당",
+    "address": "경상남도 합천군 묘산면 묘산로 176",
+    "checked": "2026-10-14",
+    "status": "verified",
+    "precision": "place",
+    "lat": 35.6580146,
+    "lng": 128.1138039,
+    "source": "https://www.diningcode.com/profile.php?rid=pXiIqOwtpAf9",
+    "matched_address": "경상남도 합천군 묘산면 묘산로 176"
+  },
+  "jeon-plan4-4-samga-premium-hanwoo": {
+    "name": "합천삼가명품한우",
+    "address": "경상남도 합천군 삼가면 서부로 39",
+    "checked": "2026-10-14",
+    "status": "verified",
+    "precision": "place",
+    "lat": 35.4127307,
+    "lng": 128.1190342,
+    "source": "https://www.diningcode.com/profile.php?rid=M7kehPgQZQEv",
+    "matched_address": "경상남도 합천군 삼가면 서부로 39"
   }
 }
