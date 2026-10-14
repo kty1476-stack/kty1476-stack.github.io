@@ -872,5 +872,38 @@
     "lng": 128.1190342,
     "source": "https://www.diningcode.com/profile.php?rid=M7kehPgQZQEv",
     "matched_address": "경상남도 합천군 삼가면 서부로 39"
+  },
+  "lifemaster-1039-arisan-tangsuyuk": {
+    "name": "아리산",
+    "address": "경기도 부천시 원미구 석천로178번길 27",
+    "lat": 37.5032116,
+    "lng": 126.7645282,
+    "source": "https://www.diningcode.com/profile.php?rid=w6tZs5Vmvh2p",
+    "checked": "2026-10-15",
+    "status": "verified",
+    "precision": "place",
+    "matched_address": "경기도 부천시 원미구 석천로178번길 27"
+  },
+  "jeon-plan4-3-teolbo-octopus": {
+    "name": "털보원조해물전골",
+    "address": "경상남도 사천시 수남3길 31",
+    "lat": 34.9281742,
+    "lng": 128.0708762,
+    "source": "https://www.diningcode.com/profile.php?rid=kzWX7eYOcY0F",
+    "checked": "2026-10-15",
+    "status": "verified",
+    "precision": "place",
+    "matched_address": "경상남도 사천시 수남3길 31"
+  },
+  "lifemaster-1039-homidam-mango": {
+    "name": "호미담",
+    "address": "대구광역시 수성구 청수로 166, 1층",
+    "lat": 35.8390912,
+    "lng": 128.6261559,
+    "source": "https://www.diningcode.com/profile.php?rid=Vugbjz1IyLh6",
+    "checked": "2026-10-15",
+    "status": "verified",
+    "precision": "place",
+    "matched_address": "대구광역시 수성구 청수로 166, 1층"
   }
 }
