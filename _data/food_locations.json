@@ -905,5 +905,38 @@
     "status": "verified",
     "precision": "place",
     "matched_address": "대구광역시 수성구 청수로 166, 1층"
+  },
+  "tasty-guys-529-mapook-brisket": {
+    "name": "마포옥",
+    "address": "서울 마포구 토정로 312",
+    "lat": 37.5398916,
+    "lng": 126.9433125,
+    "source": "https://www.diningcode.com/profile.php?rid=mfnxiMVtuuWL",
+    "checked": "2026-10-16",
+    "status": "verified",
+    "precision": "place",
+    "matched_address": "서울 마포구 토정로 312"
+  },
+  "lifemaster-1039-rice-aesthetics": {
+    "name": "떡의 미학",
+    "address": "서울 서대문구 연희로25길 72",
+    "lat": 37.5706229,
+    "lng": 126.9327321,
+    "source": "https://www.diningcode.com/profile.php?rid=flOiId6PXvMh",
+    "checked": "2026-10-16",
+    "status": "verified",
+    "precision": "place",
+    "matched_address": "서울 서대문구 연희로25길 72"
+  },
+  "jeon-plan4-3-deokhap-banjeom": {
+    "name": "덕합반점",
+    "address": "경남 사천시 사천읍 읍내1길 81",
+    "lat": 35.0835286,
+    "lng": 128.0866209,
+    "source": "https://www.diningcode.com/profile.php?rid=WmxZhAAlWe4y",
+    "checked": "2026-10-16",
+    "status": "verified",
+    "precision": "place",
+    "matched_address": "경남 사천시 사천읍 읍내1길 81"
   }
 }
