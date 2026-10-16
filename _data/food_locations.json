@@ -938,5 +938,36 @@
     "status": "verified",
     "precision": "place",
     "matched_address": "경남 사천시 사천읍 읍내1길 81"
+  },
+  "tasty-guys-528-chimney-mansion": {
+    "name": "침니맨션",
+    "address": "서울특별시 마포구 잔다리로6길 14",
+    "lat": 37.5520157,
+    "lng": 126.9199555,
+    "source": "https://www.diningcode.com/profile.php?rid=0ssUZxnfoL6Z",
+    "checked": "2026-10-17",
+    "status": "verified",
+    "precision": "place",
+    "matched_address": "서울특별시 마포구 잔다리로6길 14"
+  },
+  "lifemaster-1039-bangbae-rice-cake": {
+    "name": "방배중앙떡방",
+    "address": "서울특별시 동작구 사당로16가길 6 우노빌딩 1층",
+    "lat": 37.4829905,
+    "lng": 126.9730274,
+    "source": "https://www.diningcode.com/profile.php?rid=YaqppO9TSbw0",
+    "checked": "2026-10-17",
+    "status": "verified",
+    "precision": "place",
+    "matched_address": "서울특별시 동작구 사당로16가길 6 우노빌딩 1층"
+  },
+  "jeon-plan4-16-gyeongju-muk-soup": {
+    "name": "경주해장국",
+    "address": "경상북도 경주시 태종로 812",
+    "source": "https://www.store114.net/store/detail.asp?seq=Cx24AQdqBrdN",
+    "checked": "2026-10-17",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
