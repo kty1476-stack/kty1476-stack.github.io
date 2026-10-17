@@ -969,5 +969,32 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-585-achasan-original-tofu": {
+    "name": "원조할아버지손두부",
+    "address": "서울특별시 광진구 자양로 324",
+    "source": "https://www.diningcode.com/profile.php?rid=mcR0rPqKYFHb",
+    "checked": "2026-10-18",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1038-jakjeon-bossam": {
+    "name": "보쌈파는트럭삼촌",
+    "address": "인천광역시 계양구 주부토로 469",
+    "source": "https://www.diningcode.com/profile.php?rid=JiiEQNPKwKoC",
+    "checked": "2026-10-18",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeon-plan4-16-gyeongju-geumsanjae": {
+    "name": "금산재칼국수",
+    "address": "경상북도 경주시 흥무로 71",
+    "source": "https://www.gyeongju.go.kr/tour/page.do?cmd=2&con_uid=6859&mnu_uid=2501",
+    "checked": "2026-10-18",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
