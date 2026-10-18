@@ -996,5 +996,32 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-523-gunsan-hansokkeum": {
+    "name": "한소끔",
+    "address": "전북 군산시 백토로 284-8",
+    "source": "https://www.diningcode.com/profile.php?rid=L2lTstHP8RIO",
+    "checked": "2026-10-19",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1035-bukchang-songok": {
+    "name": "송옥",
+    "address": "서울 중구 남대문로1길 11",
+    "source": "https://www.diningcode.com/profile.php?rid=hw8cI5igznl3",
+    "checked": "2026-10-19",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeon-plan4-3-sacheon-geudaewana": {
+    "name": "그대와나",
+    "address": "경남 사천시 벌리7길 40",
+    "source": "https://www.diningcode.com/profile.php?rid=IUOxZPu6rVCT",
+    "checked": "2026-10-19",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
