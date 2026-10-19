@@ -1023,5 +1023,32 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-guys-522-samhakdo": {
+    "name": "삼학도",
+    "address": "서울 서초구 효령로57길 4 강남부속상가 9동 지하 1층",
+    "source": "https://www.diningcode.com/profile.php?rid=CJK92H9qdPyb",
+    "checked": "2026-10-20",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1035-mirak-udon": {
+    "name": "미락제면1941",
+    "address": "경기 용인시 기흥구 동백죽전대로527번길 98-6 2층",
+    "source": "https://www.diningcode.com/profile.php?rid=Mf4045dU99YA",
+    "checked": "2026-10-20",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "hyunmoo-plan4-16-sanhae": {
+    "name": "산해",
+    "address": "경북 경주시 숲머리길 130-5",
+    "source": "https://www.mbn.co.kr/totalCastView/347296/1",
+    "checked": "2026-10-20",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
