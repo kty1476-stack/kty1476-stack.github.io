@@ -1050,5 +1050,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-521-seolnun-pyeongyang": {
+    "name": "설눈",
+    "address": "서울 서초구 서초대로46길 20-7 1층",
+    "source": "https://www.diningcode.com/profile.php?rid=2x1eucz69PX6",
+    "checked": "2026-10-21",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1051-hongseonggak": {
+    "name": "홍성각",
+    "address": "인천 미추홀구 한나루로 494",
+    "source": "https://www.diningcode.com/profile.php?rid=cizQJtJIMfdQ",
+    "checked": "2026-10-21",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeon-plan4-2-seoul-bugeo": {
+    "name": "서울북어전문",
+    "address": "대전 중구 목중로20번길 54",
+    "source": "https://www.mbn.co.kr/totalCastView/345711/1",
+    "checked": "2026-10-21",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "tasty-585-buam-gyeyeolsa": {
+    "name": "계열사",
+    "address": "서울 종로구 백석동길 7",
+    "source": "https://www.diningcode.com/profile.php?rid=KPlxlnuA0Ayr",
+    "checked": "2026-10-21",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
