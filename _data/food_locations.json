@@ -1086,5 +1086,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-guys-518-bunong-beef": {
+    "name": "부농정육식당",
+    "address": "서울 송파구 백제고분로28길 29 1층",
+    "source": "https://www.diningcode.com/profile.php?rid=zBA5i4hl3Bst",
+    "checked": "2026-10-22",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1035-koshi-udon": {
+    "name": "코시 건대점",
+    "address": "서울 광진구 아차산로 197 1층",
+    "source": "https://www.diningcode.com/profile.php?rid=CsSML7uLHpA1",
+    "checked": "2026-10-22",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeon-plan4-2-hanyeong-chicken": {
+    "name": "한영식당",
+    "address": "대전 중구 계룡로874번길 6",
+    "source": "https://www.mbn.co.kr/totalCastView/345711/1",
+    "checked": "2026-10-22",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeon-plan4-2-daeseong-soy-noodles": {
+    "name": "대성콩국수",
+    "address": "대전 서구 도산로 141",
+    "source": "https://www.mbn.co.kr/totalCastView/345711/1",
+    "checked": "2026-10-22",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
