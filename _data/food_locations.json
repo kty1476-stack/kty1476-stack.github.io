@@ -1122,5 +1122,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-guys-517-songwon-fish": {
+    "name": "송원식당",
+    "address": "인천 중구 연안부두로 16 해양센터 1층",
+    "source": "https://www.diningcode.com/profile.php?rid=S5qwFOY30YE9",
+    "checked": "2026-10-23",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1034-gurumong-baguette": {
+    "name": "구루몽",
+    "address": "경기 남양주시 경춘로 377 해링턴 타워",
+    "source": "https://www.diningcode.com/profile.php?rid=8TggXuvVALQM",
+    "checked": "2026-10-23",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeon-plan4-1-yongjin-beef": {
+    "name": "용진식당",
+    "address": "대전 유성구 박산로140번길 201-2",
+    "source": "https://www.mbn.co.kr/totalCastView/345626/1",
+    "checked": "2026-10-23",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeon-plan4-1-myeongrang-yukgaejang": {
+    "name": "명랑식당",
+    "address": "대전 동구 태전로 56-20",
+    "source": "https://www.mbn.co.kr/totalCastView/345626/1",
+    "checked": "2026-10-23",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
