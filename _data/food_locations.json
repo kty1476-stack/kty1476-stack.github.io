@@ -1158,5 +1158,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "lifemaster-1033-kongbang-bread": {
+    "name": "콩방",
+    "address": "부산 금정구 상현로 66",
+    "source": "https://busantaste.com/ko/r/kongbang",
+    "checked": "2026-10-24",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeon-plan4-17-neunggok-pollock": {
+    "name": "능곡할머니북어탕 본점",
+    "address": "경기 고양시 덕양구 토당로 66-15",
+    "source": "https://www.diningcode.com/profile.php?rid=1uU59OrtOWEC",
+    "checked": "2026-10-24",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeon-plan4-17-gojari-noodles": {
+    "name": "고자리냉면칼만두 본점",
+    "address": "경기 고양시 덕양구 호국로 915-45",
+    "source": "https://www.diningcode.com/profile.php?rid=38ArpTNk8eEi",
+    "checked": "2026-10-24",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "tasty-586-chuncheongol-dakgalbi": {
+    "name": "춘천골닭갈비막국수",
+    "address": "서울 중랑구 용마산로115길 30 광명빌딩",
+    "source": "https://www.diningcode.com/profile.php?rid=7mlyThOdMtMM",
+    "checked": "2026-10-24",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
