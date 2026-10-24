@@ -1194,5 +1194,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-586-seoil-chicken-soup": {
+    "name": "서일대닭곰탕 본점",
+    "address": "서울 중랑구 상봉로 11",
+    "source": "https://www.diningcode.com/profile.php?rid=io1EpcVZka13",
+    "checked": "2026-10-25",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "master-1033-jean-boulangerie": {
+    "name": "쟝블랑제리 낙성대본점",
+    "address": "서울 관악구 낙성대역길 8",
+    "source": "https://www.diningcode.com/profile.php?rid=FPLXJW8GsFWS",
+    "checked": "2026-10-25",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "plan4-17-hanil-garden": {
+    "name": "한일가든",
+    "address": "경기 고양시 덕양구 행주로 77",
+    "source": "https://www.mbn.co.kr/totalCastView/347375/1",
+    "checked": "2026-10-25",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "tasty-516-chakraa-curry": {
+    "name": "차크라 한남점",
+    "address": "서울 용산구 독서당로 83",
+    "source": "https://www.diningcode.com/profile.php?rid=cwSYcfy3mWV6",
+    "checked": "2026-10-25",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
