@@ -1266,5 +1266,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-guys-514-ilmi-eel": {
+    "name": "일미장어",
+    "address": "서울 용산구 후암로57길 35-15",
+    "source": "https://www.diningcode.com/profile.php?rid=X9jeYCfjfMo5",
+    "checked": "2026-10-27",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1052-leeheungyong-bread": {
+    "name": "이흥용과자점 문현직영점",
+    "address": "부산 남구 수영로39번길 2-1",
+    "source": "https://www.diningcode.com/profile.php?rid=K1UdfHdgpsSd",
+    "checked": "2026-10-27",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeonhyunmoo-36-seogyogarden-ribs": {
+    "name": "서교가든숯불갈비",
+    "address": "서울 마포구 잔다리로 83 1층",
+    "source": "https://www.mbn.co.kr/totalCastView/345485/1",
+    "checked": "2026-10-27",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1052-ikura-omurice": {
+    "name": "이쿠라 더현대서울점",
+    "address": "서울 영등포구 여의대로 108 더현대 서울 지하 1층",
+    "source": "https://www.ehyundai.com/newPortal/SN/SN_0201000.do?branchCd=B00140000&category=event&evntCrdCd=E4002609506449",
+    "checked": "2026-10-27",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
