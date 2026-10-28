@@ -1302,5 +1302,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-guys-513-sigol-grill": {
+    "name": "시골집연탄석쇠구이",
+    "address": "서울 성북구 보국문로 209",
+    "source": "https://www.diningcode.com/profile.php?rid=XXkZUbzGpP6M",
+    "checked": "2026-10-29",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1045-milof-baguette": {
+    "name": "밀로프",
+    "address": "부산 부산진구 동천로 58",
+    "source": "https://matjido.kr/store/밀로프/",
+    "checked": "2026-10-29",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeonhyunmoo-36-dongdaemun-chicken-crab": {
+    "name": "동대문곱창",
+    "address": "서울 광진구 뚝섬로27길 37",
+    "source": "https://www.mbn.co.kr/totalCastView/345485/1",
+    "checked": "2026-10-29",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "tasty-guys-513-dunnae-makguksu": {
+    "name": "둔내막국수 북한산본점",
+    "address": "서울 은평구 북한산로 255",
+    "source": "https://www.diningcode.com/profile.php?rid=sJKXlRQIYDl6",
+    "checked": "2026-10-29",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
