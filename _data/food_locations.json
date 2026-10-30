@@ -1374,5 +1374,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-guys-511-leplat-french": {
+    "name": "르쁠라",
+    "address": "경기 고양시 일산동구 일산로358번길 34",
+    "source": "https://www.diningcode.com/profile.php?rid=v2c1aBx29lB3",
+    "checked": "2026-10-31",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1033-pain-damour": {
+    "name": "빵다무르",
+    "address": "부산 해운대구 해운대로781번길 16 신화하니엘타워 1층",
+    "source": "https://www.diningcode.com/profile.php?rid=HdJtrPmzDlfw",
+    "checked": "2026-10-31",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeonhyunmoo-35-cheolcheol-puffer": {
+    "name": "철철복집",
+    "address": "서울 중구 을지로3길 29",
+    "source": "https://www.mbn.co.kr/totalCastView/345430",
+    "checked": "2026-10-31",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "tasty-guys-511-hain-duck": {
+    "name": "하인선생 일산점",
+    "address": "경기 고양시 일산동구 무궁화로 359",
+    "source": "https://seon1982.tistory.com/3562",
+    "checked": "2026-10-31",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
