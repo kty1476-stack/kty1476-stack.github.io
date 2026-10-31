@@ -1410,5 +1410,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-guys-510-kimtaeju-gopchang": {
+    "name": "김태주선산곱창 구미본점",
+    "address": "경북 구미시 송원서로 77",
+    "source": "https://www.diningcode.com/profile.php?rid=rUxk0jXoEVVM",
+    "checked": "2026-11-01",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1034-homilbat-milk-bingsu": {
+    "name": "호밀밭",
+    "address": "서울 서대문구 신촌역로 43 1층",
+    "source": "https://www.diningcode.com/profile.php?rid=QMAtvjQ280uh",
+    "checked": "2026-11-01",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeonhyunmoo4-18-jinbat-noodles": {
+    "name": "진밭국수 1호점",
+    "address": "경기 고양시 일산동구 진밭로 11",
+    "source": "https://www.mbn.co.kr/totalCastView/347457/1",
+    "checked": "2026-11-01",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeonhyunmoo4-18-wonjo-hanchi": {
+    "name": "원조한치회",
+    "address": "경기 파주시 새꽃로 199 2층",
+    "source": "https://www.mbn.co.kr/totalCastView/347457/1",
+    "checked": "2026-11-01",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
