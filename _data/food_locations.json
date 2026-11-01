@@ -1446,5 +1446,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-guys-587-pocha-popo": {
+    "name": "포차 포포",
+    "address": "서울 성동구 한림말3길 10 1층 103호",
+    "source": "https://www.diningcode.com/profile.php?rid=phqRYij2hrgj",
+    "checked": "2026-11-02",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1034-nadri-gimbap": {
+    "name": "나드리김밥 태백황지점",
+    "address": "강원특별자치도 태백시 황지로 81 1층",
+    "source": "https://www.diningcode.com/profile.php?rid=g4yF12rbfZav",
+    "checked": "2026-11-02",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeonhyunmoo4-18-parkga-budae": {
+    "name": "박가삼거리부대찌개",
+    "address": "경기 파주시 문산읍 문향로 103",
+    "source": "https://www.mbn.co.kr/totalCastView/347457/1",
+    "checked": "2026-11-02",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "tasty-guys-509-dami-grilled-fish": {
+    "name": "다미",
+    "address": "서울 영등포구 국제금융로8길 34",
+    "source": "https://www.diningcode.com/profile.php?rid=t1m9OnLGqECO",
+    "checked": "2026-11-02",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
