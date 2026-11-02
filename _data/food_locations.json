@@ -1482,5 +1482,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-guys-508-wangsimni-chicken-offal": {
+    "name": "왕십리닭내장탕집",
+    "address": "서울 성동구 무학로2길 11",
+    "source": "https://www.diningcode.com/profile.php?rid=4kXeJBJOIGJ1",
+    "checked": "2026-11-03",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1036-yul-bakery-baguette": {
+    "name": "율베이커리",
+    "address": "서울 강동구 양재대로103길 43 1층",
+    "source": "https://www.diningcode.com/profile.php?rid=hFdXNtHCHq3U",
+    "checked": "2026-11-03",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeonhyunmoo2-34-jangchun-dakgaejang": {
+    "name": "장춘닭개장",
+    "address": "충남 당진시 정안로 50",
+    "source": "https://www.diningcode.com/profile.php?rid=54B27bE91Tgm",
+    "checked": "2026-11-03",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "tasty-guys-508-bongja-makchang": {
+    "name": "봉자막창 서울송파가락점",
+    "address": "서울 송파구 송파대로30길 41-4 1층",
+    "source": "https://seon1982.tistory.com/3540",
+    "checked": "2026-11-03",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
