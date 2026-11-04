@@ -1554,5 +1554,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-guys-506-hosu-samgyetang": {
+    "name": "원조호수삼계탕 본점",
+    "address": "서울 영등포구 도림로 276",
+    "source": "https://www.diningcode.com/profile.php?rid=nG9hfhhXa77O",
+    "checked": "2026-11-05",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1053-ankko-fruit-mochi": {
+    "name": "앙꼬",
+    "address": "서울 강남구 학동로56길 32",
+    "source": "https://www.diningcode.com/profile.php?rid=UNo7NdtUibNM",
+    "checked": "2026-11-05",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeonhyunmoo2-33-honam-muchimhoe": {
+    "name": "호남원조식당",
+    "address": "대구 서구 달구벌대로375길 26-1",
+    "source": "https://www.diningcode.com/profile.php?rid=tFtYUkz1BocD",
+    "checked": "2026-11-05",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1053-kashiya-fruit-daifuku": {
+    "name": "카시야",
+    "address": "서울 서대문구 연희로 117",
+    "source": "https://www.diningcode.com/profile.php?rid=9wMRfzx6QLcg",
+    "checked": "2026-11-05",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
