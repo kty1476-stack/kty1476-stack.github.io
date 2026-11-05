@@ -1590,5 +1590,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-guys-587-dongeodongrak": {
+    "name": "동어동락 삼성본점",
+    "address": "서울 강남구 삼성로96길 7",
+    "source": "https://www.diningcode.com/profile.php?rid=jsyYSIKPulSe",
+    "checked": "2026-11-06",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1053-onul1307": {
+    "name": "오늘1307",
+    "address": "경기 화성시 동탄구 동탄반송1길 40-20 1층",
+    "source": "https://tv.jjyu.co.kr/lifemaster-1053/",
+    "checked": "2026-11-06",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeonhyunmoo2-33-deokseong": {
+    "name": "덕성반점",
+    "address": "대구 중구 대봉로 188",
+    "source": "https://www.diningcode.com/profile.php?rid=v5C6mhgBCxDk",
+    "checked": "2026-11-06",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1053-saenggwaroom": {
+    "name": "생과룸",
+    "address": "경기 안양시 동안구 평촌대로127번길 85 1층 101호, 102호",
+    "source": "https://www.diningcode.com/profile.php?rid=aioLYQ0QmCzs",
+    "checked": "2026-11-06",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
