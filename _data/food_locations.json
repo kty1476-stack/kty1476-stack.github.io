@@ -1626,5 +1626,41 @@
     "status": "pending",
     "precision": "unknown",
     "matched_address": null
+  },
+  "tasty-guys-503-kimjongwoo-galbaek": {
+    "name": "김종우갈백집",
+    "address": "경기 안산시 단원구 고잔로 91",
+    "source": "https://www.diningcode.com/profile.php?rid=eAo3RkcQijKM",
+    "checked": "2026-11-07",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "lifemaster-1032-wonjo-gaya-milmyeon": {
+    "name": "원조가야밀면",
+    "address": "부산 사하구 낙동대로451번길 33",
+    "source": "https://dikr.co.kr/lifemaster/restaurants/place-1b6196b1433f.html",
+    "checked": "2026-11-07",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeonhyunmoo4-19-ipo-sundaeguk": {
+    "name": "이포순대국",
+    "address": "인천 미추홀구 낙섬서로18번길 34",
+    "source": "https://manyfactory.tistory.com/491",
+    "checked": "2026-11-07",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
+  },
+  "jeonhyunmoo4-19-gangseonsaeng-makguksu": {
+    "name": "강선생의냉면막국수",
+    "address": "인천 서해구 담지로86번길 5-41",
+    "source": "https://www.make2t.kr/2026/11/jeonhyunmoo-plan4-cheongna-makguksu-dumplings.html",
+    "checked": "2026-11-07",
+    "status": "pending",
+    "precision": "unknown",
+    "matched_address": null
   }
 }
