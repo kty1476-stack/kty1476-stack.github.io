@@ -5,7 +5,7 @@ date: 2026-11-10 08:40:49 +0900
 categories: [생활의달인]
 tags: [생활의달인]
 image:
-  path: /assets/img/posts/thumb-lifemaster-1054-daemae-sushi-20261110-v1.png
+  path: /assets/img/posts/thumb-lifemaster-1054-daemae-sushi-20261110-v2.png
   alt: "생선과 밥의 질감이 드러나는 초밥 한 접시"
 ---
 
