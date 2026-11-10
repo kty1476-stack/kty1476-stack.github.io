@@ -36,4 +36,4 @@ image:
 > 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다.
 {: .prompt-tip }
 
-[![줄리 & 줄리아 관전 포인트, 요리를 기록할 때 달라지는 일상]({{ '/assets/img/posts/recommend-2026-11-08-v1.png' | relative_url }})](https://kty1476-stack.github.io/watch-today/posts/julie-julia-cooking-and-record/)
+<a href="https://kty1476-stack.github.io/watch-today/posts/julie-julia-cooking-and-record/"><img src="{{ '/assets/img/posts/recommend-julie-julia-cooking-and-record-20261110-v3.png' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — 줄리 &amp; 줄리아 관전 포인트, 요리를 기록할 때 달라지는 일상" width="2172" height="724" style="width:100%;height:auto" loading="lazy"></a>

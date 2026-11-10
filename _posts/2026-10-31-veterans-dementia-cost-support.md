@@ -37,4 +37,4 @@ image: {"path": "/assets/img/posts/thumb-veterans-dementia-cost-support-20261031
 > 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다.
 {: .prompt-tip }
 
-<a href="https://kty1476-stack.github.io/watch-today/posts/home-spirit-belonging-and-freedom/"><img src="{{ '/assets/img/posts/recommend-watch-20261031-v1.svg' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — 홈·스피릿 추천, 함께 살 곳을 찾는 모험과 자유를 지키는 모험" width="720" height="286" loading="lazy"></a>
+<a href="https://kty1476-stack.github.io/watch-today/posts/home-spirit-belonging-and-freedom/"><img src="{{ '/assets/img/posts/recommend-home-spirit-belonging-and-freedom-20261110-v3.png' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — 홈·스피릿 추천, 함께 살 곳을 찾는 모험과 자유를 지키는 모험" width="2172" height="724" style="width:100%;height:auto" loading="lazy"></a>

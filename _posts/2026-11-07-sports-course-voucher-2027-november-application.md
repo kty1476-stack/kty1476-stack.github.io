@@ -30,4 +30,4 @@ image: {"path": "/assets/img/posts/thumb-sports-course-voucher-2027-november-app
 > 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다.
 {: .prompt-tip }
 
-<a href="https://kty1476-stack.github.io/watch-today/posts/billy-elliot-boxing-ballet-expectations/"><img src="{{ '/assets/img/posts/recommend-sport-20261107-v1.svg' | relative_url }}" alt="다른 블로그 추천 글 · 오늘 뭐보지 · Billy Elliot 관전 포인트, 권투와 발레 사이에 놓인 편견" width="720" height="237" loading="lazy"></a>
+<a href="https://kty1476-stack.github.io/watch-today/posts/billy-elliot-boxing-ballet-expectations/"><img src="{{ '/assets/img/posts/recommend-billy-elliot-boxing-ballet-expectations-20261110-v3.png' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — Billy Elliot 관전 포인트, 권투와 발레 사이에 놓인 편견" width="2172" height="724" style="width:100%;height:auto" loading="lazy"></a>

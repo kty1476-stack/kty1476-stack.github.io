@@ -37,4 +37,4 @@ MBN 전현무계획3 36회는 2026년 6월 19일 방송됐습니다. 공식 맛�
 > 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 메뉴·가격·영업시간은 달라질 수 있으니 방문 전 매장에 확인해 주세요.
 {: .prompt-tip }
 
-<a href="https://kty1476-stack.github.io/watch-today/posts/megamind-dragon-labels-and-friendship/"><img src="{{ '/assets/img/posts/recommend-food-20261029-v1.svg' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — 메가마인드·드래곤 길들이기, 적이라는 이름을 다시 보는 애니메이션 2편" width="720" height="296" loading="lazy"></a>
+<a href="https://kty1476-stack.github.io/watch-today/posts/megamind-dragon-labels-and-friendship/"><img src="{{ '/assets/img/posts/recommend-megamind-dragon-labels-and-friendship-20261110-v3.png' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — 메가마인드·드래곤 길들이기, 적이라는 이름을 다시 보는 애니메이션 2편" width="2172" height="724" style="width:100%;height:auto" loading="lazy"></a>

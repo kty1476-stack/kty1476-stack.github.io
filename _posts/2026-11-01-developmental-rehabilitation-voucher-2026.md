@@ -45,4 +45,4 @@ image: {"path": "/assets/img/posts/thumb-developmental-rehabilitation-voucher-20
 > 이 글은 정부 부처 보도자료 및 공식 안내를 바탕으로 정리했습니다. 구체적인 지급액과 자격 여부는 담당 기관에서 개별 확인하시기 바랍니다.
 {: .prompt-tip }
 
-<a href="https://kty1476-stack.github.io/watch-today/posts/the-intern-mutual-respect/"><img src="{{ '/assets/img/posts/recommend-watch-20261101-v1.svg' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — 인턴 관전 포인트, 경험이 존중이 되려면 필요한 거리" width="720" height="237" loading="lazy"></a>
+<a href="https://kty1476-stack.github.io/watch-today/posts/the-intern-mutual-respect/"><img src="{{ '/assets/img/posts/recommend-the-intern-mutual-respect-20261110-v3.png' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — 인턴 관전 포인트, 경험이 존중이 되려면 필요한 거리" width="2172" height="724" style="width:100%;height:auto" loading="lazy"></a>

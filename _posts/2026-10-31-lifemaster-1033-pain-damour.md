@@ -41,4 +41,4 @@ SBS **생활의 달인 1033회**, 2026년 6월 1일 방송의 주제 가운데 �
 > 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 메뉴·가격·영업시간은 달라질 수 있으니 방문 전 매장에 확인해 주세요.
 {: .prompt-tip }
 
-<a href="https://kty1476-stack.github.io/watch-today/posts/home-spirit-belonging-and-freedom/"><img src="{{ '/assets/img/posts/recommend-watch-20261031-v1.svg' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — 홈·스피릿 추천, 함께 살 곳을 찾는 모험과 자유를 지키는 모험" width="720" height="286" loading="lazy"></a>
+<a href="https://kty1476-stack.github.io/watch-today/posts/home-spirit-belonging-and-freedom/"><img src="{{ '/assets/img/posts/recommend-home-spirit-belonging-and-freedom-20261110-v3.png' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — 홈·스피릿 추천, 함께 살 곳을 찾는 모험과 자유를 지키는 모험" width="2172" height="724" style="width:100%;height:auto" loading="lazy"></a>

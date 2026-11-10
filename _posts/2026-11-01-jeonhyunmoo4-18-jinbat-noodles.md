@@ -40,4 +40,4 @@ image: {"path": "/assets/img/posts/thumb-jeonhyunmoo4-18-jinbat-noodles-20261101
 > 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 직접 방문한 후기가 아니며 메뉴·가격·영업시간은 달라질 수 있으니 방문 전 매장에 확인해 주세요.
 {: .prompt-tip }
 
-<a href="https://kty1476-stack.github.io/watch-today/posts/the-intern-mutual-respect/"><img src="{{ '/assets/img/posts/recommend-watch-20261101-v1.svg' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — 인턴 관전 포인트, 경험이 존중이 되려면 필요한 거리" width="720" height="237" loading="lazy"></a>
+<a href="https://kty1476-stack.github.io/watch-today/posts/the-intern-mutual-respect/"><img src="{{ '/assets/img/posts/recommend-the-intern-mutual-respect-20261110-v3.png' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — 인턴 관전 포인트, 경험이 존중이 되려면 필요한 거리" width="2172" height="724" style="width:100%;height:auto" loading="lazy"></a>

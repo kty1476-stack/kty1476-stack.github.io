@@ -41,4 +41,4 @@ SBS 《생활의 달인》 1045회는 2026년 8월 24일 ‘빵의 전쟁-부산
 > 이 글은 방송 및 공개된 자료를 바탕으로 정리했습니다. 메뉴·가격·영업시간은 달라질 수 있으므로 방문 전 매장에 확인해 주세요.
 {: .prompt-tip }
 
-<a href="https://kty1476-stack.github.io/watch-today/posts/walter-mitty-adventure-and-attention/"><img src="{{ '/assets/img/posts/recommend-watch-20261030-v1.svg' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — 월터의 상상은 현실이 된다 관전 포인트, 모험 뒤에도 남는 일상의 가치" width="720" height="301" loading="lazy"></a>
+<a href="https://kty1476-stack.github.io/watch-today/posts/walter-mitty-adventure-and-attention/"><img src="{{ '/assets/img/posts/recommend-walter-mitty-adventure-and-attention-20261110-v3.png' | relative_url }}" alt="다른 블로그 추천 글: 오늘 뭐보지 — 월터의 상상은 현실이 된다 관전 포인트, 모험 뒤에도 남는 일상의 가치" width="2172" height="724" style="width:100%;height:auto" loading="lazy"></a>
